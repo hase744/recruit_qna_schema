@@ -1,0 +1,105 @@
+{
+  "name": "領域",
+  "taxonomy": [
+    {
+      "key": "development",
+      "name": "開発",
+      "is_active": true,
+      "children": [
+        { "key": "server_side", "name": "サーバーサイド", "is_active": true },
+        { "key": "front_end", "name": "フロントエンド", "is_active": true },
+        { "key": "mobile", "name": "モバイル", "is_active": true },
+        { "key": "infrastructure", "name": "インフラ", "is_active": true },
+        { "key": "qa", "name": "QA", "is_active": true }
+      ]
+    },
+    {
+      "key": "sales",
+      "name": "セールス",
+      "is_active": true,
+      "children": [
+        { "key": "corporate_sales", "name": "法人営業", "is_active": true },
+        { "key": "individual_sales", "name": "個人営業", "is_active": true },
+        { "key": "inside_sales", "name": "インサイドセールス", "is_active": true }
+      ]
+    },
+    {
+      "key": "marketing",
+      "name": "マーケティング",
+      "is_active": true,
+      "children": [
+        { "key": "digital_marketing", "name": "デジタルマーケティング", "is_active": true },
+        { "key": "content_marketing", "name": "コンテンツマーケティング", "is_active": true },
+        { "key": "seo", "name": "SEO", "is_active": true },
+        { "key": "sns", "name": "SNS運用", "is_active": true },
+        { "key": "pr", "name": "広報・PR", "is_active": true },
+        { "key": "content_marketing", "name": "コンテンツマーケティング", "is_active": true },
+        { "key": "research", "name": "調査・リサーチ", "is_active": true }
+      ]
+    },
+    {
+      "key": "design",
+      "name": "クリエイティブ",
+      "is_active": true,
+      "children": [
+        { "key": "ui_ux_design", "name": "UI/UXデザイン", "is_active": true },
+        { "key": "graphic_design", "name": "グラフィックデザイン", "is_active": true },
+        { "key": "video_production", "name": "動画制作", "is_active": true },
+        { "key": "illustration", "name": "イラストレーション", "is_active": true }
+        
+      ]
+    },
+    {
+      "key": "corporate",
+      "name": "コーポレート",
+      "is_active": true,
+      "children": [
+        { "key": "hr", "name": "人事", "is_active": true },
+        { "key": "finance", "name": "経理・財務", "is_active": true },
+        { "key": "legal", "name": "法務", "is_active": true },
+        { "key": "general_affairs", "name": "総務", "is_active": true },
+        { "key": "hr", "name": "人事", "is_active": true }
+      ]
+    },
+    {
+      "key": "customer",
+      "name": "カスタマー対応",
+      "is_active": true,
+      "children": [
+        { "key": "customer_support", "name": "カスタマーサポート", "is_active": true },
+        { "key": "customer_success", "name": "カスタマーサクセス", "is_active": true },
+        { "key": "helpdesk", "name": "ヘルプデスク", "is_active": true }
+      ]
+    },
+    {
+      "key": "planning",
+      "name": "企画・事業推進",
+      "is_active": true,
+      "children": [
+        { "key": "business_planning", "name": "事業企画", "is_active": true },
+        { "key": "product_planning", "name": "プロダクト企画", "is_active": true },
+        { "key": "bizdev", "name": "BizDev", "is_active": true },
+        { "key": "alliance", "name": "アライアンス", "is_active": true }
+      ]
+    },
+    {
+      "key": "operations",
+      "name": "生産・運営",
+      "is_active": true,
+      "children": [
+        { "key": "store_operation", "name": "店舗運営", "is_active": true },
+        { "key": "factory", "name": "工場", "is_active": true },
+        { "key": "logistics", "name": "物流", "is_active": true }
+      ]
+    },
+    {
+      "key": "management",
+      "name": "経営",
+      "is_active": true,
+      "children": [
+        { "key": "executive", "name": "役員", "is_active": true },
+        { "key": "ceo", "name": "代表", "is_active": true }
+      ]
+    }
+  ]
+}

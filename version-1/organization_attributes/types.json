@@ -1,0 +1,19 @@
+{
+  "name": "組織タイプ",
+  "taxonomy": [
+    { "key": "company", "name": "企業本体" },
+    { "key": "holding", "name": "持株会社" },
+    { "key": "subsidiary", "name": "子会社" },
+    { "key": "branch", "name": "支社・支店" },
+    { "key": "department", "name": "部門・事業部" },
+    { "key": "division", "name": "カンパニー・ディビジョン" },
+    { "key": "office", "name": "営業所・出張所" },
+    { "key": "store", "name": "店舗" },
+    { "key": "factory", "name": "工場・製造拠点" },
+    { "key": "lab", "name": "研究所・開発センター" },
+    { "key": "school", "name": "学校・スクール" },
+    { "key": "club", "name": "サークル・部活" },
+    { "key": "online_salon", "name": "オンラインサロン" },
+    { "key": "custom", "name": "カスタム" }
+  ]
+}

@@ -1,0 +1,6 @@
+  {
+    "taxonomy": [
+      { "key": "fresh_graduate", "name": "新卒入社", "is_active": true  },
+      { "key": "career_change", "name": "中途入社", "is_active": true  }
+    ]
+  }

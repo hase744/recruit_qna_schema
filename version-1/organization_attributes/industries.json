@@ -1,0 +1,336 @@
+{
+  "name": "業界",
+  "taxonomy": [
+    {
+      "key": "it_communications",
+      "name": "IT・通信業界",
+      "children": [
+        { "key": "sier", "name": "システムインテグレータ（SIer）" },
+        { "key": "vendor", "name": "ベンダ（ハードウェア・ソフトウェア）" },
+        { "key": "it_consulting", "name": "ITコンサルティング" },
+        { "key": "telecom_isp", "name": "通信キャリア・ISP・データセンター" },
+        { "key": "it_outsourcing", "name": "ITアウトソーシング" },
+        { "key": "game", "name": "ゲーム（オンライン・ソーシャル）" }
+      ]
+    },
+    {
+      "key": "internet_advertising_media",
+      "name": "インターネット・広告・メディア業界",
+      "children": [
+        { "key": "integrated_ad_agency", "name": "総合広告代理店" },
+        { "key": "ad_production", "name": "広告制作" },
+        { "key": "sp_agency", "name": "SP代理店（イベント・販促提案など）" },
+        { "key": "broadcast_publishing", "name": "放送・新聞・出版" },
+        { "key": "web_marketing", "name": "Webマーケティング（広告代理店・コンサルティング・制作）" },
+        { "key": "web_service", "name": "Webサービス・Webメディア（EC・ポータル・ソーシャル）" },
+        { "key": "specialized_ad_agency", "name": "専門広告代理店（雑誌・新聞・交通・屋外・折込など）" },
+        { "key": "pr_agency", "name": "PR会社・代理店" },
+        { "key": "printing", "name": "印刷" }
+      ]
+    },
+    {
+      "key": "manufacturer_machinery_electronics",
+      "name": "メーカー（機械・電気）業界",
+      "children": [
+        { "key": "industrial_equipment_maker", "name": "産業用装置（工作機械・半導体製造装置・ロボットなど）メーカー" },
+        { "key": "machinery_parts_maker", "name": "機械部品・金型メーカー" },
+        { "key": "electronics_maker", "name": "家電・モバイル・ネットワーク機器・複写機・プリンタメーカー" },
+        { "key": "electronic_parts_maker", "name": "電子部品メーカー" },
+        { "key": "semiconductor_maker", "name": "半導体メーカー" },
+        { "key": "amusement_maker", "name": "アミューズメント・エンタメ・ゲームメーカー" },
+        { "key": "precision_instrument_maker", "name": "精密機器・計測機器・光学機器・分析機器メーカー" },
+        { "key": "automotive_maker", "name": "自動車・バイク（四輪・二輪）メーカー" },
+        { "key": "auto_parts_maker", "name": "自動車部品メーカー" },
+        { "key": "construction_equipment_maker", "name": "建設機械・その他輸送機器メーカー" },
+        { "key": "contract_processing", "name": "受託加工業（各種加工・表面処理）" },
+        { "key": "comprehensive_electronics_maker", "name": "総合電機メーカー" },
+        { "key": "shipbuilding_heavy_industry", "name": "造船・重工業" }
+      ]
+    },
+    {
+      "key": "manufacturer_materials_chemicals",
+      "name": "メーカー（素材・化学・食品・化粧品・その他）業界",
+      "children": [
+        { "key": "comprehensive_chemical_maker", "name": "総合化学メーカー" },
+        { "key": "petrochemical_maker", "name": "石油化学メーカー" },
+        { "key": "functional_chemical_organic_maker", "name": "機能性化学（有機・高分子）メーカー" },
+        { "key": "functional_chemical_inorganic_maker", "name": "機能性化学（無機・ガラス・カーボン・セラミック・セメント・窯業）メーカー" },
+        { "key": "paper_pulp_maker", "name": "製紙・パルプメーカー" },
+        { "key": "textile_maker", "name": "繊維メーカー" },
+        { "key": "metal_mining_maker", "name": "金属・製綱・鉱業・非鉄金属メーカー" },
+        { "key": "reagent_maker", "name": "試薬メーカー・受託合成・受託分析" },
+        { "key": "food_beverage_maker", "name": "食品・飲料メーカー（原料含む）" },
+        { "key": "tobacco_maker", "name": "たばこメーカー" },
+        { "key": "cosmetics_maker", "name": "化粧品メーカー" },
+        { "key": "toiletry_maker", "name": "トイレタリーメーカー" },
+        { "key": "fragrance_maker", "name": "香料メーカー" },
+        { "key": "pesticide_maker", "name": "農薬メーカー" },
+        { "key": "fertilizer_maker", "name": "肥料メーカー" },
+        { "key": "feed_maker", "name": "飼料メーカー" },
+        { "key": "nanotech_bio_maker", "name": "ナノテク・バイオメーカー" },
+        { "key": "housing_building_material_maker", "name": "住宅設備・建材メーカー" },
+        { "key": "fashion_apparel_maker", "name": "ファッション・アパレル・アクセサリーメーカー" },
+        { "key": "furniture_interior_maker", "name": "家具・インテリア・生活雑貨メーカー" },
+        { "key": "stationery_office_maker", "name": "文房具・事務・オフィス用品メーカー" },
+        { "key": "sports_outdoor_maker", "name": "スポーツ・アウトドア・レジャー用品メーカー" },
+        { "key": "toy_maker", "name": "玩具メーカー" },
+        { "key": "baby_product_maker", "name": "ベビー用品メーカー" },
+        { "key": "pet_product_maker", "name": "ペット関連メーカー" },
+        { "key": "other_maker", "name": "その他メーカー" }
+      ]
+    },
+    {
+      "key": "trading_company",
+      "name": "商社業界",
+      "children": [
+        { "key": "general_trading", "name": "総合商社" },
+        { "key": "industrial_equipment_trading", "name": "産業用装置（工作機械・半導体製造装置・ロボットなど）商社" },
+        { "key": "machinery_parts_trading", "name": "機械部品・金型 （商社）" },
+        { "key": "electronics_trading", "name": "家電 （商社）" },
+        { "key": "copier_printer_trading", "name": "複写機・プリンタ （商社）" },
+        { "key": "semiconductor_trading", "name": "半導体 （商社）" },
+        { "key": "electronic_parts_trading", "name": "電子部品 （商社）" },
+        { "key": "amusement_trading", "name": "アミューズメント・遊戯機器 （商社）" },
+        { "key": "game_trading", "name": "ゲーム （商社）" },
+        { "key": "precision_instrument_trading", "name": "計測機器・光学機器・精密機器・分析機器 （商社）" },
+        { "key": "auto_parts_trading", "name": "自動車部品 （商社）" },
+        { "key": "construction_equipment_trading", "name": "建設機械・その他輸送機器 （商社）" },
+        { "key": "other_electronics_trading", "name": "その他電気・電子・機械 （商社）" },
+        { "key": "chemical_pharma_trading", "name": "化学・医薬原料（有機・高分子） 商社" },
+        { "key": "resin_trading", "name": "樹脂部品・樹脂製品 （商社）" },
+        { "key": "inorganic_chemical_trading", "name": "化学品（無機・ガラス・カーボン・セラミック・セメント・窯業） 商社" },
+        { "key": "daily_goods_trading", "name": "日用品・雑貨 （商社）" },
+        { "key": "toy_trading", "name": "玩具 （商社）" },
+        { "key": "apparel_textile_trading", "name": "アパレル・繊維 （商社）" },
+        { "key": "sports_leisure_trading", "name": "スポーツ・レジャー用品 （商社）" },
+        { "key": "stationery_trading", "name": "文具・事務機器関連 （商社）" },
+        { "key": "jewelry_trading", "name": "宝飾品・貴金属 （商社）" },
+        { "key": "paper_wood_trading", "name": "紙・パルプ・木材 （商社）" },
+        { "key": "energy_trading", "name": "エネルギー （商社）" },
+        { "key": "feed_fertilizer_trading", "name": "飼料・肥料・農薬 （商社）" },
+        { "key": "mining_steel_trading", "name": "鉱業・金属製品・鉄鋼 （商社）" },
+        { "key": "nonferrous_metal_trading", "name": "非鉄金属 （商社）" },
+        { "key": "other_chemical_trading", "name": "その他化学・素材・食品・エネルギー （商社）" },
+        { "key": "automotive_trading", "name": "自動車（インポーター・販売） 商社" },
+        { "key": "food_beverage_trading", "name": "食品・飲料・たばこ （商社）" },
+        { "key": "book_magazine_trading", "name": "書籍・雑誌 （商社）" },
+        { "key": "other_trading", "name": "その他商社" },
+        { "key": "building_material_trading", "name": "建材 （商社）" }
+      ]
+    },
+    {
+      "key": "pharma_medical_lifescience",
+      "name": "医薬品・医療機器・ライフサイエンス・医療系サービス",
+      "children": [
+        { "key": "pharma_maker", "name": "医薬品メーカー業界" },
+        { "key": "medical_device_maker", "name": "医療機器メーカー業界" },
+        { "key": "pharma_wholesale", "name": "医薬品卸" },
+        { "key": "medical_device_wholesale", "name": "医療機器卸" },
+        { "key": "cro", "name": "CRO" },
+        { "key": "hospital_clinic", "name": "病院・大学病院・クリニック" },
+        { "key": "pharmacy_drugstore", "name": "調剤薬局・ドラッグストア業界" },
+        { "key": "bio_venture", "name": "バイオベンチャー業界" },
+        { "key": "university_research", "name": "大学・研究施設" },
+        { "key": "nursing_welfare", "name": "介護・福祉関連サービス" },
+        { "key": "other_medical", "name": "その他医療関連" },
+        { "key": "diagnostic_maker", "name": "診断薬・臨床検査機器・臨床検査試薬メーカー" },
+        { "key": "smo", "name": "SMO" },
+        { "key": "cso", "name": "CSO" },
+        { "key": "cmo", "name": "CMO" },
+        { "key": "medical_consulting", "name": "医療コンサルティング" },
+        { "key": "medical_marketing", "name": "医療広告代理店・出版社・マーケティング・リサーチ" }
+      ]
+    },
+    {
+      "key": "finance",
+      "name": "金融業界",
+      "children": [
+        { "key": "city_bank", "name": "都市銀行" },
+        { "key": "regional_bank", "name": "地方銀行" },
+        { "key": "trust_bank", "name": "信託銀行" },
+        { "key": "other_bank", "name": "その他銀行" },
+        { "key": "credit_union", "name": "信用金庫・信用組合・労働金庫" },
+        { "key": "securities", "name": "証券会社" },
+        { "key": "life_insurance", "name": "生命保険" },
+        { "key": "nonlife_insurance", "name": "損害保険" },
+        { "key": "insurance_agency", "name": "保険代理店" },
+        { "key": "credit_nonbank", "name": "クレジット・信販（ノンバンク）" },
+        { "key": "consumer_finance", "name": "消費者金融" },
+        { "key": "mortgage", "name": "住宅ローン" },
+        { "key": "stock_exchange", "name": "証券取引所" },
+        { "key": "investment_trust", "name": "投信・投資顧問" },
+        { "key": "venture_capital", "name": "ベンチャーキャピタル・プライベートエクイティ" },
+        { "key": "debt_collection", "name": "債権回収（サービサー）" },
+        { "key": "commodity_futures", "name": "商品先物取引" },
+        { "key": "forex", "name": "外国為替" },
+        { "key": "leasing", "name": "リース" },
+        { "key": "short_term_money", "name": "短資" },
+        { "key": "rating_agency", "name": "格付会社" },
+        { "key": "other_finance", "name": "その他金融" },
+        { "key": "financial_info_vendor", "name": "金融情報ベンダー" }
+      ]
+    },
+    {
+      "key": "construction_real_estate",
+      "name": "建設・プラント・不動産業界",
+      "children": [
+        { "key": "architecture_design", "name": "建築設計事務所" },
+        { "key": "construction_consulting", "name": "建設コンサルタント" },
+        { "key": "plant_engineering", "name": "プラントメーカー・プラントエンジニアリング" },
+        { "key": "housing_equipment", "name": "住宅設備・建材" },
+        { "key": "general_contractor", "name": "ゼネコン" },
+        { "key": "subcontractor", "name": "サブコン" },
+        { "key": "house_maker", "name": "住宅（ハウスメーカー）" },
+        { "key": "renovation_interior", "name": "リフォーム・内装・インテリア" },
+        { "key": "developer", "name": "ディベロッパー" },
+        { "key": "real_estate_agency", "name": "不動産仲介" },
+        { "key": "property_management", "name": "不動産管理" },
+        { "key": "facility_maintenance", "name": "設備管理・メンテナンス" },
+        { "key": "land_use", "name": "土地活用" },
+        { "key": "real_estate_finance", "name": "不動産金融" }
+      ]
+    },
+    {
+      "key": "consulting_research",
+      "name": "コンサルティング・リサーチ業界・専門事務所・監査法人・税理士法人",
+      "children": [
+        { "key": "management_consulting", "name": "経営・戦略コンサルティング" },
+        { "key": "hr_consulting", "name": "組織人事コンサルティング" },
+        { "key": "financial_advisory", "name": "財務・会計アドバイザリー（FAS）" },
+        { "key": "risk_consulting", "name": "リスクコンサルティング" },
+        { "key": "other_consulting", "name": "その他専門コンサルティング" },
+        { "key": "think_tank", "name": "シンクタンク" },
+        { "key": "marketing_research", "name": "マーケティング・リサーチ" },
+        { "key": "audit_firm", "name": "監査法人" },
+        { "key": "tax_firm", "name": "税理士法人" },
+        { "key": "law_firm", "name": "法律事務所" },
+        { "key": "accounting_firm", "name": "会計事務所" },
+        { "key": "patent_firm", "name": "特許事務所・弁理士事務所" },
+        { "key": "judicial_scrivener_firm", "name": "司法書士事務所・行政書士事務所" },
+        { "key": "labor_social_security_firm", "name": "社会保険労務士事務所" },
+        { "key": "comprehensive_consulting", "name": "総合コンサルティング" }
+      ]
+    },
+    {
+      "key": "hr_outsourcing",
+      "name": "人材サービス・アウトソーシング業界・コールセンター",
+      "children": [
+        { "key": "staffing_placement", "name": "人材紹介・職業紹介" },
+        { "key": "temp_staffing", "name": "人材派遣" },
+        { "key": "job_media", "name": "求人サイト・求人メディア" },
+        { "key": "training_service", "name": "研修サービス" },
+        { "key": "tech_outsourcing", "name": "技術系アウトソーシング（特定技術者派遣）" },
+        { "key": "outsourcing", "name": "アウトソーシング" },
+        { "key": "call_center", "name": "コールセンター" }
+      ]
+    },
+    {
+      "key": "retail",
+      "name": "小売業界",
+      "children": [
+        { "key": "department_store", "name": "百貨店" },
+        { "key": "grocery_discount_store", "name": "食品・GMS・ディスカウントストア" },
+        { "key": "convenience_store", "name": "コンビニエンスストア" },
+        { "key": "home_center", "name": "ホームセンター" },
+        { "key": "auto_dealer", "name": "自動車ディーラー" },
+        { "key": "mail_order", "name": "通信販売・ネット販売" },
+        { "key": "drugstore", "name": "ドラッグストア・調剤薬局" },
+        { "key": "electronics_specialty_store", "name": "専門店（家電量販店）" },
+        { "key": "apparel_specialty_store", "name": "専門店（アパレル・アクセサリー）" },
+        { "key": "other_specialty_store", "name": "専門店・その他小売" }
+      ]
+    },
+    {
+      "key": "food_service",
+      "name": "外食産業・飲食業界",
+      "children": [
+        { "key": "izakaya_bar", "name": "居酒屋・バー" },
+        { "key": "fast_food", "name": "ファーストフード関連" }
+      ]
+    },
+    {
+      "key": "transportation_logistics",
+      "name": "運輸・物流業界",
+      "children": [
+        { "key": "railway", "name": "鉄道業" },
+        { "key": "road_freight", "name": "道路貨物運送業（宅配便・トラック運送など）" },
+        { "key": "road_passenger", "name": "道路旅客運送業" },
+        { "key": "maritime", "name": "海運業" },
+        { "key": "aviation", "name": "航空運輸業" },
+        { "key": "warehousing", "name": "倉庫業・梱包業" }
+      ]
+    },
+    {
+      "key": "energy",
+      "name": "エネルギー（電力・ガス・石油・新エネルギー）業界",
+      "children": [
+        { "key": "oil_resources", "name": "石油・資源" },
+        { "key": "electric_power", "name": "電力" },
+        { "key": "gas", "name": "ガス" },
+        { "key": "new_energy", "name": "新エネルギー（太陽光・風力・地熱・バイオなど）" }
+      ]
+    },
+    {
+      "key": "travel_accommodation_leisure",
+      "name": "旅行・宿泊・レジャー業界",
+      "children": [
+        { "key": "travel_agency", "name": "旅行・旅行代理業" },
+        { "key": "hotel", "name": "ホテル・旅館・宿泊施設" },
+        { "key": "leisure_amusement", "name": "レジャー・アミューズメント" },
+        { "key": "sports_health_facility", "name": "スポーツ・ヘルス関連施設" }
+      ]
+    },
+    {
+      "key": "security_cleaning",
+      "name": "警備・清掃業界",
+      "children": [
+        { "key": "security_cleaning_service", "name": "警備・清掃" }
+      ]
+    },
+    {
+      "key": "beauty_wellness",
+      "name": "理容・美容・エステ業界",
+      "children": [
+        { "key": "beauty_salon", "name": "理容・美容・エステ" }
+      ]
+    },
+    {
+      "key": "education",
+      "name": "教育業界",
+      "children": [
+        { "key": "cram_school", "name": "学習塾・予備校・専門学校" },
+        { "key": "other_school", "name": "その他・各種スクール" }
+      ]
+    },
+    {
+      "key": "agriculture_fishery_mining",
+      "name": "農林水産・鉱業",
+      "children": [
+        { "key": "fishery_agriculture_mining", "name": "水産・農林・鉱業" }
+      ]
+    },
+    {
+      "key": "public_government",
+      "name": "公社・官公庁・学校・研究施設",
+      "children": [
+        { "key": "public_government_institution", "name": "公社・官公庁・学校・研究施設" }
+      ]
+    },
+    {
+      "key": "wedding_funeral",
+      "name": "冠婚葬祭業界",
+      "children": [
+        { "key": "funeral", "name": "葬儀" },
+        { "key": "bridal_wedding", "name": "ブライダル・ウェディング" }
+      ]
+    },
+    {
+      "key": "other",
+      "name": "その他",
+      "children": [
+        { "key": "special_corporation", "name": "特殊法人・財団法人・その他団体・連合会" },
+        { "key": "other_industry", "name": "その他" }
+      ]
+    }
+  ]
+}

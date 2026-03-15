@@ -1,0 +1,45 @@
+{
+  "taxonomy": [
+    {
+      "key": "executive_titles",
+      "name": "経営系役職", 
+      "is_active": true,
+      "children": [
+        { "key": "ceo", "name": "CEO", "is_active": true },
+        { "key": "coo", "name": "COO", "is_active": true },
+        { "key": "cio", "name": "CIO", "is_active": true },
+        { "key": "cto", "name": "CTO", "is_active": true },
+        { "key": "cdo", "name": "CDO", "is_active": true },
+        { "key": "cbo", "name": "CBO", "is_active": true },
+        { "key": "cpo", "name": "CPO", "is_active": true },
+        { "key": "cfo", "name": "CFO", "is_active": true },
+        { "key": "cmo", "name": "CMO", "is_active": true },
+        { "key": "chro", "name": "CHRO", "is_active": true },
+        { "key": "director", "name": "取締役", "is_active": true },
+        { "key": "executive_officer", "name": "執行役員", "is_active": true }
+      ] 
+    },
+    {
+      "key": "management_titles",
+      "name": "管理系役職", 
+      "is_active": true,
+      "children": [
+        { "key": "general_manager", "name": "本部長", "is_active": true },
+        { "key": "division_head", "name": "事業部長", "is_active": true },
+        { "key": "department_head", "name": "部長", "is_active": true },
+        { "key": "section_manager", "name": "課長", "is_active": true },
+        { "key": "team_manager", "name": "マネージャー", "is_active": true }
+      ] 
+    },
+    {
+      "key": "lead_titles",
+      "name": "リーダー系役職", 
+      "is_active": true,
+      "children": [
+        { "key": "leader", "name": "リーダー", "is_active": true },
+        { "key": "chief", "name": "チーフ", "is_active": true },
+        { "key": "supervisor", "name": "主任", "is_active": true }
+      ] 
+    }
+  ]
+}
