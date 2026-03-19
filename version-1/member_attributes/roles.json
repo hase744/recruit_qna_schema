@@ -1,47 +1,28 @@
 {
   "taxonomy": [
     {
-      "key": "product_management",
-      "name": "プロダクトマネジメント",
+      "key": "manager",
+      "name": "マネージャー",
       "is_active": true,
       "children": [
         { "key": "pm", "name": "PM", "is_active": true },
         { "key": "pdm", "name": "PdM", "is_active": true },
-        { "key": "product_owner", "name": "プロダクトオーナー", "is_active": true }
-      ]
-    },
-    {
-      "key": "technical_leadership",
-      "name": "技術リード",
-      "is_active": true,
-      "children": [
-        { "key": "tech_lead", "name": "テックリード", "is_active": true },
-        { "key": "architect", "name": "アーキテクト", "is_active": true },
-        { "key": "sre", "name": "SRE", "is_active": true }
-      ]
-    },
-    {
-      "key": "project_management",
-      "name": "プロジェクト管理",
-      "is_active": true,
-      "children": [
-        { "key": "project_manager", "name": "プロジェクトマネージャー", "is_active": true },
+        { "key": "product_owner", "name": "プロダクトオーナー", "is_active": true },
         { "key": "scrum_master", "name": "スクラムマスター", "is_active": true }
       ]
     },
     {
-      "key": "business_specialist",
-      "name": "ビジネス専門職",
+      "key": "technical_expert",
+      "name": "テクニカルエキスパート",
       "is_active": true,
       "children": [
-        { "key": "consultant", "name": "コンサルタント", "is_active": true },
-        { "key": "analyst", "name": "アナリスト", "is_active": true },
-        { "key": "account_manager", "name": "アカウントマネージャー", "is_active": true }
+        { "key": "tech_lead", "name": "テックリード", "is_active": true },
+        { "key": "architect", "name": "アーキテクト", "is_active": true }
       ]
     },
     {
       "key": "corporate_specialist",
-      "name": "コーポレート専門職",
+      "name": "コーポレートスペシャリスト",
       "is_active": true,
       "children": [
         { "key": "hrbp", "name": "HRBP", "is_active": true },
@@ -52,7 +33,7 @@
     },
     {
       "key": "customer_specialist",
-      "name": "カスタマー専門職",
+      "name": "カスタマースペシャリスト",
       "is_active": true,
       "children": [
         { "key": "customer_success_manager", "name": "カスタマーサクセスマネージャー", "is_active": true },

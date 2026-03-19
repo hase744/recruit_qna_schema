@@ -24,10 +24,12 @@
       "name": "管理系役職", 
       "is_active": true,
       "children": [
-        { "key": "general_manager", "name": "本部長", "is_active": true },
-        { "key": "division_head", "name": "事業部長", "is_active": true },
+        { "key": "section_head", "name": "係長", "is_active": true },
+        { "key": "supervisor", "name": "主任", "is_active": true },
         { "key": "department_head", "name": "部長", "is_active": true },
         { "key": "section_manager", "name": "課長", "is_active": true },
+        { "key": "general_manager", "name": "本部長", "is_active": true },
+        { "key": "division_head", "name": "事業部長", "is_active": true },
         { "key": "team_manager", "name": "マネージャー", "is_active": true }
       ] 
     },

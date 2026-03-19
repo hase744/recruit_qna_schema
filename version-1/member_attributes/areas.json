@@ -8,9 +8,23 @@
       "children": [
         { "key": "server_side", "name": "サーバーサイド", "is_active": true },
         { "key": "front_end", "name": "フロントエンド", "is_active": true },
-        { "key": "mobile", "name": "モバイル", "is_active": true },
+        { "key": "mobile_app", "name": "モバイルアプリ", "is_active": true },
         { "key": "infrastructure", "name": "インフラ", "is_active": true },
+        { "key": "sre", "name": "SRE", "is_active": true },
         { "key": "qa", "name": "QA", "is_active": true }
+      ]
+    },
+    {
+      "key": "data",
+      "name": "データ・AI",
+      "is_active": true,
+      "children": [
+        { "key": "data_analysis", "name": "データ分析", "is_active": true },
+        { "key": "data_engineering", "name": "データ基盤", "is_active": true },
+        { "key": "machine_learning", "name": "機械学習", "is_active": true },
+        { "key": "ai_development", "name": "AI開発", "is_active": true },
+        { "key": "bi", "name": "BI・可視化", "is_active": true },
+        { "key": "mlops", "name": "MLOps", "is_active": true }
       ]
     },
     {
@@ -76,8 +90,10 @@
       "name": "企画・事業推進",
       "is_active": true,
       "children": [
+        { "key": "management_planning", "name": "経営企画", "is_active": true },
         { "key": "business_planning", "name": "事業企画", "is_active": true },
-        { "key": "product_planning", "name": "プロダクト企画", "is_active": true },
+        { "key": "sales_planning", "name": "営業企画", "is_active": true },
+        { "key": "product_planning", "name": "商品企画", "is_active": true },
         { "key": "bizdev", "name": "BizDev", "is_active": true },
         { "key": "alliance", "name": "アライアンス", "is_active": true }
       ]
