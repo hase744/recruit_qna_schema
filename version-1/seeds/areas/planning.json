@@ -1,0 +1,68 @@
+{
+  "patterns": [
+    {
+      "key": "cpo",
+      "name": "CPO",
+      "area": ["product_planning", "business_planning"],
+      "role": null,
+      "title": "cpo",
+      "source": "career_change"
+    },
+    {
+      "key": "pm",
+      "name": "プロダクトマネージャー",
+      "area": ["product_planning"],
+      "role": "pm",
+      "title": "team_manager",
+      "source": "career_change"
+    },
+    {
+      "key": "pdm",
+      "name": "プロダクトデザインマネージャー",
+      "area": ["product_planning"],
+      "role": "pdm",
+      "title": "team_manager",
+      "source": "career_change"
+    },
+    {
+      "key": "product_owner",
+      "name": "プロダクトオーナー",
+      "area": ["product_planning"],
+      "role": "product_owner",
+      "title": null,
+      "source": "career_change"
+    },
+    {
+      "key": "scrum_master",
+      "name": "スクラムマスター",
+      "area": ["product_planning"],
+      "role": "scrum_master",
+      "title": null,
+      "source": "career_change"
+    },
+    {
+      "key": "management_planning",
+      "name": "経営企画担当",
+      "area": ["management_planning"],
+      "role": null,
+      "title": null,
+      "source": "career_change"
+    },
+    {
+      "key": "bizdev",
+      "name": "BizDev担当",
+      "area": ["bizdev", "alliance"],
+      "role": null,
+      "title": null,
+      "source": "career_change"
+    },
+    {
+      "key": "sales_planning",
+      "name": "営業企画担当",
+      "area": ["sales_planning"],
+      "role": null,
+      "title": null,
+      "source": "career_change"
+    }
+  ]
+}

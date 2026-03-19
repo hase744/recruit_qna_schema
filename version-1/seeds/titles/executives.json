@@ -1,0 +1,100 @@
+{
+  "patterns": [
+    {
+      "key": "ceo",
+      "name": "CEO",
+      "area": ["ceo"],
+      "role": null,
+      "title": "ceo",
+      "source": "career_change"
+    },
+    {
+      "key": "coo",
+      "name": "COO",
+      "area": ["executive"],
+      "role": null,
+      "title": "coo",
+      "source": "career_change"
+    },
+    {
+      "key": "cto",
+      "name": "CTO",
+      "area": ["server_side", "infrastructure"],
+      "role": "architect",
+      "title": "cto",
+      "source": "career_change"
+    },
+    {
+      "key": "cio",
+      "name": "CIO",
+      "area": ["infrastructure", "data_engineering"],
+      "role": null,
+      "title": "cio",
+      "source": "career_change"
+    },
+    {
+      "key": "cdo",
+      "name": "CDO",
+      "area": ["data_engineering", "machine_learning"],
+      "role": "architect",
+      "title": "cdo",
+      "source": "career_change"
+    },
+    {
+      "key": "cpo",
+      "name": "CPO",
+      "area": ["product_planning", "business_planning"],
+      "role": null,
+      "title": "cpo",
+      "source": "career_change"
+    },
+    {
+      "key": "cfo",
+      "name": "CFO",
+      "area": ["finance"],
+      "role": null,
+      "title": "cfo",
+      "source": "career_change"
+    },
+    {
+      "key": "cmo",
+      "name": "CMO",
+      "area": ["digital_marketing", "pr"],
+      "role": null,
+      "title": "cmo",
+      "source": "career_change"
+    },
+    {
+      "key": "chro",
+      "name": "CHRO",
+      "area": ["hr"],
+      "role": null,
+      "title": "chro",
+      "source": "career_change"
+    },
+    {
+      "key": "cbo",
+      "name": "CBO",
+      "area": ["bizdev", "alliance"],
+      "role": null,
+      "title": "cbo",
+      "source": "career_change"
+    },
+    {
+      "key": "director",
+      "name": "取締役",
+      "area": ["executive"],
+      "role": null,
+      "title": "director",
+      "source": "career_change"
+    },
+    {
+      "key": "executive_officer",
+      "name": "執行役員",
+      "area": ["executive"],
+      "role": null,
+      "title": "executive_officer",
+      "source": "career_change"
+    }
+  ]
+}

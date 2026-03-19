@@ -1,0 +1,92 @@
+{
+  "patterns": [
+    {
+      "key": "general_manager_planning",
+      "name": "本部長（経営企画）",
+      "area": ["management_planning"],
+      "role": null,
+      "title": "general_manager",
+      "source": "career_change"
+    },
+    {
+      "key": "division_head_sales",
+      "name": "事業部長（セールス）",
+      "area": ["corporate_sales"],
+      "role": null,
+      "title": "division_head",
+      "source": "career_change"
+    },
+    {
+      "key": "division_head_development",
+      "name": "事業部長（開発）",
+      "area": ["server_side", "front_end"],
+      "role": null,
+      "title": "division_head",
+      "source": "career_change"
+    },
+    {
+      "key": "department_head_sales",
+      "name": "部長（セールス）",
+      "area": ["corporate_sales"],
+      "role": null,
+      "title": "department_head",
+      "source": "career_change"
+    },
+    {
+      "key": "department_head_corporate",
+      "name": "部長（コーポレート）",
+      "area": ["hr", "general_affairs"],
+      "role": null,
+      "title": "department_head",
+      "source": "career_change"
+    },
+    {
+      "key": "section_manager_marketing",
+      "name": "課長（マーケティング）",
+      "area": ["digital_marketing"],
+      "role": null,
+      "title": "section_manager",
+      "source": "career_change"
+    },
+    {
+      "key": "section_manager_engineering",
+      "name": "課長（エンジニアリング）",
+      "area": ["server_side"],
+      "role": null,
+      "title": "section_manager",
+      "source": "career_change"
+    },
+    {
+      "key": "team_manager_cs",
+      "name": "マネージャー（カスタマーサクセス）",
+      "area": ["customer_success"],
+      "role": "customer_success_manager",
+      "title": "team_manager",
+      "source": "career_change"
+    },
+    {
+      "key": "team_manager_product",
+      "name": "マネージャー（プロダクト）",
+      "area": ["product_planning"],
+      "role": "pm",
+      "title": "team_manager",
+      "source": "career_change"
+    },
+    {
+      "key": "section_head_finance",
+      "name": "係長（経理）",
+      "area": ["finance"],
+      "role": null,
+      "title": "section_head",
+      "source": "career_change"
+    },
+    {
+      "key": "supervisor_hr",
+      "name": "主任（人事）",
+      "area": ["hr"],
+      "role": null,
+      "title": "supervisor",
+      "source": "career_change"
+    }
+  ]
+}

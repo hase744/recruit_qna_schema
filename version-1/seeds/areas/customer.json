@@ -1,0 +1,52 @@
+{
+  "patterns": [
+    {
+      "key": "customer_success_manager",
+      "name": "カスタマーサクセスマネージャー",
+      "area": ["customer_success"],
+      "role": "customer_success_manager",
+      "title": "team_manager",
+      "source": "career_change"
+    },
+    {
+      "key": "customer_success",
+      "name": "カスタマーサクセス担当",
+      "area": ["customer_success"],
+      "role": null,
+      "title": null,
+      "source": "career_change"
+    },
+    {
+      "key": "onboarding_specialist",
+      "name": "オンボーディング担当",
+      "area": ["customer_success"],
+      "role": "onboarding_specialist",
+      "title": null,
+      "source": "career_change"
+    },
+    {
+      "key": "customer_support_lead",
+      "name": "カスタマーサポートリーダー",
+      "area": ["customer_support"],
+      "role": null,
+      "title": "leader",
+      "source": "career_change"
+    },
+    {
+      "key": "customer_support",
+      "name": "カスタマーサポート担当",
+      "area": ["customer_support"],
+      "role": null,
+      "title": null,
+      "source": "fresh_graduate"
+    },
+    {
+      "key": "helpdesk",
+      "name": "ヘルプデスク担当",
+      "area": ["helpdesk"],
+      "role": null,
+      "title": null,
+      "source": "fresh_graduate"
+    }
+  ]
+}

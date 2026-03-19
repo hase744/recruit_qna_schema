@@ -1,9 +1,0 @@
-{
-  "taxonomy": [
-    { "key": "executive", "name": "経営層", "is_active": true  },
-    { "key": "senior_management", "name": "部門責任者", "is_active": true  },
-    { "key": "manager", "name": "管理職", "is_active": true  },
-    { "key": "leader", "name": "リーダー", "is_active": true  },
-    { "key": "member", "name": "メンバー", "is_active": true  }
-  ]
-}

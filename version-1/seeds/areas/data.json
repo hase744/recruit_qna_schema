@@ -1,0 +1,68 @@
+{
+  "patterns": [
+    {
+      "key": "cdo",
+      "name": "CDO",
+      "area": ["data_engineering", "machine_learning"],
+      "role": "architect",
+      "title": "cdo",
+      "source": "career_change"
+    },
+    {
+      "key": "data_engineer_lead",
+      "name": "データエンジニア（リード）",
+      "area": ["data_engineering"],
+      "role": "tech_lead",
+      "title": "leader",
+      "source": "career_change"
+    },
+    {
+      "key": "data_engineer",
+      "name": "データエンジニア",
+      "area": ["data_engineering"],
+      "role": null,
+      "title": null,
+      "source": "career_change"
+    },
+    {
+      "key": "data_analyst",
+      "name": "データアナリスト",
+      "area": ["data_analysis", "bi"],
+      "role": null,
+      "title": null,
+      "source": "career_change"
+    },
+    {
+      "key": "ml_engineer",
+      "name": "機械学習エンジニア",
+      "area": ["machine_learning", "ai_development"],
+      "role": null,
+      "title": null,
+      "source": "career_change"
+    },
+    {
+      "key": "ai_researcher",
+      "name": "AI研究開発エンジニア",
+      "area": ["ai_development", "machine_learning"],
+      "role": null,
+      "title": null,
+      "source": "career_change"
+    },
+    {
+      "key": "bi_engineer",
+      "name": "BIエンジニア",
+      "area": ["bi", "data_analysis"],
+      "role": null,
+      "title": null,
+      "source": "career_change"
+    },
+    {
+      "key": "mlops_engineer",
+      "name": "MLOpsエンジニア",
+      "area": ["mlops", "infrastructure"],
+      "role": null,
+      "title": null,
+      "source": "career_change"
+    }
+  ]
+}

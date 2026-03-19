@@ -1,0 +1,68 @@
+{
+  "patterns": [
+    {
+      "key": "sales_department_head",
+      "name": "営業部長",
+      "area": ["corporate_sales"],
+      "role": null,
+      "title": "department_head",
+      "source": "career_change"
+    },
+    {
+      "key": "sales_manager",
+      "name": "営業マネージャー",
+      "area": ["corporate_sales"],
+      "role": null,
+      "title": "section_manager",
+      "source": "career_change"
+    },
+    {
+      "key": "enterprise_sales_lead",
+      "name": "エンタープライズ営業（リーダー）",
+      "area": ["corporate_sales"],
+      "role": null,
+      "title": "leader",
+      "source": "career_change"
+    },
+    {
+      "key": "corporate_sales_mid",
+      "name": "法人営業（中途）",
+      "area": ["corporate_sales"],
+      "role": null,
+      "title": null,
+      "source": "career_change"
+    },
+    {
+      "key": "corporate_sales_new_grad",
+      "name": "法人営業（新卒）",
+      "area": ["corporate_sales"],
+      "role": null,
+      "title": null,
+      "source": "fresh_graduate"
+    },
+    {
+      "key": "inside_sales",
+      "name": "インサイドセールス",
+      "area": ["inside_sales"],
+      "role": null,
+      "title": null,
+      "source": "career_change"
+    },
+    {
+      "key": "individual_sales",
+      "name": "個人営業",
+      "area": ["individual_sales"],
+      "role": null,
+      "title": null,
+      "source": "career_change"
+    },
+    {
+      "key": "field_sales_lead",
+      "name": "フィールドセールスリーダー",
+      "area": ["corporate_sales", "inside_sales"],
+      "role": null,
+      "title": "leader",
+      "source": "career_change"
+    }
+  ]
+}

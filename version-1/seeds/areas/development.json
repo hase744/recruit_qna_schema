@@ -1,0 +1,84 @@
+{
+  "patterns": [
+    {
+      "key": "architect",
+      "name": "アーキテクト",
+      "area": ["server_side", "infrastructure"],
+      "role": "architect",
+      "title": "cto",
+      "source": "career_change"
+    },
+    {
+      "key": "backend_lead",
+      "name": "バックエンドエンジニア（リード）",
+      "area": ["server_side"],
+      "role": "tech_lead",
+      "title": "leader",
+      "source": "career_change"
+    },
+    {
+      "key": "backend_mid",
+      "name": "バックエンドエンジニア（中途）",
+      "area": ["server_side"],
+      "role": null,
+      "title": null,
+      "source": "career_change"
+    },
+    {
+      "key": "backend_new_grad",
+      "name": "バックエンドエンジニア（新卒）",
+      "area": ["server_side"],
+      "role": null,
+      "title": null,
+      "source": "fresh_graduate"
+    },
+    {
+      "key": "fullstack_engineer",
+      "name": "フルスタックエンジニア",
+      "area": ["server_side", "front_end"],
+      "role": null,
+      "title": null,
+      "source": "career_change"
+    },
+    {
+      "key": "frontend_engineer",
+      "name": "フロントエンドエンジニア",
+      "area": ["front_end"],
+      "role": null,
+      "title": null,
+      "source": "career_change"
+    },
+    {
+      "key": "mobile_engineer",
+      "name": "モバイルアプリエンジニア",
+      "area": ["mobile_app"],
+      "role": null,
+      "title": null,
+      "source": "career_change"
+    },
+    {
+      "key": "sre_engineer",
+      "name": "SREエンジニア",
+      "area": ["infrastructure", "sre"],
+      "role": null,
+      "title": null,
+      "source": "career_change"
+    },
+    {
+      "key": "infra_engineer",
+      "name": "インフラエンジニア",
+      "area": ["infrastructure"],
+      "role": null,
+      "title": null,
+      "source": "career_change"
+    },
+    {
+      "key": "qa_engineer",
+      "name": "QAエンジニア",
+      "area": ["qa"],
+      "role": null,
+      "title": null,
+      "source": "career_change"
+    }
+  ]
+}

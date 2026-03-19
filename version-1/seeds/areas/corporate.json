@@ -1,0 +1,76 @@
+{
+  "patterns": [
+    {
+      "key": "chro",
+      "name": "CHRO",
+      "area": ["hr"],
+      "role": null,
+      "title": "chro",
+      "source": "career_change"
+    },
+    {
+      "key": "hrbp",
+      "name": "HRBP",
+      "area": ["hr"],
+      "role": "hrbp",
+      "title": null,
+      "source": "career_change"
+    },
+    {
+      "key": "recruiter",
+      "name": "リクルーター",
+      "area": ["hr"],
+      "role": "recruiter",
+      "title": null,
+      "source": "career_change"
+    },
+    {
+      "key": "hr_generalist",
+      "name": "人事（労務・制度）",
+      "area": ["hr"],
+      "role": null,
+      "title": null,
+      "source": "career_change"
+    },
+    {
+      "key": "cfo",
+      "name": "CFO",
+      "area": ["finance"],
+      "role": null,
+      "title": "cfo",
+      "source": "career_change"
+    },
+    {
+      "key": "accountant",
+      "name": "経理・財務担当",
+      "area": ["finance"],
+      "role": null,
+      "title": null,
+      "source": "career_change"
+    },
+    {
+      "key": "legal",
+      "name": "法務担当",
+      "area": ["legal"],
+      "role": null,
+      "title": null,
+      "source": "career_change"
+    },
+    {
+      "key": "general_affairs",
+      "name": "総務担当",
+      "area": ["general_affairs"],
+      "role": null,
+      "title": null,
+      "source": "fresh_graduate"
+    },
+    {
+      "key": "internal_audit",
+      "name": "内部監査",
+      "area": ["finance", "legal"],
+      "role": "internal_audit",
+      "title": null,
+      "source": "career_change"
+    }
+  ]
+}

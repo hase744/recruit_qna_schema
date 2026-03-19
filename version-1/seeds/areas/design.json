@@ -1,0 +1,52 @@
+{
+  "patterns": [
+    {
+      "key": "ui_ux_designer_lead",
+      "name": "UI/UXデザイナー（リード）",
+      "area": ["ui_ux_design"],
+      "role": null,
+      "title": "leader",
+      "source": "career_change"
+    },
+    {
+      "key": "ui_ux_designer",
+      "name": "UI/UXデザイナー",
+      "area": ["ui_ux_design"],
+      "role": null,
+      "title": null,
+      "source": "career_change"
+    },
+    {
+      "key": "product_designer",
+      "name": "プロダクトデザイナー",
+      "area": ["ui_ux_design", "graphic_design"],
+      "role": null,
+      "title": null,
+      "source": "career_change"
+    },
+    {
+      "key": "graphic_designer",
+      "name": "グラフィックデザイナー",
+      "area": ["graphic_design"],
+      "role": null,
+      "title": null,
+      "source": "career_change"
+    },
+    {
+      "key": "video_creator",
+      "name": "動画クリエイター",
+      "area": ["video_production"],
+      "role": null,
+      "title": null,
+      "source": "career_change"
+    },
+    {
+      "key": "illustrator",
+      "name": "イラストレーター",
+      "area": ["illustration"],
+      "role": null,
+      "title": null,
+      "source": "career_change"
+    }
+  ]
+}

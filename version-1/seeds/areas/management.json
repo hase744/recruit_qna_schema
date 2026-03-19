@@ -1,0 +1,44 @@
+{
+  "patterns": [
+    {
+      "key": "ceo_founder",
+      "name": "創業CEO",
+      "area": ["ceo"],
+      "role": null,
+      "title": "ceo",
+      "source": "career_change"
+    },
+    {
+      "key": "ceo_hired",
+      "name": "プロ経営者CEO",
+      "area": ["ceo"],
+      "role": null,
+      "title": "ceo",
+      "source": "career_change"
+    },
+    {
+      "key": "coo",
+      "name": "COO",
+      "area": ["executive"],
+      "role": null,
+      "title": "coo",
+      "source": "career_change"
+    },
+    {
+      "key": "director",
+      "name": "取締役",
+      "area": ["executive"],
+      "role": null,
+      "title": "director",
+      "source": "career_change"
+    },
+    {
+      "key": "executive_officer",
+      "name": "執行役員",
+      "area": ["executive"],
+      "role": null,
+      "title": "executive_officer",
+      "source": "career_change"
+    }
+  ]
+}

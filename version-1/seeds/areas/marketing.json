@@ -1,0 +1,60 @@
+{
+  "patterns": [
+    {
+      "key": "cmo",
+      "name": "CMO",
+      "area": ["digital_marketing", "pr"],
+      "role": null,
+      "title": "cmo",
+      "source": "career_change"
+    },
+    {
+      "key": "marketing_manager",
+      "name": "マーケティングマネージャー",
+      "area": ["digital_marketing"],
+      "role": null,
+      "title": "team_manager",
+      "source": "career_change"
+    },
+    {
+      "key": "digital_marketer",
+      "name": "デジタルマーケター",
+      "area": ["digital_marketing", "seo"],
+      "role": null,
+      "title": null,
+      "source": "career_change"
+    },
+    {
+      "key": "content_marketer",
+      "name": "コンテンツマーケター",
+      "area": ["content_marketing", "seo"],
+      "role": null,
+      "title": null,
+      "source": "career_change"
+    },
+    {
+      "key": "sns_marketer",
+      "name": "SNSマーケター",
+      "area": ["sns", "content_marketing"],
+      "role": null,
+      "title": null,
+      "source": "fresh_graduate"
+    },
+    {
+      "key": "pr_lead",
+      "name": "PRリーダー",
+      "area": ["pr"],
+      "role": null,
+      "title": "leader",
+      "source": "career_change"
+    },
+    {
+      "key": "researcher",
+      "name": "マーケティングリサーチャー",
+      "area": ["research"],
+      "role": null,
+      "title": null,
+      "source": "career_change"
+    }
+  ]
+}

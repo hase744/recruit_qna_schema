@@ -1,0 +1,60 @@
+{
+  "patterns": [
+    {
+      "key": "store_operation_manager",
+      "name": "店舗運営マネージャー",
+      "area": ["store_operation"],
+      "role": null,
+      "title": "section_manager",
+      "source": "career_change"
+    },
+    {
+      "key": "store_operation_lead",
+      "name": "店舗運営リーダー",
+      "area": ["store_operation"],
+      "role": null,
+      "title": "leader",
+      "source": "career_change"
+    },
+    {
+      "key": "store_operation_staff",
+      "name": "店舗スタッフ",
+      "area": ["store_operation"],
+      "role": null,
+      "title": null,
+      "source": "fresh_graduate"
+    },
+    {
+      "key": "factory_manager",
+      "name": "工場長",
+      "area": ["factory"],
+      "role": null,
+      "title": "department_head",
+      "source": "career_change"
+    },
+    {
+      "key": "factory_staff",
+      "name": "工場スタッフ",
+      "area": ["factory"],
+      "role": null,
+      "title": null,
+      "source": "fresh_graduate"
+    },
+    {
+      "key": "logistics_manager",
+      "name": "物流マネージャー",
+      "area": ["logistics"],
+      "role": null,
+      "title": "section_manager",
+      "source": "career_change"
+    },
+    {
+      "key": "logistics_staff",
+      "name": "物流スタッフ",
+      "area": ["logistics"],
+      "role": null,
+      "title": null,
+      "source": "career_change"
+    }
+  ]
+}
