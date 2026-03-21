@@ -61,7 +61,7 @@
       "name": "マネージャー（カスタマーサクセス）",
       "area": ["customer_success"],
       "role": "customer_success_manager",
-      "title": "team_manager",
+      "title": null,
       "source": "career_change"
     },
     {
@@ -69,7 +69,7 @@
       "name": "マネージャー（プロダクト）",
       "area": ["product_planning"],
       "role": "pm",
-      "title": "team_manager",
+      "title": null,
       "source": "career_change"
     },
     {

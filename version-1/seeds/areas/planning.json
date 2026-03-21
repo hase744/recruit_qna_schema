@@ -13,7 +13,7 @@
       "name": "プロダクトマネージャー",
       "area": ["product_planning"],
       "role": "pm",
-      "title": "team_manager",
+      "title": null,
       "source": "career_change"
     },
     {
@@ -21,7 +21,7 @@
       "name": "プロダクトデザインマネージャー",
       "area": ["product_planning"],
       "role": "pdm",
-      "title": "team_manager",
+      "title": null,
       "source": "career_change"
     },
     {
