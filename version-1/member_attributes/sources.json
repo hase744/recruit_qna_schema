@@ -1,6 +1,7 @@
   {
     "taxonomy": [
-      { "key": "fresh_graduate", "name": "新卒入社", "is_active": true  },
-      { "key": "career_change", "name": "中途入社", "is_active": true  }
+      { "key": "fresh_graduate", "name": "新卒", "is_active": true  },
+      { "key": "career_change", "name": "中途", "is_active": true  },
+      { "key": "entrepreneur", "name": "創業メンバー", "is_active": true  }
     ]
   }
