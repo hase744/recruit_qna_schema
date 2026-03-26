@@ -1,0 +1,30 @@
+[
+  {
+    "id": "common",
+    "label": "共通"
+  },
+  {
+    "id": "engineer",
+    "label": "エンジニア"
+  },
+  {
+    "id": "sales",
+    "label": "営業"
+  },
+  {
+    "id": "designer",
+    "label": "デザイナー"
+  },
+  {
+    "id": "marketing",
+    "label": "マーケティング"
+  },
+  {
+    "id": "corporate",
+    "label": "コーポレート"
+  },
+  {
+    "id": "cs",
+    "label": "カスタマーサクセス"
+  }
+]

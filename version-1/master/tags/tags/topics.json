@@ -1,0 +1,38 @@
+[
+  {
+    "id": "joining_reason",
+    "label": "入社理由"
+  },
+  {
+    "id": "work_content",
+    "label": "仕事内容"
+  },
+  {
+    "id": "work_style",
+    "label": "働き方"
+  },
+  {
+    "id": "culture",
+    "label": "カルチャー"
+  },
+  {
+    "id": "career",
+    "label": "キャリア"
+  },
+  {
+    "id": "rewarding",
+    "label": "やりがい"
+  },
+  {
+    "id": "benefits",
+    "label": "待遇・福利厚生"
+  },
+  {
+    "id": "selection_process",
+    "label": "選考プロセス"
+  },
+  {
+    "id": "message",
+    "label": "メッセージ"
+  }
+]

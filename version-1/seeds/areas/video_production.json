@@ -1,0 +1,52 @@
+{
+  "patterns": [
+    {
+      "key": "video_producer",
+      "name": "プロデューサー",
+      "area": ["design", "video_production"],
+      "role": "pm",
+      "title": null,
+      "source": "career_change"
+    },
+    {
+      "key": "video_director",
+      "name": "動画ディレクター",
+      "area": ["design", "video_production"],
+      "role": null,
+      "title": "leader",
+      "source": "career_change"
+    },
+    {
+      "key": "video_editor",
+      "name": "映像編集担当",
+      "area": ["design", "video_production"],
+      "role": null,
+      "title": null,
+      "source": "career_change"
+    },
+    {
+      "key": "motion_designer",
+      "name": "モーションデザイナー",
+      "area": ["design", "video_production"],
+      "role": null,
+      "title": null,
+      "source": "career_change"
+    },
+    {
+      "key": "creative_manager",
+      "name": "制作マネージャー",
+      "area": ["design", "video_production"],
+      "role": null,
+      "title": "section_manager",
+      "source": "career_change"
+    },
+    {
+      "key": "video_creator_junior",
+      "name": "映像制作（アシスタント）",
+      "area": ["design", "video_production"],
+      "role": null,
+      "title": null,
+      "source": "fresh_graduate"
+    }
+  ]
+}

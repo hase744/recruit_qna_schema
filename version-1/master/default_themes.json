@@ -1,0 +1,129 @@
+[
+  {
+    "id": "theme_essential",
+    "title": "基本セット",
+    "description": "どの企業にもおすすめの必須質問。まずはここから始めましょう。",
+    "type": "essential",
+    "sort_order": 1,
+    "question_ids": [
+      "q_why_joined",
+      "q_daily_routine",
+      "q_team_atmosphere",
+      "q_rewarding_moment",
+      "q_message_to_applicants"
+    ]
+  },
+  {
+    "id": "theme_leadership",
+    "title": "経営陣の想いを届ける",
+    "description": "創業ストーリーやビジョンで企業の本気度を伝えたい企業向け",
+    "type": "appeal",
+    "sort_order": 7,
+    "question_ids": [
+      "q_founding_reason",
+      "q_founding_story",
+      "q_company_vision",
+      "q_what_kind_of_people",
+      "q_company_challenge"
+    ]
+  },
+  {
+    "id": "theme_workstyle",
+    "title": "働き方をアピール",
+    "description": "リモートワークや柔軟な働き方を強みにしたい企業向け",
+    "type": "appeal",
+    "sort_order": 2,
+    "question_ids": [
+      "q_remote_frequency",
+      "q_flex_time",
+      "q_work_life_balance",
+      "q_side_job",
+      "q_childcare_support",
+      "q_overtime"
+    ]
+  },
+  {
+    "id": "theme_culture",
+    "title": "カルチャーをアピール",
+    "description": "社風や人間関係の良さを伝えたい企業向け",
+    "type": "appeal",
+    "sort_order": 3,
+    "question_ids": [
+      "q_communication_style",
+      "q_company_culture_word",
+      "q_company_event",
+      "q_onboarding",
+      "q_diversity",
+      "q_values_practice"
+    ]
+  },
+  {
+    "id": "theme_career",
+    "title": "成長環境をアピール",
+    "description": "キャリアパスや教育制度を強みにしたい企業向け",
+    "type": "appeal",
+    "sort_order": 4,
+    "question_ids": [
+      "q_career_path",
+      "q_growth_opportunity",
+      "q_training_program",
+      "q_skill_development",
+      "q_mentor_support",
+      "q_job_change_internal"
+    ]
+  },
+  {
+    "id": "theme_real_voice",
+    "title": "リアルな声を届ける",
+    "description": "入社前後のギャップや失敗談など、等身大の社員の声を届けたい企業向け",
+    "type": "appeal",
+    "sort_order": 5,
+    "question_ids": [
+      "q_gap_before_after",
+      "q_failure_overcome",
+      "q_what_surprised",
+      "q_first_year_challenge",
+      "q_success_story"
+    ]
+  },
+  {
+    "id": "theme_benefits",
+    "title": "待遇・制度をアピール",
+    "description": "福利厚生や評価制度の充実を伝えたい企業向け",
+    "type": "appeal",
+    "sort_order": 6,
+    "question_ids": [
+      "q_benefits_favorite",
+      "q_evaluation_system",
+      "q_parental_leave",
+      "q_childcare_support"
+    ]
+  },
+  {
+    "id": "theme_engineer",
+    "title": "エンジニア採用強化",
+    "description": "エンジニア向けに技術環境や開発文化を伝えたい企業向け",
+    "type": "appeal",
+    "sort_order": 7,
+    "question_ids": [
+      "q_tech_stack",
+      "q_dev_culture",
+      "q_tech_challenge",
+      "q_tools_tech"
+    ]
+  },
+  {
+    "id": "theme_new_grad",
+    "title": "新卒採用向け",
+    "description": "新卒採用に注力している企業向け",
+    "type": "appeal",
+    "sort_order": 8,
+    "question_ids": [
+      "q_why_new_grad",
+      "q_intern_experience",
+      "q_first_year_challenge",
+      "q_onboarding",
+      "q_advice_for_newcomers"
+    ]
+  }
+]

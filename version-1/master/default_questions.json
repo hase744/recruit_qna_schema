@@ -1,0 +1,500 @@
+[
+  {
+    "id": "q_why_joined",
+    "text": "入社を決めた理由は何ですか？",
+    "tags": {
+      "topic": ["joining_reason"],
+      "target_role": ["common"],
+      "stage": ["pre_apply"]
+    },
+    "seed_strategy": {
+      "type": "by_company",
+      "path": "seeds/answers/by_company"
+    }
+  },
+  {
+    "id": "q_what_attracted",
+    "text": "この会社のどんなところに惹かれましたか？",
+    "tags": {
+      "topic": ["joining_reason"],
+      "target_role": ["common"],
+      "stage": ["pre_apply"]
+    },
+    "seed_strategy": {
+      "type": "by_company",
+      "path": "seeds/answers/by_company"
+    }
+  },
+  {
+    "id": "q_career_change_reason",
+    "text": "前職からの転職を決めたきっかけは？",
+    "tags": {
+      "topic": ["joining_reason"],
+      "target_role": ["common"],
+      "stage": ["pre_apply"]
+    }
+  },
+  {
+    "id": "q_gap_before_after",
+    "text": "入社前と入社後のギャップはありましたか？",
+    "tags": {
+      "topic": ["joining_reason"],
+      "target_role": ["common"],
+      "stage": ["pre_apply"]
+    }
+  },
+  {
+    "id": "q_other_companies",
+    "text": "他社と比較して最終的にこの会社を選んだ理由は？",
+    "tags": {
+      "topic": ["joining_reason"],
+      "target_role": ["common"],
+      "stage": ["during_selection"]
+    }
+  },
+  {
+    "id": "q_daily_routine",
+    "text": "1日の仕事の流れを教えてください",
+    "tags": {
+      "topic": ["work_style"],
+      "target_role": ["common"],
+      "stage": ["pre_apply"]
+    },
+    "answer_format": "timeline",
+    "seed_strategy": {
+      "type": "by_answers",
+      "path": "seeds/answers/by_answers"
+    }
+  },
+  {
+    "id": "q_job_description",
+    "text": "仕事内容を教えてください",
+    "tags": {
+      "topic": ["work_content"],
+      "target_role": ["common"],
+      "stage": ["pre_apply"]
+    },
+    "seed_strategy": {
+      "type": "by_company",
+      "path": "seeds/answers/by_company"
+    }
+  },
+  {
+    "id": "q_typical_project",
+    "text": "最近取り組んだプロジェクトについて教えてください",
+    "tags": {
+      "topic": ["work_content"],
+      "target_role": ["common"],
+      "stage": ["pre_apply"]
+    }
+  },
+  {
+    "id": "q_team_structure",
+    "text": "チームの構成や人数を教えてください",
+    "tags": {
+      "topic": ["work_content"],
+      "target_role": ["common"],
+      "stage": ["pre_apply"]
+    }
+  },
+  {
+    "id": "q_tools_tech",
+    "text": "業務で使っているツールや技術は何ですか？",
+    "tags": {
+      "topic": ["work_content"],
+      "target_role": ["engineer"],
+      "stage": ["pre_apply"]
+    }
+  },
+  {
+    "id": "q_remote_frequency",
+    "text": "リモートワークはどのくらいの頻度ですか？",
+    "tags": {
+      "topic": ["work_style"],
+      "target_role": ["common"],
+      "stage": ["pre_apply"]
+    }
+  },
+  {
+    "id": "q_work_life_balance",
+    "text": "仕事とプライベートの両立はできていますか？",
+    "tags": {
+      "topic": ["work_style"],
+      "target_role": ["common"],
+      "stage": ["pre_apply"]
+    }
+  },
+  {
+    "id": "q_overtime",
+    "text": "残業はどのくらいありますか？",
+    "tags": {
+      "topic": ["work_style"],
+      "target_role": ["common"],
+      "stage": ["pre_apply"]
+    }
+  },
+  {
+    "id": "q_flex_time",
+    "text": "フレックスタイムの活用状況を教えてください",
+    "tags": {
+      "topic": ["work_style"],
+      "target_role": ["common"],
+      "stage": ["pre_apply"]
+    }
+  },
+  {
+    "id": "q_side_job",
+    "text": "副業はできますか？実際にしている人はいますか？",
+    "tags": {
+      "topic": ["work_style"],
+      "target_role": ["common"],
+      "stage": ["pre_apply"]
+    }
+  },
+  {
+    "id": "q_team_atmosphere",
+    "text": "職場の雰囲気や社風を教えてください",
+    "tags": {
+      "topic": ["culture"],
+      "target_role": ["common"],
+      "stage": ["pre_apply"]
+    },
+    "seed_strategy": {
+      "type": "by_company",
+      "path": "seeds/answers/by_company"
+    }
+  },
+  {
+    "id": "q_communication_style",
+    "text": "上司や同僚とのコミュニケーションはどんな感じですか？",
+    "tags": {
+      "topic": ["culture"],
+      "target_role": ["common"],
+      "stage": ["pre_apply"]
+    }
+  },
+  {
+    "id": "q_company_culture_word",
+    "text": "会社の「らしさ」を一言で表現すると？",
+    "tags": {
+      "topic": ["culture"],
+      "target_role": ["common"],
+      "stage": ["pre_apply"]
+    }
+  },
+  {
+    "id": "q_company_event",
+    "text": "社内イベントや部活動はありますか？",
+    "tags": {
+      "topic": ["culture"],
+      "target_role": ["common"],
+      "stage": ["pre_apply"]
+    }
+  },
+  {
+    "id": "q_onboarding",
+    "text": "入社後のオンボーディングはどうでしたか？",
+    "tags": {
+      "topic": ["culture"],
+      "target_role": ["common"],
+      "stage": ["pre_apply"]
+    }
+  },
+  {
+    "id": "q_diversity",
+    "text": "多様なバックグラウンドの人が活躍できる環境ですか？",
+    "tags": {
+      "topic": ["culture"],
+      "target_role": ["common"],
+      "stage": ["pre_apply"]
+    }
+  },
+  {
+    "id": "q_values_practice",
+    "text": "会社のバリューやミッションは日常でどう体現されていますか？",
+    "tags": {
+      "topic": ["culture"],
+      "target_role": ["common"],
+      "stage": ["pre_apply"]
+    }
+  },
+  {
+    "id": "q_career_path",
+    "text": "入社後どのようなキャリアパスを歩んできましたか？",
+    "tags": {
+      "topic": ["career"],
+      "target_role": ["common"],
+      "stage": ["pre_apply"]
+    }
+  },
+  {
+    "id": "q_growth_opportunity",
+    "text": "この会社で成長できたと感じるポイントは？",
+    "tags": {
+      "topic": ["career"],
+      "target_role": ["common"],
+      "stage": ["pre_apply"]
+    }
+  },
+  {
+    "id": "q_training_program",
+    "text": "研修や教育制度はどのようなものがありますか？",
+    "tags": {
+      "topic": ["career"],
+      "target_role": ["common"],
+      "stage": ["pre_apply"]
+    }
+  },
+  {
+    "id": "q_skill_development",
+    "text": "入社後に身についたスキルは何ですか？",
+    "tags": {
+      "topic": ["career"],
+      "target_role": ["common"],
+      "stage": ["pre_apply"]
+    }
+  },
+  {
+    "id": "q_mentor_support",
+    "text": "メンター制度はありますか？活用していますか？",
+    "tags": {
+      "topic": ["career"],
+      "target_role": ["common"],
+      "stage": ["pre_apply"]
+    }
+  },
+  {
+    "id": "q_job_change_internal",
+    "text": "社内異動やジョブチェンジの機会はありますか？",
+    "tags": {
+      "topic": ["career"],
+      "target_role": ["common"],
+      "stage": ["pre_apply"]
+    }
+  },
+  {
+    "id": "q_future_goal",
+    "text": "今後の目標やチャレンジしたいことは？",
+    "tags": {
+      "topic": ["career"],
+      "target_role": ["common"],
+      "stage": ["pre_apply"]
+    }
+  },
+  {
+    "id": "q_rewarding_moment",
+    "text": "仕事でやりがいを感じる瞬間は？",
+    "tags": {
+      "topic": ["rewarding"],
+      "target_role": ["common"],
+      "stage": ["pre_apply"]
+    }
+  },
+  {
+    "id": "q_success_story",
+    "text": "印象に残っている成功体験を教えてください",
+    "tags": {
+      "topic": ["rewarding"],
+      "target_role": ["common"],
+      "stage": ["pre_apply"]
+    }
+  },
+  {
+    "id": "q_failure_overcome",
+    "text": "仕事での失敗とそれをどう乗り越えたか教えてください",
+    "tags": {
+      "topic": ["rewarding"],
+      "target_role": ["common"],
+      "stage": ["pre_apply"]
+    }
+  },
+  {
+    "id": "q_proudest_work",
+    "text": "今までで一番誇りに思う仕事は何ですか？",
+    "tags": {
+      "topic": ["rewarding"],
+      "target_role": ["common"],
+      "stage": ["pre_apply"]
+    }
+  },
+  {
+    "id": "q_childcare_support",
+    "text": "育児との両立はしやすいですか？",
+    "tags": {
+      "topic": ["benefits"],
+      "target_role": ["common"],
+      "stage": ["pre_apply"]
+    }
+  },
+  {
+    "id": "q_parental_leave",
+    "text": "育休・産休の取得状況や復帰後の様子は？",
+    "tags": {
+      "topic": ["benefits"],
+      "target_role": ["common"],
+      "stage": ["pre_apply"]
+    }
+  },
+  {
+    "id": "q_benefits_favorite",
+    "text": "実際に使ってよかった福利厚生は？",
+    "tags": {
+      "topic": ["benefits"],
+      "target_role": ["common"],
+      "stage": ["pre_apply"]
+    }
+  },
+  {
+    "id": "q_evaluation_system",
+    "text": "評価制度はどのような仕組みですか？",
+    "tags": {
+      "topic": ["benefits"],
+      "target_role": ["common"],
+      "stage": ["during_selection"]
+    }
+  },
+  {
+    "id": "q_interview_tips",
+    "text": "面接で重視されるポイントは何ですか？",
+    "tags": {
+      "topic": ["selection_process"],
+      "target_role": ["common"],
+      "stage": ["during_selection"]
+    }
+  },
+  {
+    "id": "q_ideal_candidate",
+    "text": "どんな人がこの会社で活躍していますか？",
+    "tags": {
+      "topic": ["selection_process"],
+      "target_role": ["common"],
+      "stage": ["during_selection"]
+    }
+  },
+  {
+    "id": "q_required_skills",
+    "text": "この職種に必要なスキルや経験は何ですか？",
+    "tags": {
+      "topic": ["selection_process"],
+      "target_role": ["common"],
+      "stage": ["during_selection"]
+    }
+  },
+  {
+    "id": "q_message_to_applicants",
+    "text": "応募を検討している人へのメッセージをお願いします",
+    "tags": {
+      "topic": ["message"],
+      "target_role": ["common"],
+      "stage": ["pre_apply"]
+    }
+  },
+  {
+    "id": "q_advice_for_newcomers",
+    "text": "入社前にやっておいた方がいいことはありますか？",
+    "tags": {
+      "topic": ["message"],
+      "target_role": ["common"],
+      "stage": ["post_offer"]
+    }
+  },
+  {
+    "id": "q_what_surprised",
+    "text": "入社して一番驚いたことは何ですか？",
+    "tags": {
+      "topic": ["message"],
+      "target_role": ["common"],
+      "stage": ["pre_apply"]
+    }
+  },
+  {
+    "id": "q_why_new_grad",
+    "text": "新卒でこの会社を選んだ理由は？",
+    "tags": {
+      "topic": ["joining_reason"],
+      "target_role": ["common"],
+      "stage": ["pre_apply"]
+    }
+  },
+  {
+    "id": "q_intern_experience",
+    "text": "インターンシップの経験を教えてください",
+    "tags": {
+      "topic": ["selection_process"],
+      "target_role": ["common"],
+      "stage": ["pre_apply"]
+    }
+  },
+  {
+    "id": "q_first_year_challenge",
+    "text": "1年目で一番大変だったことは？",
+    "tags": {
+      "topic": ["career"],
+      "target_role": ["common"],
+      "stage": ["pre_apply"]
+    }
+  },
+  {
+    "id": "q_tech_stack",
+    "text": "開発で使っている技術スタックを教えてください",
+    "tags": {
+      "topic": ["work_content"],
+      "target_role": ["engineer"],
+      "stage": ["pre_apply"]
+    }
+  },
+  {
+    "id": "q_dev_culture",
+    "text": "開発チームのカルチャーや開発プロセスは？",
+    "tags": {
+      "topic": ["culture"],
+      "target_role": ["engineer"],
+      "stage": ["pre_apply"]
+    }
+  },
+  {
+    "id": "q_tech_challenge",
+    "text": "技術的に一番チャレンジングだった経験は？",
+    "tags": {
+      "topic": ["rewarding"],
+      "target_role": ["engineer"],
+      "stage": ["pre_apply"]
+    }
+  },
+  {
+    "id": "q_founding_reason",
+    "text": "この会社を創業した理由は何ですか？",
+    "tags": {
+      "topic": ["joining_reason"],
+      "target_role": ["common"],
+      "stage": ["pre_application"]
+    }
+  },
+  {
+    "id": "q_company_vision",
+    "text": "会社として目指している未来を教えてください",
+    "tags": {
+      "topic": ["culture"],
+      "target_role": ["common"],
+      "stage": ["pre_application"]
+    }
+  },
+  {
+    "id": "q_what_kind_of_people",
+    "text": "どんな人と一緒に働きたいですか？",
+    "tags": {
+      "topic": ["selection_process"],
+      "target_role": ["common"],
+      "stage": ["pre_application"]
+    }
+  },
+  {
+    "id": "q_company_challenge",
+    "text": "今の会社の課題や乗り越えたい壁は何ですか？",
+    "tags": {
+      "topic": ["culture"],
+      "target_role": ["common"],
+      "stage": ["pre_application"]
+    }
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "id": "pre_apply",
+    "label": "応募前"
+  },
+  {
+    "id": "during_selection",
+    "label": "選考中"
+  },
+  {
+    "id": "post_offer",
+    "label": "内定後"
+  }
+]

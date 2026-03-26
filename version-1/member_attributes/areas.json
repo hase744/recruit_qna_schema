@@ -59,8 +59,8 @@
         { "key": "ui_ux_design", "name": "UI/UXデザイン", "is_active": true },
         { "key": "graphic_design", "name": "グラフィックデザイン", "is_active": true },
         { "key": "video_production", "name": "動画制作", "is_active": true },
-        { "key": "illustration", "name": "イラストレーション", "is_active": true }
-        
+        { "key": "illustration", "name": "イラストレーション", "is_active": true },
+        { "key": "writing_editing", "name": "ライティング・編集", "is_active": true }
       ]
     },
     {
@@ -69,10 +69,10 @@
       "is_active": true,
       "children": [
         { "key": "hr", "name": "人事", "is_active": true },
+        { "key": "recruiting", "name": "採用", "is_active": true },
         { "key": "finance", "name": "経理・財務", "is_active": true },
         { "key": "legal", "name": "法務", "is_active": true },
-        { "key": "general_affairs", "name": "総務", "is_active": true },
-        { "key": "hr", "name": "人事", "is_active": true }
+        { "key": "general_affairs", "name": "総務", "is_active": true }
       ]
     },
     {

@@ -1,0 +1,50 @@
+{
+  "patterns": [
+    {
+      "key": "cmo",
+      "name": "CMO",
+      "area": ["marketing"],
+      "role": null,
+      "title": "cmo",
+      "source": "career_change",
+      "questions": [
+        {
+          "id": "q_marketing_strategy",
+          "body": ["中長期的なブランド戦略と売上成長のロードマップについて教えてください。"]
+        }
+      ]
+    },
+    {
+      "key": "marketing_manager",
+      "name": "マーケティングマネージャー",
+      "area": ["marketing"],
+      "role": "pm",
+      "title": "section_manager",
+      "source": "career_change"
+    },
+    {
+      "key": "sns_manager",
+      "name": "SNSマーケティング責任者",
+      "area": ["marketing", "sns"],
+      "role": "pm",
+      "title": "leader",
+      "source": "career_change"
+    },
+    {
+      "key": "sns_specialist",
+      "name": "SNS運用担当（コンテンツ企画）",
+      "area": ["marketing", "sns"],
+      "role": null,
+      "title": null,
+      "source": "career_change"
+    },
+    {
+      "key": "social_media_junior",
+      "name": "SNS広報（新卒・未経験）",
+      "area": ["marketing", "sns"],
+      "role": null,
+      "title": null,
+      "source": "fresh_graduate"
+    }
+  ]
+}

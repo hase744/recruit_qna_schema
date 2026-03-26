@@ -1,0 +1,60 @@
+{
+  "patterns": [
+    {
+      "key": "editor_in_chief",
+      "name": "編集長",
+      "area": ["design", "writing_editing"],
+      "role": "manager",
+      "title": "department_head",
+      "source": "career_change"
+    },
+    {
+      "key": "editor",
+      "name": "編集者",
+      "area": ["design", "writing_editing"],
+      "role": "pm",
+      "title": "leader",
+      "source": "career_change"
+    },
+    {
+      "key": "writer",
+      "name": "ライター",
+      "area": ["design", "writing_editing"],
+      "role": null,
+      "title": null,
+      "source": "fresh_graduate"
+    },
+    {
+      "key": "content_planner",
+      "name": "コンテンツプランナー",
+      "area": ["design", "writing_editing"],
+      "role": "pdm",
+      "title": null,
+      "source": "career_change"
+    },
+    {
+      "key": "creative_manager",
+      "name": "クリエイティブマネージャー",
+      "area": ["design", "writing_editing"],
+      "role": "manager",
+      "title": "section_manager",
+      "source": "career_change"
+    },
+    {
+      "key": "graphic_designer",
+      "name": "グラフィックデザイナー（記事・媒体）",
+      "area": ["design", "writing_editing"],
+      "role": null,
+      "title": null,
+      "source": "career_change"
+    },
+    {
+      "key": "proofreader",
+      "name": "校正・校閲担当",
+      "area": ["design", "writing_editing"],
+      "role": null,
+      "title": "chief",
+      "source": "career_change"
+    }
+  ]
+}
