@@ -1,92 +1,304 @@
 {
   "patterns": [
     {
-      "key": "general_manager_planning",
       "name": "本部長（経営企画）",
       "area": ["management_planning"],
       "role": null,
       "title": "general_manager",
-      "source": "career_change"
+      "gender": "男性",
+      "age": 45,
+      "source": "career_change",
+      "tenure_years": 8
     },
     {
-      "key": "division_head_sales",
       "name": "事業部長（セールス）",
       "area": ["corporate_sales"],
       "role": null,
       "title": "division_head",
-      "source": "career_change"
+      "gender": "男性",
+      "age": 42,
+      "source": "career_change",
+      "tenure_years": 5
     },
     {
-      "key": "division_head_development",
       "name": "事業部長（開発）",
       "area": ["server_side", "front_end"],
       "role": null,
       "title": "division_head",
-      "source": "career_change"
+      "gender": "男性",
+      "age": 39,
+      "source": "career_change",
+      "tenure_years": 4
     },
     {
-      "key": "department_head_sales",
       "name": "部長（セールス）",
       "area": ["corporate_sales"],
       "role": null,
       "title": "department_head",
-      "source": "career_change"
+      "gender": "女性",
+      "age": 38,
+      "source": "career_change",
+      "tenure_years": 6
     },
     {
-      "key": "department_head_corporate",
       "name": "部長（コーポレート）",
       "area": ["hr", "general_affairs"],
       "role": null,
       "title": "department_head",
-      "source": "career_change"
+      "gender": "女性",
+      "age": 47,
+      "source": "career_change",
+      "tenure_years": 12
     },
     {
-      "key": "section_manager_marketing",
       "name": "課長（マーケティング）",
       "area": ["digital_marketing"],
       "role": null,
       "title": "section_manager",
-      "source": "career_change"
+      "gender": "男性",
+      "age": 36,
+      "source": "career_change",
+      "tenure_years": 3
     },
     {
-      "key": "section_manager_engineering",
       "name": "課長（エンジニアリング）",
       "area": ["server_side"],
       "role": null,
       "title": "section_manager",
-      "source": "career_change"
+      "gender": "男性",
+      "age": 40,
+      "source": "career_change",
+      "tenure_years": 7
     },
     {
-      "key": "team_manager_cs",
       "name": "マネージャー（カスタマーサクセス）",
       "area": ["customer_success"],
       "role": "customer_success_manager",
       "title": null,
-      "source": "career_change"
+      "gender": "女性",
+      "age": 35,
+      "source": "career_change",
+      "tenure_years": 4
     },
     {
-      "key": "team_manager_product",
       "name": "マネージャー（プロダクト）",
       "area": ["product_planning"],
       "role": "pm",
       "title": null,
-      "source": "career_change"
+      "gender": "男性",
+      "age": 37,
+      "source": "career_change",
+      "tenure_years": 5
     },
     {
-      "key": "section_head_finance",
       "name": "係長（経理）",
       "area": ["finance"],
       "role": null,
       "title": "section_head",
-      "source": "career_change"
+      "gender": "女性",
+      "age": 41,
+      "source": "career_change",
+      "tenure_years": 9
     },
     {
-      "key": "supervisor_hr",
       "name": "主任（人事）",
       "area": ["hr"],
       "role": null,
       "title": "supervisor",
-      "source": "career_change"
+      "gender": "女性",
+      "age": 35,
+      "source": "career_change",
+      "tenure_years": 3
+    },
+    {
+      "name": "代表取締役（CEO）",
+      "area": ["ceo"],
+      "role": null,
+      "title": "ceo",
+      "gender": "男性",
+      "age": 49,
+      "source": "entrepreneur",
+      "tenure_years": 15
+    },
+    {
+      "name": "CTO（技術統括）",
+      "area": ["infrastructure", "sre"],
+      "role": "architect",
+      "title": "cto",
+      "gender": "男性",
+      "age": 44,
+      "source": "entrepreneur",
+      "tenure_years": 15
+    },
+    {
+      "name": "COO（事業統括）",
+      "area": ["business_planning", "alliance"],
+      "role": null,
+      "title": "coo",
+      "gender": "男性",
+      "age": 46,
+      "source": "career_change",
+      "tenure_years": 10
+    },
+    {
+      "name": "執行役員（CHRO）",
+      "area": ["hr", "recruiting"],
+      "role": "hrbp",
+      "title": "chro",
+      "gender": "女性",
+      "age": 43,
+      "source": "career_change",
+      "tenure_years": 7
+    },
+    {
+      "name": "テックリード（SRE）",
+      "area": ["sre", "infrastructure"],
+      "role": "tech_lead",
+      "title": "leader",
+      "gender": "男性",
+      "age": 38,
+      "source": "career_change",
+      "tenure_years": 6
+    },
+    {
+      "name": "データサイエンス部長",
+      "area": ["data_analysis", "machine_learning"],
+      "role": "pm",
+      "title": "department_head",
+      "gender": "男性",
+      "age": 42,
+      "source": "career_change",
+      "tenure_years": 4
+    },
+    {
+      "name": "クリエイティブディレクター",
+      "area": ["ui_ux_design", "graphic_design"],
+      "role": null,
+      "title": "general_manager",
+      "gender": "女性",
+      "age": 40,
+      "source": "career_change",
+      "tenure_years": 8
+    },
+    {
+      "name": "広報責任者（PR）",
+      "area": ["pr"],
+      "role": null,
+      "title": "department_head",
+      "gender": "女性",
+      "age": 39,
+      "source": "career_change",
+      "tenure_years": 5
+    },
+    {
+      "name": "法務部長",
+      "area": ["legal"],
+      "role": "internal_audit",
+      "title": "department_head",
+      "gender": "男性",
+      "age": 48,
+      "source": "career_change",
+      "tenure_years": 11
+    },
+    {
+      "name": "BizDevリーダー",
+      "area": ["bizdev", "alliance"],
+      "role": "pm",
+      "title": "leader",
+      "gender": "男性",
+      "age": 36,
+      "source": "career_change",
+      "tenure_years": 3
+    },
+    {
+      "name": "インサイドセールス・マネージャー",
+      "area": ["inside_sales"],
+      "role": null,
+      "title": "section_manager",
+      "gender": "女性",
+      "age": 37,
+      "source": "career_change",
+      "tenure_years": 4
+    },
+    {
+      "name": "物流センター長",
+      "area": ["logistics"],
+      "role": null,
+      "title": "department_head",
+      "gender": "男性",
+      "age": 46,
+      "source": "career_change",
+      "tenure_years": 15
+    },
+    {
+      "name": "CFO（財務責任者）",
+      "area": ["finance"],
+      "role": "ir",
+      "title": "cfo",
+      "gender": "男性",
+      "age": 41,
+      "source": "career_change",
+      "tenure_years": 6
+    },
+    {
+      "name": "QAマネージャー",
+      "area": ["qa"],
+      "role": "scrum_master",
+      "title": "leader",
+      "gender": "女性",
+      "age": 39,
+      "source": "career_change",
+      "tenure_years": 8
+    },
+    {
+      "name": "デジタルマーケティング部長",
+      "area": ["digital_marketing", "seo"],
+      "role": null,
+      "title": "department_head",
+      "gender": "男性",
+      "age": 44,
+      "source": "career_change",
+      "tenure_years": 9
+    },
+    {
+      "name": "オンボーディング責任者",
+      "area": ["customer_success"],
+      "role": "onboarding_specialist",
+      "title": "chief",
+      "gender": "女性",
+      "age": 35,
+      "source": "fresh_graduate",
+      "tenure_years": 13
+    },
+    {
+      "name": "AI開発リード",
+      "area": ["ai_development", "mlops"],
+      "role": "tech_lead",
+      "title": "leader",
+      "gender": "男性",
+      "age": 38,
+      "source": "career_change",
+      "tenure_years": 5
+    },
+    {
+      "name": "店舗運営部長",
+      "area": ["store_operation"],
+      "role": null,
+      "title": "division_head",
+      "gender": "女性",
+      "age": 45,
+      "source": "career_change",
+      "tenure_years": 10
+    },
+    {
+      "name": "プロダクトオーナー（開発）",
+      "area": ["server_side", "product_planning"],
+      "role": "product_owner",
+      "title": "section_manager",
+      "gender": "男性",
+      "age": 41,
+      "source": "fresh_graduate",
+      "tenure_years": 19
     }
   ]
 }
