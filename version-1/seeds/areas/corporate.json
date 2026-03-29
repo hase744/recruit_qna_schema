@@ -2,7 +2,7 @@
   "patterns": [
     {
       "name": "CHRO",
-      "areas": ["hr"],
+      "areas": ["corporate", "hr"],
       "role": null,
       "title": "chro",
       "source": "career_change",
@@ -12,7 +12,7 @@
     },
     {
       "name": "CFO",
-      "areas": ["finance"],
+      "areas": ["corporate", "finance"],
       "role": null,
       "title": "cfo",
       "source": "career_change",
@@ -22,7 +22,7 @@
     },
     {
       "name": "人事部長",
-      "areas": ["hr"],
+      "areas": ["corporate", "hr"],
       "role": null,
       "title": "department_head",
       "source": "career_change",
@@ -32,7 +32,7 @@
     },
     {
       "name": "経営企画室長",
-      "areas": ["management_planning"],
+      "areas": ["corporate", "management_planning"],
       "role": null,
       "title": "general_manager",
       "source": "career_change",
@@ -42,7 +42,7 @@
     },
     {
       "name": "法務マネージャー",
-      "areas": ["legal"],
+      "areas": ["corporate", "legal"],
       "role": null,
       "title": "section_manager",
       "source": "career_change",
@@ -52,7 +52,7 @@
     },
     {
       "name": "創業メンバー・管理担当",
-      "areas": ["general_affairs", "finance"],
+      "areas": ["corporate", "general_affairs", "finance"],
       "role": null,
       "title": "executive_officer",
       "source": "entrepreneur",
@@ -62,7 +62,7 @@
     },
     {
       "name": "HRBP",
-      "areas": ["hr"],
+      "areas": ["corporate", "hr"],
       "role": "hrbp",
       "title": null,
       "source": "career_change",
@@ -72,7 +72,7 @@
     },
     {
       "name": "シニアリクルーター",
-      "areas": ["recruiting"],
+      "areas": ["corporate", "recruiting"],
       "role": "recruiter",
       "title": null,
       "source": "career_change",
@@ -82,7 +82,7 @@
     },
     {
       "name": "採用担当",
-      "areas": ["recruiting"],
+      "areas": ["corporate", "recruiting"],
       "role": "recruiter",
       "title": null,
       "source": "career_change",
@@ -92,7 +92,7 @@
     },
     {
       "name": "新卒採用担当",
-      "areas": ["recruiting"],
+      "areas": ["corporate", "recruiting"],
       "role": "recruiter",
       "title": null,
       "source": "fresh_graduate",
@@ -102,7 +102,7 @@
     },
     {
       "name": "労務スペシャリスト",
-      "areas": ["hr"],
+      "areas": ["corporate", "hr"],
       "role": null,
       "title": null,
       "source": "career_change",
@@ -112,7 +112,7 @@
     },
     {
       "name": "人事事務",
-      "areas": ["hr"],
+      "areas": ["corporate", "hr"],
       "role": null,
       "title": null,
       "source": "fresh_graduate",
@@ -122,7 +122,7 @@
     },
     {
       "name": "経理担当",
-      "areas": ["finance"],
+      "areas": ["corporate", "finance"],
       "role": null,
       "title": null,
       "source": "career_change",
@@ -132,7 +132,7 @@
     },
     {
       "name": "財務・資金調達担当",
-      "areas": ["finance"],
+      "areas": ["corporate", "finance"],
       "role": null,
       "title": null,
       "source": "career_change",
@@ -142,7 +142,7 @@
     },
     {
       "name": "IR担当",
-      "areas": ["finance"],
+      "areas": ["corporate", "finance"],
       "role": "ir",
       "title": null,
       "source": "career_change",
@@ -152,7 +152,7 @@
     },
     {
       "name": "内部監査",
-      "areas": ["finance", "legal"],
+      "areas": ["corporate", "finance", "legal"],
       "role": "internal_audit",
       "title": null,
       "source": "career_change",
@@ -162,7 +162,7 @@
     },
     {
       "name": "法務担当",
-      "areas": ["legal"],
+      "areas": ["corporate", "legal"],
       "role": null,
       "title": null,
       "source": "career_change",
@@ -172,7 +172,7 @@
     },
     {
       "name": "コンプライアンス担当",
-      "areas": ["legal"],
+      "areas": ["corporate", "legal"],
       "role": null,
       "title": null,
       "source": "career_change",
@@ -182,7 +182,7 @@
     },
     {
       "name": "総務リーダー",
-      "areas": ["general_affairs"],
+      "areas": ["corporate", "general_affairs"],
       "role": null,
       "title": null,
       "source": "career_change",
@@ -192,7 +192,7 @@
     },
     {
       "name": "総務担当",
-      "areas": ["general_affairs"],
+      "areas": ["corporate", "general_affairs"],
       "role": null,
       "title": null,
       "source": "fresh_graduate",
@@ -202,7 +202,7 @@
     },
     {
       "name": "施設管理担当",
-      "areas": ["general_affairs"],
+      "areas": ["corporate", "general_affairs"],
       "role": null,
       "title": null,
       "source": "career_change",
@@ -212,7 +212,7 @@
     },
     {
       "name": "経営企画担当",
-      "areas": ["management_planning"],
+      "areas": ["corporate", "management_planning"],
       "role": null,
       "title": null,
       "source": "career_change",
@@ -222,7 +222,7 @@
     },
     {
       "name": "事業企画担当",
-      "areas": ["business_planning"],
+      "areas": ["corporate", "business_planning"],
       "role": null,
       "title": null,
       "source": "career_change",
@@ -232,7 +232,7 @@
     },
     {
       "name": "BizDev（コーポレート）",
-      "areas": ["bizdev"],
+      "areas": ["corporate", "bizdev"],
       "role": null,
       "title": null,
       "source": "career_change",
@@ -242,7 +242,7 @@
     },
     {
       "name": "広報・PR",
-      "areas": ["pr"],
+      "areas": ["corporate", "pr"],
       "role": null,
       "title": null,
       "source": "career_change",
@@ -252,7 +252,7 @@
     },
     {
       "name": "秘書",
-      "areas": ["general_affairs"],
+      "areas": ["corporate", "general_affairs"],
       "role": null,
       "title": null,
       "source": "career_change",
@@ -262,7 +262,7 @@
     },
     {
       "name": "情報システム担当",
-      "areas": ["general_affairs"],
+      "areas": ["corporate", "general_affairs"],
       "role": null,
       "title": null,
       "source": "career_change",
@@ -272,7 +272,7 @@
     },
     {
       "name": "リーガルアシスタント",
-      "areas": ["legal"],
+      "areas": ["corporate", "legal"],
       "role": null,
       "title": null,
       "source": "fresh_graduate",
@@ -282,7 +282,7 @@
     },
     {
       "name": "経理アシスタント",
-      "areas": ["finance"],
+      "areas": ["corporate", "finance"],
       "role": null,
       "title": null,
       "source": "fresh_graduate",
@@ -292,7 +292,7 @@
     },
     {
       "name": "人事企画",
-      "areas": ["hr"],
+      "areas": ["corporate", "hr"],
       "role": null,
       "title": null,
       "source": "career_change",

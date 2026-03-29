@@ -2,7 +2,7 @@
   "patterns": [
     {
       "name": "インサイドセールス 係長",
-      "areas": ["inside_sales"],
+      "areas": ["sales", "inside_sales"],
       "role": null,
       "title": "section_head",
       "source": "career_change",
@@ -12,7 +12,7 @@
     },
     {
       "name": "インサイドセールス (中途)",
-      "areas": ["inside_sales"],
+      "areas": ["sales", "inside_sales"],
       "role": null,
       "title": null,
       "source": "career_change",
@@ -22,7 +22,7 @@
     },
     {
       "name": "法人営業 (中途)",
-      "areas": ["corporate_sales"],
+      "areas": ["sales", "corporate_sales"],
       "role": null,
       "title": null,
       "source": "career_change",
@@ -32,7 +32,7 @@
     },
     {
       "name": "インサイドセールス 部長",
-      "areas": ["inside_sales"],
+      "areas": ["sales", "inside_sales"],
       "role": null,
       "title": "department_head",
       "source": "career_change",
@@ -42,7 +42,7 @@
     },
     {
       "name": "法人営業 (新卒)",
-      "areas": ["corporate_sales"],
+      "areas": ["sales", "corporate_sales"],
       "role": null,
       "title": null,
       "source": "fresh_graduate",
@@ -52,7 +52,7 @@
     },
     {
       "name": "法人営業 (新卒)",
-      "areas": ["corporate_sales"],
+      "areas": ["sales", "corporate_sales"],
       "role": null,
       "title": null,
       "source": "fresh_graduate",
@@ -62,7 +62,7 @@
     },
     {
       "name": "法人営業 (中途)",
-      "areas": ["corporate_sales"],
+      "areas": ["sales", "corporate_sales"],
       "role": null,
       "title": null,
       "source": "career_change",
@@ -72,7 +72,7 @@
     },
     {
       "name": "法人営業 (中途)",
-      "areas": ["corporate_sales"],
+      "areas": ["sales", "corporate_sales"],
       "role": null,
       "title": null,
       "source": "career_change",
@@ -82,7 +82,7 @@
     },
     {
       "name": "インサイドセールス 主任",
-      "areas": ["inside_sales"],
+      "areas": ["sales", "inside_sales"],
       "role": null,
       "title": "supervisor",
       "source": "career_change",
@@ -92,7 +92,7 @@
     },
     {
       "name": "法人営業 (新卒)",
-      "areas": ["corporate_sales"],
+      "areas": ["sales", "corporate_sales"],
       "role": null,
       "title": null,
       "source": "fresh_graduate",
@@ -102,7 +102,7 @@
     },
     {
       "name": "法人営業 (新卒)",
-      "areas": ["corporate_sales"],
+      "areas": ["sales", "corporate_sales"],
       "role": null,
       "title": null,
       "source": "fresh_graduate",
@@ -112,7 +112,7 @@
     },
     {
       "name": "インサイドセールス (新卒)",
-      "areas": ["inside_sales"],
+      "areas": ["sales", "inside_sales"],
       "role": null,
       "title": null,
       "source": "fresh_graduate",
@@ -122,7 +122,7 @@
     },
     {
       "name": "インサイドセールス (新卒)",
-      "areas": ["inside_sales"],
+      "areas": ["sales", "inside_sales"],
       "role": null,
       "title": null,
       "source": "fresh_graduate",
@@ -132,7 +132,7 @@
     },
     {
       "name": "インサイドセールス (新卒)",
-      "areas": ["inside_sales"],
+      "areas": ["sales", "inside_sales"],
       "role": null,
       "title": null,
       "source": "fresh_graduate",
@@ -142,7 +142,7 @@
     },
     {
       "name": "インサイドセールス (新卒)",
-      "areas": ["inside_sales"],
+      "areas": ["sales", "inside_sales"],
       "role": null,
       "title": null,
       "source": "fresh_graduate",
@@ -152,7 +152,7 @@
     },
     {
       "name": "インサイドセールス (中途)",
-      "areas": ["inside_sales"],
+      "areas": ["sales", "inside_sales"],
       "role": null,
       "title": null,
       "source": "career_change",
@@ -162,7 +162,7 @@
     },
     {
       "name": "インサイドセールス (新卒)",
-      "areas": ["inside_sales"],
+      "areas": ["sales", "inside_sales"],
       "role": null,
       "title": null,
       "source": "fresh_graduate",
@@ -172,7 +172,7 @@
     },
     {
       "name": "インサイドセールス (新卒)",
-      "areas": ["inside_sales"],
+      "areas": ["sales", "inside_sales"],
       "role": null,
       "title": null,
       "source": "fresh_graduate",
@@ -182,7 +182,7 @@
     },
     {
       "name": "法人営業 (中途)",
-      "areas": ["corporate_sales"],
+      "areas": ["sales", "corporate_sales"],
       "role": null,
       "title": null,
       "source": "career_change",
@@ -192,7 +192,7 @@
     },
     {
       "name": "法人営業 (新卒)",
-      "areas": ["corporate_sales"],
+      "areas": ["sales", "corporate_sales"],
       "role": null,
       "title": null,
       "source": "fresh_graduate",
@@ -202,7 +202,7 @@
     },
     {
       "name": "法人営業 部長",
-      "areas": ["corporate_sales"],
+      "areas": ["sales", "corporate_sales"],
       "role": null,
       "title": "department_head",
       "source": "career_change",
@@ -212,7 +212,7 @@
     },
     {
       "name": "インサイドセールス (中途)",
-      "areas": ["inside_sales"],
+      "areas": ["sales", "inside_sales"],
       "role": null,
       "title": null,
       "source": "career_change",
@@ -222,7 +222,7 @@
     },
     {
       "name": "インサイドセールス (中途)",
-      "areas": ["inside_sales"],
+      "areas": ["sales", "inside_sales"],
       "role": null,
       "title": null,
       "source": "career_change",
@@ -232,7 +232,7 @@
     },
     {
       "name": "法人営業 主任",
-      "areas": ["corporate_sales"],
+      "areas": ["sales", "corporate_sales"],
       "role": null,
       "title": "supervisor",
       "source": "career_change",
@@ -242,7 +242,7 @@
     },
     {
       "name": "法人営業 (新卒)",
-      "areas": ["corporate_sales"],
+      "areas": ["sales", "corporate_sales"],
       "role": null,
       "title": null,
       "source": "fresh_graduate",
@@ -252,7 +252,7 @@
     },
     {
       "name": "法人営業 (新卒)",
-      "areas": ["corporate_sales"],
+      "areas": ["sales", "corporate_sales"],
       "role": null,
       "title": null,
       "source": "fresh_graduate",
@@ -262,7 +262,7 @@
     },
     {
       "name": "インサイドセールス (新卒)",
-      "areas": ["inside_sales"],
+      "areas": ["sales", "inside_sales"],
       "role": null,
       "title": null,
       "source": "fresh_graduate",
@@ -272,7 +272,7 @@
     },
     {
       "name": "法人営業 (中途)",
-      "areas": ["corporate_sales"],
+      "areas": ["sales", "corporate_sales"],
       "role": null,
       "title": null,
       "source": "career_change",
@@ -282,7 +282,7 @@
     },
     {
       "name": "法人営業 (新卒)",
-      "areas": ["corporate_sales"],
+      "areas": ["sales", "corporate_sales"],
       "role": null,
       "title": null,
       "source": "fresh_graduate",
@@ -292,7 +292,7 @@
     },
     {
       "name": "法人営業 (新卒)",
-      "areas": ["corporate_sales"],
+      "areas": ["sales", "corporate_sales"],
       "role": null,
       "title": null,
       "source": "fresh_graduate",

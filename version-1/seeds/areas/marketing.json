@@ -2,7 +2,7 @@
   "patterns": [
     {
       "name": "CMO",
-      "areas": ["digital_marketing", "pr"],
+      "areas": ["marketing", "digital_marketing", "pr"],
       "role": null,
       "title": "cmo",
       "source": "career_change",
@@ -12,7 +12,7 @@
     },
     {
       "name": "デジタルマーケター",
-      "areas": ["digital_marketing", "seo"],
+      "areas": ["marketing", "digital_marketing", "seo"],
       "role": null,
       "title": null,
       "source": "career_change",
@@ -22,7 +22,7 @@
     },
     {
       "name": "コンテンツマーケター",
-      "areas": ["content_marketing"],
+      "areas": ["marketing", "content_marketing"],
       "role": null,
       "title": null,
       "source": "fresh_graduate",
@@ -32,7 +32,7 @@
     },
     {
       "name": "SNS運用担当",
-      "areas": ["sns", "content_marketing"],
+      "areas": ["marketing", "sns", "content_marketing"],
       "role": null,
       "title": null,
       "source": "fresh_graduate",
@@ -42,7 +42,7 @@
     },
     {
       "name": "PRマネージャー",
-      "areas": ["pr"],
+      "areas": ["marketing", "pr"],
       "role": null,
       "title": "department_head",
       "source": "career_change",
@@ -52,7 +52,7 @@
     },
     {
       "name": "マーケティングリサーチャー",
-      "areas": ["research"],
+      "areas": ["marketing", "research"],
       "role": null,
       "title": null,
       "source": "career_change",
@@ -62,7 +62,7 @@
     },
     {
       "name": "SEOスペシャリスト",
-      "areas": ["seo", "digital_marketing"],
+      "areas": ["marketing", "seo", "digital_marketing"],
       "role": null,
       "title": null,
       "source": "career_change",
@@ -72,7 +72,7 @@
     },
     {
       "name": "デジタル広告運用",
-      "areas": ["digital_marketing"],
+      "areas": ["marketing", "digital_marketing"],
       "role": null,
       "title": null,
       "source": "fresh_graduate",
@@ -82,7 +82,7 @@
     },
     {
       "name": "ブランドマネージャー",
-      "areas": ["pr", "content_marketing"],
+      "areas": ["marketing", "pr", "content_marketing"],
       "role": null,
       "title": "section_manager",
       "source": "career_change",
@@ -92,7 +92,7 @@
     },
     {
       "name": "コンテンツディレクター",
-      "areas": ["content_marketing"],
+      "areas": ["marketing", "content_marketing"],
       "role": null,
       "title": null,
       "source": "career_change",
@@ -102,7 +102,7 @@
     },
     {
       "name": "SNSストラテジスト",
-      "areas": ["sns"],
+      "areas": ["marketing", "sns"],
       "role": null,
       "title": null,
       "source": "career_change",
@@ -112,7 +112,7 @@
     },
     {
       "name": "広報担当",
-      "areas": ["pr"],
+      "areas": ["marketing", "pr"],
       "role": null,
       "title": null,
       "source": "fresh_graduate",
@@ -122,7 +122,7 @@
     },
     {
       "name": "マーケティングアナリスト",
-      "areas": ["research", "digital_marketing"],
+      "areas": ["marketing", "research", "digital_marketing"],
       "role": null,
       "title": "leader",
       "source": "career_change",
@@ -132,7 +132,7 @@
     },
     {
       "name": "オウンドメディア編集長",
-      "areas": ["content_marketing", "seo"],
+      "areas": ["marketing", "content_marketing", "seo"],
       "role": null,
       "title": null,
       "source": "career_change",
@@ -142,7 +142,7 @@
     },
     {
       "name": "デジタルマーケティング担当",
-      "areas": ["digital_marketing"],
+      "areas": ["marketing", "digital_marketing"],
       "role": null,
       "title": null,
       "source": "fresh_graduate",
@@ -152,7 +152,7 @@
     },
     {
       "name": "コミュニケーションデザイナー",
-      "areas": ["pr", "sns"],
+      "areas": ["marketing", "pr", "sns"],
       "role": null,
       "title": null,
       "source": "career_change",
@@ -162,7 +162,7 @@
     },
     {
       "name": "CRM担当",
-      "areas": ["digital_marketing"],
+      "areas": ["marketing", "digital_marketing"],
       "role": null,
       "title": null,
       "source": "career_change",
@@ -172,7 +172,7 @@
     },
     {
       "name": "SEOエディター",
-      "areas": ["seo"],
+      "areas": ["marketing", "seo"],
       "role": null,
       "title": null,
       "source": "career_change",
@@ -182,7 +182,7 @@
     },
     {
       "name": "マーケティング・リード",
-      "areas": ["digital_marketing", "research"],
+      "areas": ["marketing", "digital_marketing", "research"],
       "role": null,
       "title": "chief",
       "source": "entrepreneur",
@@ -192,7 +192,7 @@
     },
     {
       "name": "広報・IR担当",
-      "areas": ["pr"],
+      "areas": ["marketing", "pr"],
       "role": null,
       "title": null,
       "source": "career_change",
@@ -202,7 +202,7 @@
     },
     {
       "name": "成長戦略担当",
-      "areas": ["digital_marketing", "research"],
+      "areas": ["marketing", "digital_marketing", "research"],
       "role": null,
       "title": null,
       "source": "career_change",
@@ -212,7 +212,7 @@
     },
     {
       "name": "ジュニアマーケター",
-      "areas": ["sns"],
+      "areas": ["marketing", "sns"],
       "role": null,
       "title": null,
       "source": "fresh_graduate",
@@ -222,7 +222,7 @@
     },
     {
       "name": "Webマーケティング担当",
-      "areas": ["digital_marketing", "seo"],
+      "areas": ["marketing", "digital_marketing", "seo"],
       "role": null,
       "title": null,
       "source": "career_change",
@@ -232,7 +232,7 @@
     },
     {
       "name": "イベントプロモーター",
-      "areas": ["pr"],
+      "areas": ["marketing", "pr"],
       "role": null,
       "title": null,
       "source": "career_change",
@@ -242,7 +242,7 @@
     },
     {
       "name": "データサイエンティスト（マーケ）",
-      "areas": ["research"],
+      "areas": ["marketing", "research"],
       "role": null,
       "title": "supervisor",
       "source": "career_change",
@@ -252,7 +252,7 @@
     },
     {
       "name": "SNSディレクター",
-      "areas": ["sns"],
+      "areas": ["marketing", "sns"],
       "role": null,
       "title": null,
       "source": "career_change",
@@ -262,7 +262,7 @@
     },
     {
       "name": "コンテンツプランナー",
-      "areas": ["content_marketing"],
+      "areas": ["marketing", "content_marketing"],
       "role": null,
       "title": null,
       "source": "fresh_graduate",
@@ -272,7 +272,7 @@
     },
     {
       "name": "パフォーマンスマーケター",
-      "areas": ["digital_marketing"],
+      "areas": ["marketing", "digital_marketing"],
       "role": null,
       "title": null,
       "source": "career_change",
@@ -282,7 +282,7 @@
     },
     {
       "name": "PRスペシャリスト",
-      "areas": ["pr"],
+      "areas": ["marketing", "pr"],
       "role": null,
       "title": null,
       "source": "career_change",
@@ -292,7 +292,7 @@
     },
     {
       "name": "デジタル戦略担当",
-      "areas": ["digital_marketing"],
+      "areas": ["marketing", "digital_marketing"],
       "role": null,
       "title": null,
       "source": "career_change",

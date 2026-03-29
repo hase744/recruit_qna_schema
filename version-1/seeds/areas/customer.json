@@ -2,7 +2,7 @@
   "patterns": [
     {
       "name": "カスタマーサクセスCSマネージャー",
-      "areas": ["customer_success"],
+      "areas": ["customer", "customer_success"],
       "role": "customer_success_manager",
       "title": null,
       "source": "fresh_graduate",
@@ -12,7 +12,7 @@
     },
     {
       "name": "カスタマーサクセスオンボーディングスペシャリスト",
-      "areas": ["customer_success"],
+      "areas": ["customer", "customer_success"],
       "role": "onboarding_specialist",
       "title": null,
       "source": "career_change",
@@ -22,7 +22,7 @@
     },
     {
       "name": "カスタマーサクセスオンボーディングスペシャリスト（chief）",
-      "areas": ["customer_success"],
+      "areas": ["customer", "customer_success"],
       "role": "onboarding_specialist",
       "title": "chief",
       "source": "career_change",
@@ -32,7 +32,7 @@
     },
     {
       "name": "カスタマーサポート担当",
-      "areas": ["customer_support"],
+      "areas": ["customer", "customer_support"],
       "role": null,
       "title": null,
       "source": "career_change",
@@ -42,7 +42,7 @@
     },
     {
       "name": "カスタマーサポート担当",
-      "areas": ["customer_support"],
+      "areas": ["customer", "customer_support"],
       "role": null,
       "title": null,
       "source": "career_change",
@@ -52,7 +52,7 @@
     },
     {
       "name": "カスタマーサポートオンボーディングスペシャリスト",
-      "areas": ["customer_support"],
+      "areas": ["customer", "customer_support"],
       "role": "onboarding_specialist",
       "title": null,
       "source": "career_change",
@@ -62,7 +62,7 @@
     },
     {
       "name": "カスタマーサクセス担当（division_head）",
-      "areas": ["customer_success"],
+      "areas": ["customer", "customer_success"],
       "role": null,
       "title": "division_head",
       "source": "career_change",
@@ -72,7 +72,7 @@
     },
     {
       "name": "ヘルプデスクオンボーディングスペシャリスト",
-      "areas": ["helpdesk"],
+      "areas": ["customer", "helpdesk"],
       "role": "onboarding_specialist",
       "title": null,
       "source": "career_change",
@@ -82,7 +82,7 @@
     },
     {
       "name": "カスタマーサポートオンボーディングスペシャリスト",
-      "areas": ["customer_support"],
+      "areas": ["customer", "customer_support"],
       "role": "onboarding_specialist",
       "title": null,
       "source": "career_change",
@@ -92,7 +92,7 @@
     },
     {
       "name": "カスタマーサポートオンボーディングスペシャリスト（general_manager）",
-      "areas": ["customer_support"],
+      "areas": ["customer", "customer_support"],
       "role": "onboarding_specialist",
       "title": "general_manager",
       "source": "fresh_graduate",
@@ -102,7 +102,7 @@
     },
     {
       "name": "カスタマーサポートオンボーディングスペシャリスト",
-      "areas": ["customer_support"],
+      "areas": ["customer", "customer_support"],
       "role": "onboarding_specialist",
       "title": null,
       "source": "entrepreneur",
@@ -112,7 +112,7 @@
     },
     {
       "name": "カスタマーサポート担当",
-      "areas": ["customer_support"],
+      "areas": ["customer", "customer_support"],
       "role": null,
       "title": null,
       "source": "fresh_graduate",
@@ -122,7 +122,7 @@
     },
     {
       "name": "カスタマーサクセスオンボーディングスペシャリスト",
-      "areas": ["customer_success"],
+      "areas": ["customer", "customer_success"],
       "role": "onboarding_specialist",
       "title": null,
       "source": "career_change",
@@ -132,7 +132,7 @@
     },
     {
       "name": "カスタマーサクセスCSマネージャー",
-      "areas": ["customer_success"],
+      "areas": ["customer", "customer_success"],
       "role": "customer_success_manager",
       "title": null,
       "source": "career_change",
@@ -142,7 +142,7 @@
     },
     {
       "name": "カスタマーサクセスCSマネージャー",
-      "areas": ["customer_success"],
+      "areas": ["customer", "customer_success"],
       "role": "customer_success_manager",
       "title": null,
       "source": "fresh_graduate",
@@ -152,7 +152,7 @@
     },
     {
       "name": "カスタマーサクセス担当",
-      "areas": ["customer_success"],
+      "areas": ["customer", "customer_success"],
       "role": null,
       "title": null,
       "source": "fresh_graduate",
@@ -162,7 +162,7 @@
     },
     {
       "name": "カスタマーサポート担当",
-      "areas": ["customer_support"],
+      "areas": ["customer", "customer_support"],
       "role": null,
       "title": null,
       "source": "career_change",
@@ -172,7 +172,7 @@
     },
     {
       "name": "ヘルプデスクオンボーディングスペシャリスト",
-      "areas": ["helpdesk"],
+      "areas": ["customer", "helpdesk"],
       "role": "onboarding_specialist",
       "title": null,
       "source": "entrepreneur",
@@ -182,7 +182,7 @@
     },
     {
       "name": "ヘルプデスクオンボーディングスペシャリスト（section_head）",
-      "areas": ["helpdesk"],
+      "areas": ["customer", "helpdesk"],
       "role": "onboarding_specialist",
       "title": "section_head",
       "source": "career_change",
@@ -192,7 +192,7 @@
     },
     {
       "name": "カスタマーサポートCSマネージャー",
-      "areas": ["customer_support"],
+      "areas": ["customer", "customer_support"],
       "role": "customer_success_manager",
       "title": null,
       "source": "career_change",
@@ -202,7 +202,7 @@
     },
     {
       "name": "ヘルプデスクCSマネージャー（division_head）",
-      "areas": ["helpdesk"],
+      "areas": ["customer", "helpdesk"],
       "role": "customer_success_manager",
       "title": "division_head",
       "source": "fresh_graduate",
@@ -212,7 +212,7 @@
     },
     {
       "name": "ヘルプデスク担当（leader）",
-      "areas": ["helpdesk"],
+      "areas": ["customer", "helpdesk"],
       "role": null,
       "title": "leader",
       "source": "career_change",
@@ -222,7 +222,7 @@
     },
     {
       "name": "カスタマーサクセス担当",
-      "areas": ["customer_success"],
+      "areas": ["customer", "customer_success"],
       "role": null,
       "title": null,
       "source": "career_change",
@@ -232,7 +232,7 @@
     },
     {
       "name": "ヘルプデスクオンボーディングスペシャリスト",
-      "areas": ["helpdesk"],
+      "areas": ["customer", "helpdesk"],
       "role": "onboarding_specialist",
       "title": null,
       "source": "career_change",
@@ -242,7 +242,7 @@
     },
     {
       "name": "カスタマーサポートCSマネージャー",
-      "areas": ["customer_support"],
+      "areas": ["customer", "customer_support"],
       "role": "customer_success_manager",
       "title": null,
       "source": "entrepreneur",
@@ -252,7 +252,7 @@
     },
     {
       "name": "カスタマーサクセスオンボーディングスペシャリスト（department_head）",
-      "areas": ["customer_success"],
+      "areas": ["customer", "customer_success"],
       "role": "onboarding_specialist",
       "title": "department_head",
       "source": "fresh_graduate",
@@ -262,7 +262,7 @@
     },
     {
       "name": "ヘルプデスクオンボーディングスペシャリスト",
-      "areas": ["helpdesk"],
+      "areas": ["customer", "helpdesk"],
       "role": "onboarding_specialist",
       "title": null,
       "source": "career_change",
@@ -272,7 +272,7 @@
     },
     {
       "name": "カスタマーサポート担当",
-      "areas": ["customer_support"],
+      "areas": ["customer", "customer_support"],
       "role": null,
       "title": null,
       "source": "career_change",
@@ -282,7 +282,7 @@
     },
     {
       "name": "カスタマーサクセスCSマネージャー（leader）",
-      "areas": ["customer_success"],
+      "areas": ["customer", "customer_success"],
       "role": "customer_success_manager",
       "title": "leader",
       "source": "fresh_graduate",
@@ -292,7 +292,7 @@
     },
     {
       "name": "カスタマーサポートオンボーディングスペシャリスト",
-      "areas": ["customer_support"],
+      "areas": ["customer", "customer_support"],
       "role": "onboarding_specialist",
       "title": null,
       "source": "entrepreneur",

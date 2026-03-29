@@ -2,7 +2,7 @@
   "patterns": [
     {
       "name": "データサイエンティスト（中堅）",
-      "areas": ["data_analysis"],
+      "areas": ["development", "data_analysis"],
       "role": null,
       "title": null,
       "source": "career_change",
@@ -12,7 +12,7 @@
     },
     {
       "name": "機械学習エンジニア（リード）",
-      "areas": ["machine_learning", "mlops"],
+      "areas": ["development", "machine_learning", "mlops"],
       "role": "tech_lead",
       "title": "leader",
       "source": "career_change",
@@ -22,7 +22,7 @@
     },
     {
       "name": "データエンジニア（新卒入社）",
-      "areas": ["data_engineering"],
+      "areas": ["development", "data_engineering"],
       "role": null,
       "title": null,
       "source": "fresh_graduate",
@@ -32,7 +32,7 @@
     },
     {
       "name": "AIプロダクトマネージャー",
-      "areas": ["ai_development"],
+      "areas": ["development", "ai_development"],
       "role": "pdm",
       "title": "section_manager",
       "source": "career_change",
@@ -42,7 +42,7 @@
     },
     {
       "name": "BIエンジニア",
-      "areas": ["bi", "data_analysis"],
+      "areas": ["development", "bi", "data_analysis"],
       "role": null,
       "title": null,
       "source": "career_change",
@@ -52,7 +52,7 @@
     },
     {
       "name": "シニアデータアナリスト",
-      "areas": ["data_analysis"],
+      "areas": ["development", "data_analysis"],
       "role": null,
       "title": null,
       "source": "career_change",
@@ -62,7 +62,7 @@
     },
     {
       "name": "MLOpsエンジニア",
-      "areas": ["mlops", "data_engineering"],
+      "areas": ["development", "mlops", "data_engineering"],
       "role": null,
       "title": null,
       "source": "career_change",
@@ -72,7 +72,7 @@
     },
     {
       "name": "データプラットフォームアーキテクト",
-      "areas": ["data_engineering"],
+      "areas": ["development", "data_engineering"],
       "role": "architect",
       "title": "chief",
       "source": "career_change",
@@ -82,7 +82,7 @@
     },
     {
       "name": "AIリサーチエンジニア",
-      "areas": ["machine_learning", "ai_development"],
+      "areas": ["development", "machine_learning", "ai_development"],
       "role": null,
       "title": null,
       "source": "career_change",
@@ -92,7 +92,7 @@
     },
     {
       "name": "データ基盤エンジニア（若手）",
-      "areas": ["data_engineering"],
+      "areas": ["development", "data_engineering"],
       "role": null,
       "title": null,
       "source": "fresh_graduate",
@@ -102,7 +102,7 @@
     },
     {
       "name": "データ戦略担当（創業）",
-      "areas": ["data_analysis", "bi"],
+      "areas": ["development", "data_analysis", "bi"],
       "role": null,
       "title": "executive_officer",
       "source": "entrepreneur",
@@ -112,7 +112,7 @@
     },
     {
       "name": "機械学習アナリスト",
-      "areas": ["machine_learning", "data_analysis"],
+      "areas": ["development", "machine_learning", "data_analysis"],
       "role": null,
       "title": null,
       "source": "career_change",
@@ -122,7 +122,7 @@
     },
     {
       "name": "データビジュアライゼーション担当",
-      "areas": ["bi"],
+      "areas": ["development", "bi"],
       "role": null,
       "title": null,
       "source": "career_change",
@@ -132,7 +132,7 @@
     },
     {
       "name": "AIソリューションアーキテクト",
-      "areas": ["ai_development", "data_engineering"],
+      "areas": ["development", "ai_development", "data_engineering"],
       "role": "architect",
       "title": null,
       "source": "career_change",
@@ -142,7 +142,7 @@
     },
     {
       "name": "ジュニアデータエンジニア",
-      "areas": ["data_engineering"],
+      "areas": ["development", "data_engineering"],
       "role": null,
       "title": null,
       "source": "fresh_graduate",
@@ -152,7 +152,7 @@
     },
     {
       "name": "シニア機械学習エンジニア",
-      "areas": ["machine_learning"],
+      "areas": ["development", "machine_learning"],
       "role": null,
       "title": null,
       "source": "career_change",
@@ -162,7 +162,7 @@
     },
     {
       "name": "データプロダクトオーナー",
-      "areas": ["data_analysis", "bi"],
+      "areas": ["development", "data_analysis", "bi"],
       "role": "product_owner",
       "title": "department_head",
       "source": "career_change",
@@ -172,7 +172,7 @@
     },
     {
       "name": "AIエンジニア（中途）",
-      "areas": ["ai_development"],
+      "areas": ["development", "ai_development"],
       "role": null,
       "title": null,
       "source": "career_change",
@@ -182,7 +182,7 @@
     },
     {
       "name": "アナリティクスエンジニア",
-      "areas": ["data_analysis", "data_engineering"],
+      "areas": ["development", "data_analysis", "data_engineering"],
       "role": null,
       "title": null,
       "source": "career_change",
@@ -192,7 +192,7 @@
     },
     {
       "name": "機械学習オペレーション担当",
-      "areas": ["mlops"],
+      "areas": ["development", "mlops"],
       "role": null,
       "title": null,
       "source": "career_change",
@@ -202,7 +202,7 @@
     },
     {
       "name": "データ活用コンサルタント",
-      "areas": ["data_analysis", "bi"],
+      "areas": ["development", "data_analysis", "bi"],
       "role": null,
       "title": null,
       "source": "career_change",
@@ -212,7 +212,7 @@
     },
     {
       "name": "AIモデル開発エンジニア",
-      "areas": ["machine_learning"],
+      "areas": ["development", "machine_learning"],
       "role": null,
       "title": null,
       "source": "career_change",
@@ -222,7 +222,7 @@
     },
     {
       "name": "チーフデータサイエンティスト",
-      "areas": ["data_analysis", "machine_learning"],
+      "areas": ["development", "data_analysis", "machine_learning"],
       "role": "tech_lead",
       "title": "general_manager",
       "source": "career_change",
@@ -232,7 +232,7 @@
     },
     {
       "name": "データエンジニア（ミドル）",
-      "areas": ["data_engineering"],
+      "areas": ["development", "data_engineering"],
       "role": null,
       "title": null,
       "source": "career_change",
@@ -242,7 +242,7 @@
     },
     {
       "name": "BIディレクター",
-      "areas": ["bi"],
+      "areas": ["development", "bi"],
       "role": "pm",
       "title": null,
       "source": "career_change",
@@ -252,7 +252,7 @@
     },
     {
       "name": "データ基盤運用担当",
-      "areas": ["data_engineering", "mlops"],
+      "areas": ["development", "data_engineering", "mlops"],
       "role": null,
       "title": null,
       "source": "career_change",
@@ -262,7 +262,7 @@
     },
     {
       "name": "AI導入支援エンジニア",
-      "areas": ["ai_development"],
+      "areas": ["development", "ai_development"],
       "role": null,
       "title": null,
       "source": "career_change",
@@ -272,7 +272,7 @@
     },
     {
       "name": "ジュニアアナリスト",
-      "areas": ["data_analysis"],
+      "areas": ["development", "data_analysis"],
       "role": null,
       "title": null,
       "source": "fresh_graduate",
@@ -282,7 +282,7 @@
     },
     {
       "name": "MLシステムアーキテクト",
-      "areas": ["machine_learning", "mlops"],
+      "areas": ["development", "machine_learning", "mlops"],
       "role": "architect",
       "title": null,
       "source": "career_change",
@@ -292,7 +292,7 @@
     },
     {
       "name": "データエンジニア（創業）",
-      "areas": ["data_engineering"],
+      "areas": ["development", "data_engineering"],
       "role": null,
       "title": null,
       "source": "entrepreneur",

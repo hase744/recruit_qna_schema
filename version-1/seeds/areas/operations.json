@@ -2,7 +2,7 @@
   "patterns": [
     {
       "name": "店舗スタッフ",
-      "areas": ["store_operation"],
+      "areas": ["operation", "store_operation"],
       "role": null,
       "title": null,
       "source": "fresh_graduate",
@@ -12,7 +12,7 @@
     },
     {
       "name": "店舗運営マネージャー",
-      "areas": ["store_operation"],
+      "areas": ["operation", "store_operation"],
       "role": null,
       "title": "section_manager",
       "source": "career_change",
@@ -22,7 +22,7 @@
     },
     {
       "name": "店舗スタッフ",
-      "areas": ["store_operation"],
+      "areas": ["operation", "store_operation"],
       "role": null,
       "title": null,
       "source": "career_change",
@@ -32,7 +32,7 @@
     },
     {
       "name": "店舗スタッフ",
-      "areas": ["store_operation"],
+      "areas": ["operation", "store_operation"],
       "role": null,
       "title": null,
       "source": "fresh_graduate",
@@ -42,7 +42,7 @@
     },
     {
       "name": "店舗スタッフ",
-      "areas": ["store_operation"],
+      "areas": ["operation", "store_operation"],
       "role": null,
       "title": null,
       "source": "career_change",
@@ -52,7 +52,7 @@
     },
     {
       "name": "店舗リーダー",
-      "areas": ["store_operation"],
+      "areas": ["operation", "store_operation"],
       "role": null,
       "title": "leader",
       "source": "career_change",
@@ -62,7 +62,7 @@
     },
     {
       "name": "店舗スタッフ",
-      "areas": ["store_operation"],
+      "areas": ["operation", "store_operation"],
       "role": null,
       "title": null,
       "source": "fresh_graduate",
@@ -72,7 +72,7 @@
     },
     {
       "name": "店舗スタッフ",
-      "areas": ["store_operation"],
+      "areas": ["operation", "store_operation"],
       "role": null,
       "title": null,
       "source": "career_change",
@@ -82,7 +82,7 @@
     },
     {
       "name": "店舗スタッフ",
-      "areas": ["store_operation"],
+      "areas": ["operation", "store_operation"],
       "role": null,
       "title": null,
       "source": "career_change",
@@ -92,7 +92,7 @@
     },
     {
       "name": "店舗スタッフ",
-      "areas": ["store_operation"],
+      "areas": ["operation", "store_operation"],
       "role": null,
       "title": null,
       "source": "fresh_graduate",
@@ -102,7 +102,7 @@
     },
     {
       "name": "店舗スタッフ",
-      "areas": ["store_operation"],
+      "areas": ["operation", "store_operation"],
       "role": null,
       "title": null,
       "source": "career_change",
@@ -112,7 +112,7 @@
     },
     {
       "name": "工場スタッフ",
-      "areas": ["factory"],
+      "areas": ["operation", "factory"],
       "role": null,
       "title": null,
       "source": "fresh_graduate",
@@ -122,7 +122,7 @@
     },
     {
       "name": "工場長",
-      "areas": ["factory"],
+      "areas": ["operation", "factory"],
       "role": null,
       "title": "department_head",
       "source": "career_change",
@@ -132,7 +132,7 @@
     },
     {
       "name": "工場スタッフ",
-      "areas": ["factory"],
+      "areas": ["operation", "factory"],
       "role": null,
       "title": null,
       "source": "career_change",
@@ -142,7 +142,7 @@
     },
     {
       "name": "工場スタッフ",
-      "areas": ["factory"],
+      "areas": ["operation", "factory"],
       "role": null,
       "title": null,
       "source": "career_change",
@@ -152,7 +152,7 @@
     },
     {
       "name": "工場班長",
-      "areas": ["factory"],
+      "areas": ["operation", "factory"],
       "role": null,
       "title": "supervisor",
       "source": "career_change",
@@ -162,7 +162,7 @@
     },
     {
       "name": "工場スタッフ",
-      "areas": ["factory"],
+      "areas": ["operation", "factory"],
       "role": null,
       "title": null,
       "source": "fresh_graduate",
@@ -172,7 +172,7 @@
     },
     {
       "name": "工場スタッフ",
-      "areas": ["factory"],
+      "areas": ["operation", "factory"],
       "role": null,
       "title": null,
       "source": "career_change",
@@ -182,7 +182,7 @@
     },
     {
       "name": "工場スタッフ",
-      "areas": ["factory"],
+      "areas": ["operation", "factory"],
       "role": null,
       "title": null,
       "source": "career_change",
@@ -192,7 +192,7 @@
     },
     {
       "name": "工場スタッフ",
-      "areas": ["factory"],
+      "areas": ["operation", "factory"],
       "role": null,
       "title": null,
       "source": "entrepreneur",
@@ -202,7 +202,7 @@
     },
     {
       "name": "物流スタッフ",
-      "areas": ["logistics"],
+      "areas": ["operation", "logistics"],
       "role": null,
       "title": null,
       "source": "fresh_graduate",
@@ -212,7 +212,7 @@
     },
     {
       "name": "物流マネージャー",
-      "areas": ["logistics"],
+      "areas": ["operation", "logistics"],
       "role": null,
       "title": "section_manager",
       "source": "career_change",
@@ -222,7 +222,7 @@
     },
     {
       "name": "物流スタッフ",
-      "areas": ["logistics"],
+      "areas": ["operation", "logistics"],
       "role": null,
       "title": null,
       "source": "career_change",
@@ -232,7 +232,7 @@
     },
     {
       "name": "物流リーダー",
-      "areas": ["logistics"],
+      "areas": ["operation", "logistics"],
       "role": null,
       "title": "leader",
       "source": "career_change",
@@ -242,7 +242,7 @@
     },
     {
       "name": "物流スタッフ",
-      "areas": ["logistics"],
+      "areas": ["operation", "logistics"],
       "role": null,
       "title": null,
       "source": "fresh_graduate",
@@ -252,7 +252,7 @@
     },
     {
       "name": "物流スタッフ",
-      "areas": ["logistics"],
+      "areas": ["operation", "logistics"],
       "role": null,
       "title": null,
       "source": "career_change",
@@ -262,7 +262,7 @@
     },
     {
       "name": "物流スタッフ",
-      "areas": ["logistics"],
+      "areas": ["operation", "logistics"],
       "role": null,
       "title": null,
       "source": "career_change",
@@ -272,7 +272,7 @@
     },
     {
       "name": "物流スタッフ",
-      "areas": ["logistics"],
+      "areas": ["operation", "logistics"],
       "role": null,
       "title": null,
       "source": "fresh_graduate",
@@ -282,7 +282,7 @@
     },
     {
       "name": "物流スタッフ",
-      "areas": ["logistics"],
+      "areas": ["operation", "logistics"],
       "role": null,
       "title": null,
       "source": "career_change",
@@ -292,7 +292,7 @@
     },
     {
       "name": "店舗スタッフ",
-      "areas": ["store_operation"],
+      "areas": ["operation", "store_operation"],
       "role": null,
       "title": null,
       "source": "career_change",
