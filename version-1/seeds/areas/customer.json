@@ -1,52 +1,304 @@
 {
   "patterns": [
     {
-      "key": "customer_success_manager",
-      "name": "カスタマーサクセスマネージャー",
-      "area": ["customer_success"],
+      "name": "カスタマーサクセスCSマネージャー",
+      "areas": ["customer_success"],
       "role": "customer_success_manager",
       "title": null,
-      "source": "career_change"
+      "source": "fresh_graduate",
+      "gender": "female",
+      "age": 23,
+      "tenure_years": 1
     },
     {
-      "key": "customer_success",
-      "name": "カスタマーサクセス担当",
-      "area": ["customer_success"],
-      "role": null,
-      "title": null,
-      "source": "career_change"
-    },
-    {
-      "key": "onboarding_specialist",
-      "name": "オンボーディング担当",
-      "area": ["customer_success"],
+      "name": "カスタマーサクセスオンボーディングスペシャリスト",
+      "areas": ["customer_success"],
       "role": "onboarding_specialist",
       "title": null,
-      "source": "career_change"
+      "source": "career_change",
+      "gender": "female",
+      "age": 27,
+      "tenure_years": 7
     },
     {
-      "key": "customer_support_lead",
-      "name": "カスタマーサポートリーダー",
-      "area": ["customer_support"],
+      "name": "カスタマーサクセスオンボーディングスペシャリスト（chief）",
+      "areas": ["customer_success"],
+      "role": "onboarding_specialist",
+      "title": "chief",
+      "source": "career_change",
+      "gender": "male",
+      "age": 27,
+      "tenure_years": 5
+    },
+    {
+      "name": "カスタマーサポート担当",
+      "areas": ["customer_support"],
+      "role": null,
+      "title": null,
+      "source": "career_change",
+      "gender": "female",
+      "age": 30,
+      "tenure_years": 6
+    },
+    {
+      "name": "カスタマーサポート担当",
+      "areas": ["customer_support"],
+      "role": null,
+      "title": null,
+      "source": "career_change",
+      "gender": "female",
+      "age": 20,
+      "tenure_years": 1
+    },
+    {
+      "name": "カスタマーサポートオンボーディングスペシャリスト",
+      "areas": ["customer_support"],
+      "role": "onboarding_specialist",
+      "title": null,
+      "source": "career_change",
+      "gender": "female",
+      "age": 29,
+      "tenure_years": 1
+    },
+    {
+      "name": "カスタマーサクセス担当（division_head）",
+      "areas": ["customer_success"],
+      "role": null,
+      "title": "division_head",
+      "source": "career_change",
+      "gender": "female",
+      "age": 21,
+      "tenure_years": 1
+    },
+    {
+      "name": "ヘルプデスクオンボーディングスペシャリスト",
+      "areas": ["helpdesk"],
+      "role": "onboarding_specialist",
+      "title": null,
+      "source": "career_change",
+      "gender": "female",
+      "age": 26,
+      "tenure_years": 1
+    },
+    {
+      "name": "カスタマーサポートオンボーディングスペシャリスト",
+      "areas": ["customer_support"],
+      "role": "onboarding_specialist",
+      "title": null,
+      "source": "career_change",
+      "gender": "female",
+      "age": 31,
+      "tenure_years": 3
+    },
+    {
+      "name": "カスタマーサポートオンボーディングスペシャリスト（general_manager）",
+      "areas": ["customer_support"],
+      "role": "onboarding_specialist",
+      "title": "general_manager",
+      "source": "fresh_graduate",
+      "gender": "male",
+      "age": 37,
+      "tenure_years": 6
+    },
+    {
+      "name": "カスタマーサポートオンボーディングスペシャリスト",
+      "areas": ["customer_support"],
+      "role": "onboarding_specialist",
+      "title": null,
+      "source": "entrepreneur",
+      "gender": "female",
+      "age": 37,
+      "tenure_years": 4
+    },
+    {
+      "name": "カスタマーサポート担当",
+      "areas": ["customer_support"],
+      "role": null,
+      "title": null,
+      "source": "fresh_graduate",
+      "gender": "female",
+      "age": 25,
+      "tenure_years": 3
+    },
+    {
+      "name": "カスタマーサクセスオンボーディングスペシャリスト",
+      "areas": ["customer_success"],
+      "role": "onboarding_specialist",
+      "title": null,
+      "source": "career_change",
+      "gender": "female",
+      "age": 39,
+      "tenure_years": 12
+    },
+    {
+      "name": "カスタマーサクセスCSマネージャー",
+      "areas": ["customer_success"],
+      "role": "customer_success_manager",
+      "title": null,
+      "source": "career_change",
+      "gender": "female",
+      "age": 38,
+      "tenure_years": 9
+    },
+    {
+      "name": "カスタマーサクセスCSマネージャー",
+      "areas": ["customer_success"],
+      "role": "customer_success_manager",
+      "title": null,
+      "source": "fresh_graduate",
+      "gender": "male",
+      "age": 24,
+      "tenure_years": 2
+    },
+    {
+      "name": "カスタマーサクセス担当",
+      "areas": ["customer_success"],
+      "role": null,
+      "title": null,
+      "source": "fresh_graduate",
+      "gender": "female",
+      "age": 39,
+      "tenure_years": 13
+    },
+    {
+      "name": "カスタマーサポート担当",
+      "areas": ["customer_support"],
+      "role": null,
+      "title": null,
+      "source": "career_change",
+      "gender": "female",
+      "age": 30,
+      "tenure_years": 9
+    },
+    {
+      "name": "ヘルプデスクオンボーディングスペシャリスト",
+      "areas": ["helpdesk"],
+      "role": "onboarding_specialist",
+      "title": null,
+      "source": "entrepreneur",
+      "gender": "male",
+      "age": 30,
+      "tenure_years": 10
+    },
+    {
+      "name": "ヘルプデスクオンボーディングスペシャリスト（section_head）",
+      "areas": ["helpdesk"],
+      "role": "onboarding_specialist",
+      "title": "section_head",
+      "source": "career_change",
+      "gender": "female",
+      "age": 31,
+      "tenure_years": 4
+    },
+    {
+      "name": "カスタマーサポートCSマネージャー",
+      "areas": ["customer_support"],
+      "role": "customer_success_manager",
+      "title": null,
+      "source": "career_change",
+      "gender": "male",
+      "age": 33,
+      "tenure_years": 12
+    },
+    {
+      "name": "ヘルプデスクCSマネージャー（division_head）",
+      "areas": ["helpdesk"],
+      "role": "customer_success_manager",
+      "title": "division_head",
+      "source": "fresh_graduate",
+      "gender": "male",
+      "age": 26,
+      "tenure_years": 1
+    },
+    {
+      "name": "ヘルプデスク担当（leader）",
+      "areas": ["helpdesk"],
       "role": null,
       "title": "leader",
-      "source": "career_change"
+      "source": "career_change",
+      "gender": "female",
+      "age": 30,
+      "tenure_years": 2
     },
     {
-      "key": "customer_support",
+      "name": "カスタマーサクセス担当",
+      "areas": ["customer_success"],
+      "role": null,
+      "title": null,
+      "source": "career_change",
+      "gender": "female",
+      "age": 33,
+      "tenure_years": 6
+    },
+    {
+      "name": "ヘルプデスクオンボーディングスペシャリスト",
+      "areas": ["helpdesk"],
+      "role": "onboarding_specialist",
+      "title": null,
+      "source": "career_change",
+      "gender": "male",
+      "age": 26,
+      "tenure_years": 5
+    },
+    {
+      "name": "カスタマーサポートCSマネージャー",
+      "areas": ["customer_support"],
+      "role": "customer_success_manager",
+      "title": null,
+      "source": "entrepreneur",
+      "gender": "female",
+      "age": 31,
+      "tenure_years": 8
+    },
+    {
+      "name": "カスタマーサクセスオンボーディングスペシャリスト（department_head）",
+      "areas": ["customer_success"],
+      "role": "onboarding_specialist",
+      "title": "department_head",
+      "source": "fresh_graduate",
+      "gender": "male",
+      "age": 26,
+      "tenure_years": 2
+    },
+    {
+      "name": "ヘルプデスクオンボーディングスペシャリスト",
+      "areas": ["helpdesk"],
+      "role": "onboarding_specialist",
+      "title": null,
+      "source": "career_change",
+      "gender": "male",
+      "age": 33,
+      "tenure_years": 8
+    },
+    {
       "name": "カスタマーサポート担当",
-      "area": ["customer_support"],
+      "areas": ["customer_support"],
       "role": null,
       "title": null,
-      "source": "fresh_graduate"
+      "source": "career_change",
+      "gender": "female",
+      "age": 32,
+      "tenure_years": 4
     },
     {
-      "key": "helpdesk",
-      "name": "ヘルプデスク担当",
-      "area": ["helpdesk"],
-      "role": null,
+      "name": "カスタマーサクセスCSマネージャー（leader）",
+      "areas": ["customer_success"],
+      "role": "customer_success_manager",
+      "title": "leader",
+      "source": "fresh_graduate",
+      "gender": "female",
+      "age": 33,
+      "tenure_years": 10
+    },
+    {
+      "name": "カスタマーサポートオンボーディングスペシャリスト",
+      "areas": ["customer_support"],
+      "role": "onboarding_specialist",
       "title": null,
-      "source": "fresh_graduate"
+      "source": "entrepreneur",
+      "gender": "female",
+      "age": 27,
+      "tenure_years": 3
     }
   ]
 }

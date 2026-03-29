@@ -1,68 +1,304 @@
 {
   "patterns": [
     {
-      "key": "cdo",
-      "name": "CDO",
-      "area": ["data_engineering", "machine_learning"],
-      "role": "architect",
-      "title": "cdo",
-      "source": "career_change"
-    },
-    {
-      "key": "data_engineer_lead",
-      "name": "データエンジニア（リード）",
-      "area": ["data_engineering"],
+      "name": "シニアデータエンジニア",
+      "areas": ["data_engineering", "mlops"],
       "role": "tech_lead",
+      "title": null,
+      "source": "career_change",
+      "gender": "male",
+      "age": 34,
+      "tenure": 5
+    },
+    {
+      "name": "データサイエンティスト",
+      "areas": ["data_analysis", "machine_learning"],
+      "role": null,
+      "title": null,
+      "source": "career_change",
+      "gender": "male",
+      "age": 29,
+      "tenure": 3
+    },
+    {
+      "name": "AIソリューションアーキテクト",
+      "areas": ["ai_development", "data_engineering"],
+      "role": "architect",
       "title": "leader",
-      "source": "career_change"
+      "source": "career_change",
+      "gender": "male",
+      "age": 38,
+      "tenure": 6
     },
     {
-      "key": "data_engineer",
-      "name": "データエンジニア",
-      "area": ["data_engineering"],
+      "name": "BIアナリスト",
+      "areas": ["bi", "data_analysis"],
       "role": null,
       "title": null,
-      "source": "career_change"
+      "source": "fresh_graduate",
+      "gender": "female",
+      "age": 26,
+      "tenure": 4
     },
     {
-      "key": "data_analyst",
-      "name": "データアナリスト",
-      "area": ["data_analysis", "bi"],
-      "role": null,
-      "title": null,
-      "source": "career_change"
-    },
-    {
-      "key": "ml_engineer",
-      "name": "機械学習エンジニア",
-      "area": ["machine_learning", "ai_development"],
-      "role": null,
-      "title": null,
-      "source": "career_change"
-    },
-    {
-      "key": "ai_researcher",
-      "name": "AI研究開発エンジニア",
-      "area": ["ai_development", "machine_learning"],
-      "role": null,
-      "title": null,
-      "source": "career_change"
-    },
-    {
-      "key": "bi_engineer",
-      "name": "BIエンジニア",
-      "area": ["bi", "data_analysis"],
-      "role": null,
-      "title": null,
-      "source": "career_change"
-    },
-    {
-      "key": "mlops_engineer",
       "name": "MLOpsエンジニア",
-      "area": ["mlops", "infrastructure"],
+      "areas": ["mlops", "data_engineering"],
+      "role": "tech_lead",
+      "title": null,
+      "source": "career_change",
+      "gender": "male",
+      "age": 32,
+      "tenure": 2
+    },
+    {
+      "name": "データ基盤マネージャー",
+      "areas": ["data_engineering"],
+      "role": "pm",
+      "title": "section_manager",
+      "source": "career_change",
+      "gender": "male",
+      "age": 42,
+      "tenure": 8
+    },
+    {
+      "name": "機械学習エンジニア",
+      "areas": ["machine_learning", "ai_development"],
       "role": null,
       "title": null,
-      "source": "career_change"
+      "source": "career_change",
+      "gender": "male",
+      "age": 31,
+      "tenure": 4
+    },
+    {
+      "name": "データアナリスト",
+      "areas": ["data_analysis"],
+      "role": null,
+      "title": null,
+      "source": "fresh_graduate",
+      "gender": "female",
+      "age": 24,
+      "tenure": 2
+    },
+    {
+      "name": "チーフデータオフィサー",
+      "areas": ["data_analysis", "data_engineering"],
+      "role": null,
+      "title": "cdo",
+      "source": "entrepreneur",
+      "gender": "male",
+      "age": 45,
+      "tenure": 12
+    },
+    {
+      "name": "AIエンジニア",
+      "areas": ["ai_development"],
+      "role": null,
+      "title": null,
+      "source": "career_change",
+      "gender": "male",
+      "age": 28,
+      "tenure": 3
+    },
+    {
+      "name": "シニアデータアナリスト",
+      "areas": ["data_analysis", "bi"],
+      "role": "tech_lead",
+      "title": null,
+      "source": "career_change",
+      "gender": "male",
+      "age": 36,
+      "tenure": 7
+    },
+    {
+      "name": "分析基盤エンジニア",
+      "areas": ["data_engineering", "mlops"],
+      "role": null,
+      "title": null,
+      "source": "career_change",
+      "gender": "male",
+      "age": 33,
+      "tenure": 4
+    },
+    {
+      "name": "データサイエンス・リード",
+      "areas": ["machine_learning", "data_analysis"],
+      "role": "tech_lead",
+      "title": "chief",
+      "source": "career_change",
+      "gender": "female",
+      "age": 35,
+      "tenure": 5
+    },
+    {
+      "name": "ジュニアエンジニア",
+      "areas": ["ai_development"],
+      "role": null,
+      "title": null,
+      "source": "fresh_graduate",
+      "gender": "male",
+      "age": 23,
+      "tenure": 1
+    },
+    {
+      "name": "BIダッシュボード開発",
+      "areas": ["bi"],
+      "role": null,
+      "title": null,
+      "source": "career_change",
+      "gender": "female",
+      "age": 30,
+      "tenure": 3
+    },
+    {
+      "name": "MLリサーチエンジニア",
+      "areas": ["machine_learning"],
+      "role": "architect",
+      "title": null,
+      "source": "career_change",
+      "gender": "male",
+      "age": 39,
+      "tenure": 4
+    },
+    {
+      "name": "データエンジニア",
+      "areas": ["data_engineering"],
+      "role": null,
+      "title": null,
+      "source": "career_change",
+      "gender": "male",
+      "age": 27,
+      "tenure": 2
+    },
+    {
+      "name": "AIプロジェクトマネージャー",
+      "areas": ["ai_development"],
+      "role": "pm",
+      "title": "leader",
+      "source": "career_change",
+      "gender": "male",
+      "age": 37,
+      "tenure": 6
+    },
+    {
+      "name": "データモデラー",
+      "areas": ["data_engineering", "data_analysis"],
+      "role": null,
+      "title": null,
+      "source": "career_change",
+      "gender": "male",
+      "age": 34,
+      "tenure": 5
+    },
+    {
+      "name": "統計解析スペシャリスト",
+      "areas": ["data_analysis"],
+      "role": null,
+      "title": null,
+      "source": "career_change",
+      "gender": "female",
+      "age": 32,
+      "tenure": 4
+    },
+    {
+      "name": "MLOpsスペシャリスト",
+      "areas": ["mlops"],
+      "role": "architect",
+      "title": null,
+      "source": "career_change",
+      "gender": "male",
+      "age": 41,
+      "tenure": 3
+    },
+    {
+      "name": "データパイプライン作成担当",
+      "areas": ["data_engineering"],
+      "role": null,
+      "title": null,
+      "source": "fresh_graduate",
+      "gender": "male",
+      "age": 25,
+      "tenure": 3
+    },
+    {
+      "name": "リードAIエンジニア",
+      "areas": ["ai_development", "machine_learning"],
+      "role": "tech_lead",
+      "title": null,
+      "source": "career_change",
+      "gender": "male",
+      "age": 33,
+      "tenure": 5
+    },
+    {
+      "name": "データビジュアライザー",
+      "areas": ["bi", "data_analysis"],
+      "role": null,
+      "title": null,
+      "source": "career_change",
+      "gender": "male",
+      "age": 29,
+      "tenure": 2
+    },
+    {
+      "name": "シニア機械学習エンジニア",
+      "areas": ["machine_learning"],
+      "role": null,
+      "title": "supervisor",
+      "source": "career_change",
+      "gender": "male",
+      "age": 36,
+      "tenure": 7
+    },
+    {
+      "name": "データエンジニア",
+      "areas": ["data_engineering"],
+      "role": null,
+      "title": null,
+      "source": "career_change",
+      "gender": "male",
+      "age": 31,
+      "tenure": 4
+    },
+    {
+      "name": "分析チームリーダー",
+      "areas": ["data_analysis"],
+      "role": "pm",
+      "title": null,
+      "source": "career_change",
+      "gender": "female",
+      "age": 38,
+      "tenure": 9
+    },
+    {
+      "name": "プロダクトAIエンジニア",
+      "areas": ["ai_development"],
+      "role": null,
+      "title": null,
+      "source": "career_change",
+      "gender": "male",
+      "age": 30,
+      "tenure": 3
+    },
+    {
+      "name": "ETLデベロッパー",
+      "areas": ["data_engineering"],
+      "role": null,
+      "title": null,
+      "source": "career_change",
+      "gender": "male",
+      "age": 35,
+      "tenure": 6
+    },
+    {
+      "name": "データ基盤アーキテクト",
+      "areas": ["data_engineering", "mlops"],
+      "role": "architect",
+      "title": null,
+      "source": "entrepreneur",
+      "gender": "male",
+      "age": 44,
+      "tenure": 10
     }
   ]
 }

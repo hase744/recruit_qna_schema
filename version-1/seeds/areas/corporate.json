@@ -1,76 +1,304 @@
 {
   "patterns": [
     {
-      "key": "chro",
       "name": "CHRO",
-      "area": ["hr"],
+      "areas": ["hr"],
       "role": null,
       "title": "chro",
-      "source": "career_change"
+      "source": "career_change",
+      "gender": "female",
+      "age": 45,
+      "tenure_years": 3
     },
     {
-      "key": "hrbp",
-      "name": "HRBP",
-      "area": ["hr"],
-      "role": "hrbp",
-      "title": null,
-      "source": "career_change"
-    },
-    {
-      "key": "recruiter",
-      "name": "リクルーター",
-      "area": ["hr"],
-      "role": "recruiter",
-      "title": null,
-      "source": "career_change"
-    },
-    {
-      "key": "hr_generalist",
-      "name": "人事（労務・制度）",
-      "area": ["hr"],
-      "role": null,
-      "title": null,
-      "source": "career_change"
-    },
-    {
-      "key": "cfo",
       "name": "CFO",
-      "area": ["finance"],
+      "areas": ["finance"],
       "role": null,
       "title": "cfo",
-      "source": "career_change"
+      "source": "career_change",
+      "gender": "male",
+      "age": 42,
+      "tenure_years": 5
     },
     {
-      "key": "accountant",
-      "name": "経理・財務担当",
-      "area": ["finance"],
+      "name": "人事部長",
+      "areas": ["hr"],
+      "role": null,
+      "title": "department_head",
+      "source": "career_change",
+      "gender": "female",
+      "age": 48,
+      "tenure_years": 12
+    },
+    {
+      "name": "経営企画室長",
+      "areas": ["management_planning"],
+      "role": null,
+      "title": "general_manager",
+      "source": "career_change",
+      "gender": "male",
+      "age": 39,
+      "tenure_years": 4
+    },
+    {
+      "name": "法務マネージャー",
+      "areas": ["legal"],
+      "role": null,
+      "title": "section_manager",
+      "source": "career_change",
+      "gender": "male",
+      "age": 37,
+      "tenure_years": 6
+    },
+    {
+      "name": "創業メンバー・管理担当",
+      "areas": ["general_affairs", "finance"],
+      "role": null,
+      "title": "executive_officer",
+      "source": "entrepreneur",
+      "gender": "female",
+      "age": 40,
+      "tenure_years": 10
+    },
+    {
+      "name": "HRBP",
+      "areas": ["hr"],
+      "role": "hrbp",
+      "title": null,
+      "source": "career_change",
+      "gender": "female",
+      "age": 34,
+      "tenure_years": 2
+    },
+    {
+      "name": "シニアリクルーター",
+      "areas": ["recruiting"],
+      "role": "recruiter",
+      "title": null,
+      "source": "career_change",
+      "gender": "female",
+      "age": 31,
+      "tenure_years": 4
+    },
+    {
+      "name": "採用担当",
+      "areas": ["recruiting"],
+      "role": "recruiter",
+      "title": null,
+      "source": "career_change",
+      "gender": "female",
+      "age": 28,
+      "tenure_years": 2
+    },
+    {
+      "name": "新卒採用担当",
+      "areas": ["recruiting"],
+      "role": "recruiter",
+      "title": null,
+      "source": "fresh_graduate",
+      "gender": "female",
+      "age": 25,
+      "tenure_years": 3
+    },
+    {
+      "name": "労務スペシャリスト",
+      "areas": ["hr"],
       "role": null,
       "title": null,
-      "source": "career_change"
+      "source": "career_change",
+      "gender": "male",
+      "age": 36,
+      "tenure_years": 8
     },
     {
-      "key": "legal",
-      "name": "法務担当",
-      "area": ["legal"],
+      "name": "人事事務",
+      "areas": ["hr"],
       "role": null,
       "title": null,
-      "source": "career_change"
+      "source": "fresh_graduate",
+      "gender": "female",
+      "age": 23,
+      "tenure_years": 1
     },
     {
-      "key": "general_affairs",
-      "name": "総務担当",
-      "area": ["general_affairs"],
+      "name": "経理担当",
+      "areas": ["finance"],
       "role": null,
       "title": null,
-      "source": "fresh_graduate"
+      "source": "career_change",
+      "gender": "female",
+      "age": 33,
+      "tenure_years": 5
     },
     {
-      "key": "internal_audit",
+      "name": "財務・資金調達担当",
+      "areas": ["finance"],
+      "role": null,
+      "title": null,
+      "source": "career_change",
+      "gender": "male",
+      "age": 30,
+      "tenure_years": 3
+    },
+    {
+      "name": "IR担当",
+      "areas": ["finance"],
+      "role": "ir",
+      "title": null,
+      "source": "career_change",
+      "gender": "male",
+      "age": 35,
+      "tenure_years": 2
+    },
+    {
       "name": "内部監査",
-      "area": ["finance", "legal"],
+      "areas": ["finance", "legal"],
       "role": "internal_audit",
       "title": null,
-      "source": "career_change"
+      "source": "career_change",
+      "gender": "male",
+      "age": 44,
+      "tenure_years": 1
+    },
+    {
+      "name": "法務担当",
+      "areas": ["legal"],
+      "role": null,
+      "title": null,
+      "source": "career_change",
+      "gender": "female",
+      "age": 29,
+      "tenure_years": 4
+    },
+    {
+      "name": "コンプライアンス担当",
+      "areas": ["legal"],
+      "role": null,
+      "title": null,
+      "source": "career_change",
+      "gender": "male",
+      "age": 38,
+      "tenure_years": 7
+    },
+    {
+      "name": "総務リーダー",
+      "areas": ["general_affairs"],
+      "role": null,
+      "title": null,
+      "source": "career_change",
+      "gender": "female",
+      "age": 35,
+      "tenure_years": 9
+    },
+    {
+      "name": "総務担当",
+      "areas": ["general_affairs"],
+      "role": null,
+      "title": null,
+      "source": "fresh_graduate",
+      "gender": "female",
+      "age": 24,
+      "tenure_years": 2
+    },
+    {
+      "name": "施設管理担当",
+      "areas": ["general_affairs"],
+      "role": null,
+      "title": null,
+      "source": "career_change",
+      "gender": "male",
+      "age": 41,
+      "tenure_years": 5
+    },
+    {
+      "name": "経営企画担当",
+      "areas": ["management_planning"],
+      "role": null,
+      "title": null,
+      "source": "career_change",
+      "gender": "male",
+      "age": 32,
+      "tenure_years": 4
+    },
+    {
+      "name": "事業企画担当",
+      "areas": ["business_planning"],
+      "role": null,
+      "title": null,
+      "source": "career_change",
+      "gender": "female",
+      "age": 29,
+      "tenure_years": 3
+    },
+    {
+      "name": "BizDev（コーポレート）",
+      "areas": ["bizdev"],
+      "role": null,
+      "title": null,
+      "source": "career_change",
+      "gender": "female",
+      "age": 31,
+      "tenure_years": 2
+    },
+    {
+      "name": "広報・PR",
+      "areas": ["pr"],
+      "role": null,
+      "title": null,
+      "source": "career_change",
+      "gender": "female",
+      "age": 27,
+      "tenure_years": 4
+    },
+    {
+      "name": "秘書",
+      "areas": ["general_affairs"],
+      "role": null,
+      "title": null,
+      "source": "career_change",
+      "gender": "female",
+      "age": 33,
+      "tenure_years": 6
+    },
+    {
+      "name": "情報システム担当",
+      "areas": ["general_affairs"],
+      "role": null,
+      "title": null,
+      "source": "career_change",
+      "gender": "male",
+      "age": 36,
+      "tenure_years": 3
+    },
+    {
+      "name": "リーガルアシスタント",
+      "areas": ["legal"],
+      "role": null,
+      "title": null,
+      "source": "fresh_graduate",
+      "gender": "female",
+      "age": 22,
+      "tenure_years": 0
+    },
+    {
+      "name": "経理アシスタント",
+      "areas": ["finance"],
+      "role": null,
+      "title": null,
+      "source": "fresh_graduate",
+      "gender": "female",
+      "age": 26,
+      "tenure_years": 4
+    },
+    {
+      "name": "人事企画",
+      "areas": ["hr"],
+      "role": null,
+      "title": null,
+      "source": "career_change",
+      "gender": "male",
+      "age": 30,
+      "tenure_years": 2
     }
   ]
 }

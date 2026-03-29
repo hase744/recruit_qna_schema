@@ -1,68 +1,304 @@
 {
   "patterns": [
     {
-      "key": "sales_department_head",
-      "name": "営業部長",
-      "area": ["corporate_sales"],
+      "name": "インサイドセールス 係長",
+      "areas": ["inside_sales"],
+      "role": null,
+      "title": "section_head",
+      "source": "career_change",
+      "gender": "female",
+      "age": 34,
+      "tenure_years": 2
+    },
+    {
+      "name": "インサイドセールス (中途)",
+      "areas": ["inside_sales"],
+      "role": null,
+      "title": null,
+      "source": "career_change",
+      "gender": "male",
+      "age": 31,
+      "tenure_years": 5
+    },
+    {
+      "name": "法人営業 (中途)",
+      "areas": ["corporate_sales"],
+      "role": null,
+      "title": null,
+      "source": "career_change",
+      "gender": "male",
+      "age": 35,
+      "tenure_years": 7
+    },
+    {
+      "name": "インサイドセールス 部長",
+      "areas": ["inside_sales"],
       "role": null,
       "title": "department_head",
-      "source": "career_change"
+      "source": "career_change",
+      "gender": "male",
+      "age": 41,
+      "tenure_years": 8
     },
     {
-      "key": "sales_manager",
-      "name": "営業マネージャー",
-      "area": ["corporate_sales"],
-      "role": null,
-      "title": "section_manager",
-      "source": "career_change"
-    },
-    {
-      "key": "enterprise_sales_lead",
-      "name": "エンタープライズ営業（リーダー）",
-      "area": ["corporate_sales"],
-      "role": null,
-      "title": "leader",
-      "source": "career_change"
-    },
-    {
-      "key": "corporate_sales_mid",
-      "name": "法人営業（中途）",
-      "area": ["corporate_sales"],
+      "name": "法人営業 (新卒)",
+      "areas": ["corporate_sales"],
       "role": null,
       "title": null,
-      "source": "career_change"
+      "source": "fresh_graduate",
+      "gender": "female",
+      "age": 30,
+      "tenure_years": 8
     },
     {
-      "key": "corporate_sales_new_grad",
-      "name": "法人営業（新卒）",
-      "area": ["corporate_sales"],
+      "name": "法人営業 (新卒)",
+      "areas": ["corporate_sales"],
       "role": null,
       "title": null,
-      "source": "fresh_graduate"
+      "source": "fresh_graduate",
+      "gender": "male",
+      "age": 30,
+      "tenure_years": 3
     },
     {
-      "key": "inside_sales",
-      "name": "インサイドセールス",
-      "area": ["inside_sales"],
+      "name": "法人営業 (中途)",
+      "areas": ["corporate_sales"],
       "role": null,
       "title": null,
-      "source": "career_change"
+      "source": "career_change",
+      "gender": "male",
+      "age": 41,
+      "tenure_years": 5
     },
     {
-      "key": "individual_sales",
-      "name": "個人営業",
-      "area": ["individual_sales"],
+      "name": "法人営業 (中途)",
+      "areas": ["corporate_sales"],
       "role": null,
       "title": null,
-      "source": "career_change"
+      "source": "career_change",
+      "gender": "male",
+      "age": 36,
+      "tenure_years": 4
     },
     {
-      "key": "field_sales_lead",
-      "name": "フィールドセールスリーダー",
-      "area": ["corporate_sales", "inside_sales"],
+      "name": "インサイドセールス 主任",
+      "areas": ["inside_sales"],
       "role": null,
-      "title": "leader",
-      "source": "career_change"
+      "title": "supervisor",
+      "source": "career_change",
+      "gender": "male",
+      "age": 29,
+      "tenure_years": 3
+    },
+    {
+      "name": "法人営業 (新卒)",
+      "areas": ["corporate_sales"],
+      "role": null,
+      "title": null,
+      "source": "fresh_graduate",
+      "gender": "male",
+      "age": 35,
+      "tenure_years": 10
+    },
+    {
+      "name": "法人営業 (新卒)",
+      "areas": ["corporate_sales"],
+      "role": null,
+      "title": null,
+      "source": "fresh_graduate",
+      "gender": "male",
+      "age": 29,
+      "tenure_years": 7
+    },
+    {
+      "name": "インサイドセールス (新卒)",
+      "areas": ["inside_sales"],
+      "role": null,
+      "title": null,
+      "source": "fresh_graduate",
+      "gender": "female",
+      "age": 29,
+      "tenure_years": 6
+    },
+    {
+      "name": "インサイドセールス (新卒)",
+      "areas": ["inside_sales"],
+      "role": null,
+      "title": null,
+      "source": "fresh_graduate",
+      "gender": "male",
+      "age": 33,
+      "tenure_years": 9
+    },
+    {
+      "name": "インサイドセールス (新卒)",
+      "areas": ["inside_sales"],
+      "role": null,
+      "title": null,
+      "source": "fresh_graduate",
+      "gender": "male",
+      "age": 22,
+      "tenure_years": 0
+    },
+    {
+      "name": "インサイドセールス (新卒)",
+      "areas": ["inside_sales"],
+      "role": null,
+      "title": null,
+      "source": "fresh_graduate",
+      "gender": "female",
+      "age": 21,
+      "tenure_years": 0
+    },
+    {
+      "name": "インサイドセールス (中途)",
+      "areas": ["inside_sales"],
+      "role": null,
+      "title": null,
+      "source": "career_change",
+      "gender": "male",
+      "age": 28,
+      "tenure_years": 2
+    },
+    {
+      "name": "インサイドセールス (新卒)",
+      "areas": ["inside_sales"],
+      "role": null,
+      "title": null,
+      "source": "fresh_graduate",
+      "gender": "female",
+      "age": 25,
+      "tenure_years": 3
+    },
+    {
+      "name": "インサイドセールス (新卒)",
+      "areas": ["inside_sales"],
+      "role": null,
+      "title": null,
+      "source": "fresh_graduate",
+      "gender": "male",
+      "age": 33,
+      "tenure_years": 8
+    },
+    {
+      "name": "法人営業 (中途)",
+      "areas": ["corporate_sales"],
+      "role": null,
+      "title": null,
+      "source": "career_change",
+      "gender": "male",
+      "age": 26,
+      "tenure_years": 1
+    },
+    {
+      "name": "法人営業 (新卒)",
+      "areas": ["corporate_sales"],
+      "role": null,
+      "title": null,
+      "source": "fresh_graduate",
+      "gender": "male",
+      "age": 23,
+      "tenure_years": 1
+    },
+    {
+      "name": "法人営業 部長",
+      "areas": ["corporate_sales"],
+      "role": null,
+      "title": "department_head",
+      "source": "career_change",
+      "gender": "male",
+      "age": 40,
+      "tenure_years": 7
+    },
+    {
+      "name": "インサイドセールス (中途)",
+      "areas": ["inside_sales"],
+      "role": null,
+      "title": null,
+      "source": "career_change",
+      "gender": "male",
+      "age": 30,
+      "tenure_years": 3
+    },
+    {
+      "name": "インサイドセールス (中途)",
+      "areas": ["inside_sales"],
+      "role": null,
+      "title": null,
+      "source": "career_change",
+      "gender": "male",
+      "age": 32,
+      "tenure_years": 4
+    },
+    {
+      "name": "法人営業 主任",
+      "areas": ["corporate_sales"],
+      "role": null,
+      "title": "supervisor",
+      "source": "career_change",
+      "gender": "female",
+      "age": 27,
+      "tenure_years": 2
+    },
+    {
+      "name": "法人営業 (新卒)",
+      "areas": ["corporate_sales"],
+      "role": null,
+      "title": null,
+      "source": "fresh_graduate",
+      "gender": "female",
+      "age": 28,
+      "tenure_years": 5
+    },
+    {
+      "name": "法人営業 (新卒)",
+      "areas": ["corporate_sales"],
+      "role": null,
+      "title": null,
+      "source": "fresh_graduate",
+      "gender": "male",
+      "age": 32,
+      "tenure_years": 8
+    },
+    {
+      "name": "インサイドセールス (新卒)",
+      "areas": ["inside_sales"],
+      "role": null,
+      "title": null,
+      "source": "fresh_graduate",
+      "gender": "female",
+      "age": 25,
+      "tenure_years": 3
+    },
+    {
+      "name": "法人営業 (中途)",
+      "areas": ["corporate_sales"],
+      "role": null,
+      "title": null,
+      "source": "career_change",
+      "gender": "male",
+      "age": 34,
+      "tenure_years": 4
+    },
+    {
+      "name": "法人営業 (新卒)",
+      "areas": ["corporate_sales"],
+      "role": null,
+      "title": null,
+      "source": "fresh_graduate",
+      "gender": "female",
+      "age": 28,
+      "tenure_years": 6
+    },
+    {
+      "name": "法人営業 (新卒)",
+      "areas": ["corporate_sales"],
+      "role": null,
+      "title": null,
+      "source": "fresh_graduate",
+      "gender": "male",
+      "age": 30,
+      "tenure_years": 8
     }
   ]
 }

@@ -1,60 +1,304 @@
 {
   "patterns": [
     {
-      "key": "editor_in_chief",
-      "name": "編集長",
-      "area": ["design", "writing_editing"],
-      "role": "manager",
-      "title": "department_head",
-      "source": "career_change"
-    },
-    {
-      "key": "editor",
-      "name": "編集者",
-      "area": ["design", "writing_editing"],
+      "name": "シニアエディター",
+      "areas": ["design", "writing_editing"],
       "role": "pm",
       "title": "leader",
-      "source": "career_change"
+      "source": "career_change",
+      "gender": "female",
+      "age": 34,
+      "tenure_years": 5
     },
     {
-      "key": "writer",
-      "name": "ライター",
-      "area": ["design", "writing_editing"],
+      "name": "Webライター",
+      "areas": ["design", "writing_editing"],
       "role": null,
       "title": null,
-      "source": "fresh_graduate"
+      "source": "fresh_graduate",
+      "gender": "female",
+      "age": 23,
+      "tenure_years": 1
     },
     {
-      "key": "content_planner",
-      "name": "コンテンツプランナー",
-      "area": ["design", "writing_editing"],
-      "role": "pdm",
-      "title": null,
-      "source": "career_change"
-    },
-    {
-      "key": "creative_manager",
-      "name": "クリエイティブマネージャー",
-      "area": ["design", "writing_editing"],
+      "name": "編集デスク",
+      "areas": ["design", "writing_editing"],
       "role": "manager",
       "title": "section_manager",
-      "source": "career_change"
+      "source": "career_change",
+      "gender": "male",
+      "age": 42,
+      "tenure_years": 12
     },
     {
-      "key": "graphic_designer",
-      "name": "グラフィックデザイナー（記事・媒体）",
-      "area": ["design", "writing_editing"],
+      "name": "ジュニアライター",
+      "areas": ["design", "writing_editing"],
       "role": null,
       "title": null,
-      "source": "career_change"
+      "source": "fresh_graduate",
+      "gender": "male",
+      "age": 22,
+      "tenure_years": 1
     },
     {
-      "key": "proofreader",
+      "name": "コンテンツディレクター",
+      "areas": ["design", "writing_editing"],
+      "role": "pdm",
+      "title": null,
+      "source": "career_change",
+      "gender": "female",
+      "age": 29,
+      "tenure_years": 3
+    },
+    {
       "name": "校正・校閲担当",
-      "area": ["design", "writing_editing"],
+      "areas": ["design", "writing_editing"],
       "role": null,
       "title": "chief",
-      "source": "career_change"
+      "source": "career_change",
+      "gender": "female",
+      "age": 38,
+      "tenure_years": 8
+    },
+    {
+      "name": "ニュースエディター",
+      "areas": ["design", "writing_editing"],
+      "role": "pm",
+      "title": null,
+      "source": "career_change",
+      "gender": "male",
+      "age": 31,
+      "tenure_years": 4
+    },
+    {
+      "name": "テクニカルライター",
+      "areas": ["design", "writing_editing"],
+      "role": null,
+      "title": null,
+      "source": "career_change",
+      "gender": "male",
+      "age": 27,
+      "tenure_years": 2
+    },
+    {
+      "name": "編集アシスタント",
+      "areas": ["design", "writing_editing"],
+      "role": null,
+      "title": null,
+      "source": "fresh_graduate",
+      "gender": "female",
+      "age": 24,
+      "tenure_years": 2
+    },
+    {
+      "name": "クリエイティブプランナー",
+      "areas": ["design", "writing_editing"],
+      "role": "pdm",
+      "title": null,
+      "source": "entrepreneur",
+      "gender": "male",
+      "age": 35,
+      "tenure_years": 10
+    },
+    {
+      "name": "SEOライター",
+      "areas": ["design", "writing_editing"],
+      "role": null,
+      "title": null,
+      "source": "career_change",
+      "gender": "female",
+      "age": 26,
+      "tenure_years": 3
+    },
+    {
+      "name": "雑誌編集者",
+      "areas": ["design", "writing_editing"],
+      "role": "pm",
+      "title": null,
+      "source": "career_change",
+      "gender": "female",
+      "age": 30,
+      "tenure_years": 6
+    },
+    {
+      "name": "コピーライター",
+      "areas": ["design", "writing_editing"],
+      "role": null,
+      "title": null,
+      "source": "career_change",
+      "gender": "female",
+      "age": 33,
+      "tenure_years": 7
+    },
+    {
+      "name": "編集長",
+      "areas": ["design", "writing_editing"],
+      "role": "manager",
+      "title": "department_head",
+      "source": "career_change",
+      "gender": "male",
+      "age": 48,
+      "tenure_years": 15
+    },
+    {
+      "name": "進行管理担当",
+      "areas": ["design", "writing_editing"],
+      "role": "scrum_master",
+      "title": null,
+      "source": "career_change",
+      "gender": "female",
+      "age": 28,
+      "tenure_years": 4
+    },
+    {
+      "name": "取材ライター",
+      "areas": ["design", "writing_editing"],
+      "role": null,
+      "title": null,
+      "source": "career_change",
+      "gender": "male",
+      "age": 32,
+      "tenure_years": 5
+    },
+    {
+      "name": "デジタルコンテンツ編集",
+      "areas": ["design", "writing_editing"],
+      "role": "pm",
+      "title": null,
+      "source": "fresh_graduate",
+      "gender": "female",
+      "age": 25,
+      "tenure_years": 3
+    },
+    {
+      "name": "社内報編集者",
+      "areas": ["design", "writing_editing"],
+      "role": null,
+      "title": "supervisor",
+      "source": "career_change",
+      "gender": "female",
+      "age": 36,
+      "tenure_years": 9
+    },
+    {
+      "name": "ブックライター",
+      "areas": ["design", "writing_editing"],
+      "role": null,
+      "title": null,
+      "source": "career_change",
+      "gender": "male",
+      "age": 45,
+      "tenure_years": 11
+    },
+    {
+      "name": "Webメディア運営",
+      "areas": ["design", "writing_editing"],
+      "role": "pdm",
+      "title": null,
+      "source": "career_change",
+      "gender": "female",
+      "age": 28,
+      "tenure_years": 2
+    },
+    {
+      "name": "ライティングディレクター",
+      "areas": ["design", "writing_editing"],
+      "role": "pm",
+      "title": null,
+      "source": "career_change",
+      "gender": "female",
+      "age": 31,
+      "tenure_years": 5
+    },
+    {
+      "name": "翻訳・ローカライズエディター",
+      "areas": ["design", "writing_editing"],
+      "role": null,
+      "title": null,
+      "source": "career_change",
+      "gender": "female",
+      "age": 29,
+      "tenure_years": 4
+    },
+    {
+      "name": "コンテンツ企画担当",
+      "areas": ["design", "writing_editing"],
+      "role": "pdm",
+      "title": null,
+      "source": "fresh_graduate",
+      "gender": "male",
+      "age": 26,
+      "tenure_years": 4
+    },
+    {
+      "name": "校閲リーダー",
+      "areas": ["design", "writing_editing"],
+      "role": null,
+      "title": "leader",
+      "source": "career_change",
+      "gender": "female",
+      "age": 40,
+      "tenure_years": 13
+    },
+    {
+      "name": "ソーシャルメディアライター",
+      "areas": ["design", "writing_editing"],
+      "role": null,
+      "title": null,
+      "source": "fresh_graduate",
+      "gender": "female",
+      "age": 23,
+      "tenure_years": 1
+    },
+    {
+      "name": "広報誌編集デスク",
+      "areas": ["design", "writing_editing"],
+      "role": "manager",
+      "title": null,
+      "source": "career_change",
+      "gender": "male",
+      "age": 39,
+      "tenure_years": 7
+    },
+    {
+      "name": "インタビューアー",
+      "areas": ["design", "writing_editing"],
+      "role": null,
+      "title": null,
+      "source": "career_change",
+      "gender": "male",
+      "age": 34,
+      "tenure_years": 6
+    },
+    {
+      "name": "スクリプトライター",
+      "areas": ["design", "writing_editing"],
+      "role": null,
+      "title": null,
+      "source": "career_change",
+      "gender": "female",
+      "age": 27,
+      "tenure_years": 3
+    },
+    {
+      "name": "ブランドエディター",
+      "areas": ["design", "writing_editing"],
+      "role": "pdm",
+      "title": null,
+      "source": "entrepreneur",
+      "gender": "female",
+      "age": 32,
+      "tenure_years": 8
+    },
+    {
+      "name": "ジュニアエディター",
+      "areas": ["design", "writing_editing"],
+      "role": null,
+      "title": null,
+      "source": "fresh_graduate",
+      "gender": "male",
+      "age": 24,
+      "tenure_years": 2
     }
   ]
 }

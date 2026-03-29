@@ -1,52 +1,304 @@
 {
   "patterns": [
     {
-      "key": "video_producer",
-      "name": "プロデューサー",
-      "area": ["design", "video_production"],
-      "role": "pm",
+      "name": "映像編集担当",
+      "areas": ["design", "video_production"],
+      "role": null,
       "title": null,
-      "source": "career_change"
+      "source": "career_change",
+      "gender": "female",
+      "age": 27,
+      "tenure_years": 4
     },
     {
-      "key": "video_director",
+      "name": "プロダクションアシスタント",
+      "areas": ["design", "video_production"],
+      "role": null,
+      "title": null,
+      "source": "fresh_graduate",
+      "gender": "male",
+      "age": 23,
+      "tenure_years": 1
+    },
+    {
       "name": "動画ディレクター",
-      "area": ["design", "video_production"],
+      "areas": ["design", "video_production"],
       "role": null,
       "title": "leader",
-      "source": "career_change"
+      "source": "career_change",
+      "gender": "male",
+      "age": 34,
+      "tenure_years": 7
     },
     {
-      "key": "video_editor",
-      "name": "映像編集担当",
-      "area": ["design", "video_production"],
-      "role": null,
-      "title": null,
-      "source": "career_change"
-    },
-    {
-      "key": "motion_designer",
       "name": "モーションデザイナー",
-      "area": ["design", "video_production"],
+      "areas": ["design", "video_production"],
       "role": null,
       "title": null,
-      "source": "career_change"
+      "source": "career_change",
+      "gender": "female",
+      "age": 28,
+      "tenure_years": 5
     },
     {
-      "key": "creative_manager",
-      "name": "制作マネージャー",
-      "area": ["design", "video_production"],
+      "name": "音声エディター",
+      "areas": ["design", "video_production"],
       "role": null,
+      "title": null,
+      "source": "career_change",
+      "gender": "female",
+      "age": 25,
+      "tenure_years": 2
+    },
+    {
+      "name": "プロデューサー",
+      "areas": ["design", "video_production"],
+      "role": "pm",
       "title": "section_manager",
-      "source": "career_change"
+      "source": "career_change",
+      "gender": "female",
+      "age": 39,
+      "tenure_years": 12
     },
     {
-      "key": "video_creator_junior",
-      "name": "映像制作（アシスタント）",
-      "area": ["design", "video_production"],
+      "name": "VFXアーティスト",
+      "areas": ["design", "video_production"],
       "role": null,
       "title": null,
-      "source": "fresh_graduate"
+      "source": "career_change",
+      "gender": "male",
+      "age": 31,
+      "tenure_years": 6
+    },
+    {
+      "name": "カラーグレーディング担当",
+      "areas": ["design", "video_production"],
+      "role": null,
+      "title": null,
+      "source": "career_change",
+      "gender": "female",
+      "age": 26,
+      "tenure_years": 3
+    },
+    {
+      "name": "撮影カメラマン",
+      "areas": ["design", "video_production"],
+      "role": null,
+      "title": null,
+      "source": "career_change",
+      "gender": "male",
+      "age": 29,
+      "tenure_years": 4
+    },
+    {
+      "name": "照明アシスタント",
+      "areas": ["design", "video_production"],
+      "role": null,
+      "title": null,
+      "source": "fresh_graduate",
+      "gender": "female",
+      "age": 22,
+      "tenure_years": 0
+    },
+    {
+      "name": "映像編集（ジュニア）",
+      "areas": ["design", "video_production"],
+      "role": null,
+      "title": null,
+      "source": "fresh_graduate",
+      "gender": "female",
+      "age": 24,
+      "tenure_years": 2
+    },
+    {
+      "name": "制作進行管理",
+      "areas": ["design", "video_production"],
+      "role": "pm",
+      "title": null,
+      "source": "career_change",
+      "gender": "male",
+      "age": 27,
+      "tenure_years": 3
+    },
+    {
+      "name": "スクリプトライター",
+      "areas": ["design", "video_production"],
+      "role": null,
+      "title": null,
+      "source": "career_change",
+      "gender": "female",
+      "age": 32,
+      "tenure_years": 8
+    },
+    {
+      "name": "YouTubeディレクター",
+      "areas": ["design", "video_production"],
+      "role": null,
+      "title": null,
+      "source": "career_change",
+      "gender": "female",
+      "age": 28,
+      "tenure_years": 4
+    },
+    {
+      "name": "クリエイティブ監修",
+      "areas": ["design", "video_production"],
+      "role": null,
+      "title": "department_head",
+      "source": "entrepreneur",
+      "gender": "male",
+      "age": 45,
+      "tenure_years": 18
+    },
+    {
+      "name": "動画編集アシスタント",
+      "areas": ["design", "video_production"],
+      "role": null,
+      "title": null,
+      "source": "fresh_graduate",
+      "gender": "male",
+      "age": 23,
+      "tenure_years": 1
+    },
+    {
+      "name": "CGクリエイター",
+      "areas": ["design", "video_production"],
+      "role": null,
+      "title": null,
+      "source": "career_change",
+      "gender": "female",
+      "age": 30,
+      "tenure_years": 5
+    },
+    {
+      "name": "ロケコーディネーター",
+      "areas": ["design", "video_production"],
+      "role": null,
+      "title": null,
+      "source": "career_change",
+      "gender": "female",
+      "age": 26,
+      "tenure_years": 3
+    },
+    {
+      "name": "ライブ配信技術者",
+      "areas": ["design", "video_production"],
+      "role": null,
+      "title": null,
+      "source": "career_change",
+      "gender": "male",
+      "age": 33,
+      "tenure_years": 6
+    },
+    {
+      "name": "シニアプロデューサー",
+      "areas": ["design", "video_production"],
+      "role": "pm",
+      "title": "division_head",
+      "source": "career_change",
+      "gender": "male",
+      "age": 42,
+      "tenure_years": 15
+    },
+    {
+      "name": "SNS動画クリエイター",
+      "areas": ["design", "video_production"],
+      "role": null,
+      "title": null,
+      "source": "fresh_graduate",
+      "gender": "female",
+      "age": 24,
+      "tenure_years": 2
+    },
+    {
+      "name": "サウンドデザイナー",
+      "areas": ["design", "video_production"],
+      "role": null,
+      "title": null,
+      "source": "career_change",
+      "gender": "male",
+      "age": 28,
+      "tenure_years": 4
+    },
+    {
+      "name": "動画マーケター",
+      "areas": ["design", "video_production"],
+      "role": null,
+      "title": null,
+      "source": "career_change",
+      "gender": "female",
+      "age": 29,
+      "tenure_years": 5
+    },
+    {
+      "name": "チーフエディター",
+      "areas": ["design", "video_production"],
+      "role": null,
+      "title": "chief",
+      "source": "career_change",
+      "gender": "female",
+      "age": 35,
+      "tenure_years": 10
+    },
+    {
+      "name": "撮影助手",
+      "areas": ["design", "video_production"],
+      "role": null,
+      "title": null,
+      "source": "fresh_graduate",
+      "gender": "female",
+      "age": 21,
+      "tenure_years": 0
+    },
+    {
+      "name": "テクニカルディレクター",
+      "areas": ["design", "video_production"],
+      "role": "tech_lead",
+      "title": "leader",
+      "source": "career_change",
+      "gender": "male",
+      "age": 31,
+      "tenure_years": 6
+    },
+    {
+      "name": "キャスティング担当",
+      "areas": ["design", "video_production"],
+      "role": null,
+      "title": null,
+      "source": "career_change",
+      "gender": "female",
+      "age": 27,
+      "tenure_years": 4
+    },
+    {
+      "name": "モーショングラフィックス担当",
+      "areas": ["design", "video_production"],
+      "role": null,
+      "title": null,
+      "source": "fresh_graduate",
+      "gender": "female",
+      "age": 25,
+      "tenure_years": 3
+    },
+    {
+      "name": "配信オペレーター",
+      "areas": ["design", "video_production"],
+      "role": null,
+      "title": null,
+      "source": "career_change",
+      "gender": "male",
+      "age": 26,
+      "tenure_years": 2
+    },
+    {
+      "name": "コンテンツプランナー",
+      "areas": ["design", "video_production"],
+      "role": null,
+      "title": null,
+      "source": "career_change",
+      "gender": "female",
+      "age": 30,
+      "tenure_years": 7
     }
   ]
 }

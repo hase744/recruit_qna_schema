@@ -1,68 +1,304 @@
 {
   "patterns": [
     {
-      "key": "cpo",
-      "name": "CPO",
-      "area": ["product_planning", "business_planning"],
+      "name": "経営企画シニアマネージャー",
+      "areas": ["management_planning"],
       "role": null,
-      "title": "cpo",
-      "source": "career_change"
+      "title": "department_head",
+      "source": "career_change",
+      "gender": "male",
+      "age": 45,
+      "tenure_years": 8
     },
     {
-      "key": "pm",
+      "name": "事業企画担当",
+      "areas": ["business_planning"],
+      "role": null,
+      "title": null,
+      "source": "career_change",
+      "gender": "female",
+      "age": 29,
+      "tenure_years": 3
+    },
+    {
+      "name": "BizDevリード",
+      "areas": ["bizdev", "alliance"],
+      "role": null,
+      "title": "leader",
+      "source": "career_change",
+      "gender": "male",
+      "age": 34,
+      "tenure_years": 5
+    },
+    {
       "name": "プロダクトマネージャー",
-      "area": ["product_planning"],
+      "areas": ["product_planning"],
       "role": "pm",
       "title": null,
-      "source": "career_change"
+      "source": "fresh_graduate",
+      "gender": "male",
+      "age": 32,
+      "tenure_years": 10
     },
     {
-      "key": "pdm",
-      "name": "プロダクトデザインマネージャー",
-      "area": ["product_planning"],
-      "role": "pdm",
+      "name": "営業企画アナリスト",
+      "areas": ["sales_planning"],
+      "role": null,
       "title": null,
-      "source": "career_change"
+      "source": "career_change",
+      "gender": "female",
+      "age": 27,
+      "tenure_years": 2
     },
     {
-      "key": "product_owner",
+      "name": "新規事業開発担当",
+      "areas": ["bizdev"],
+      "role": null,
+      "title": null,
+      "source": "entrepreneur",
+      "gender": "male",
+      "age": 38,
+      "tenure_years": 12
+    },
+    {
+      "name": "アライアンス担当",
+      "areas": ["alliance"],
+      "role": null,
+      "title": null,
+      "source": "career_change",
+      "gender": "female",
+      "age": 31,
+      "tenure_years": 4
+    },
+    {
+      "name": "経営企画ディレクター",
+      "areas": ["management_planning"],
+      "role": null,
+      "title": "executive_officer",
+      "source": "career_change",
+      "gender": "male",
+      "age": 48,
+      "tenure_years": 6
+    },
+    {
       "name": "プロダクトオーナー",
-      "area": ["product_planning"],
+      "areas": ["product_planning"],
       "role": "product_owner",
       "title": null,
-      "source": "career_change"
+      "source": "career_change",
+      "gender": "female",
+      "age": 35,
+      "tenure_years": 3
     },
     {
-      "key": "scrum_master",
+      "name": "事業企画ジュニア",
+      "areas": ["business_planning"],
+      "role": null,
+      "title": null,
+      "source": "fresh_graduate",
+      "gender": "male",
+      "age": 24,
+      "tenure_years": 2
+    },
+    {
+      "name": "営業企画マネージャー",
+      "areas": ["sales_planning"],
+      "role": null,
+      "title": "section_manager",
+      "source": "career_change",
+      "gender": "male",
+      "age": 41,
+      "tenure_years": 7
+    },
+    {
       "name": "スクラムマスター",
-      "area": ["product_planning"],
+      "areas": ["product_planning"],
       "role": "scrum_master",
       "title": null,
-      "source": "career_change"
+      "source": "career_change",
+      "gender": "female",
+      "age": 33,
+      "tenure_years": 4
     },
     {
-      "key": "management_planning",
+      "name": "BizDevスペシャリスト",
+      "areas": ["bizdev"],
+      "role": null,
+      "title": null,
+      "source": "career_change",
+      "gender": "male",
+      "age": 36,
+      "tenure_years": 2
+    },
+    {
+      "name": "経営企画チーフ",
+      "areas": ["management_planning"],
+      "role": null,
+      "title": "chief",
+      "source": "fresh_graduate",
+      "gender": "female",
+      "age": 30,
+      "tenure_years": 8
+    },
+    {
+      "name": "事業開発アソシエイト",
+      "areas": ["bizdev", "business_planning"],
+      "role": null,
+      "title": null,
+      "source": "career_change",
+      "gender": "male",
+      "age": 28,
+      "tenure_years": 3
+    },
+    {
+      "name": "商品企画担当",
+      "areas": ["product_planning"],
+      "role": null,
+      "title": null,
+      "source": "career_change",
+      "gender": "female",
+      "age": 34,
+      "tenure_years": 5
+    },
+    {
+      "name": "アライアンスマネージャー",
+      "areas": ["alliance"],
+      "role": null,
+      "title": null,
+      "source": "career_change",
+      "gender": "male",
+      "age": 39,
+      "tenure_years": 6
+    },
+    {
+      "name": "事業企画",
+      "areas": ["business_planning"],
+      "role": null,
+      "title": null,
+      "source": "fresh_graduate",
+      "gender": "male",
+      "age": 26,
+      "tenure_years": 4
+    },
+    {
       "name": "経営企画担当",
-      "area": ["management_planning"],
+      "areas": ["management_planning"],
       "role": null,
       "title": null,
-      "source": "career_change"
+      "source": "career_change",
+      "gender": "female",
+      "age": 42,
+      "tenure_years": 3
     },
     {
-      "key": "bizdev",
+      "name": "プロダクトデザインマネージャー",
+      "areas": ["product_planning"],
+      "role": "pdm",
+      "title": null,
+      "source": "career_change",
+      "gender": "male",
+      "age": 37,
+      "tenure_years": 5
+    },
+    {
+      "name": "営業企画",
+      "areas": ["sales_planning"],
+      "role": null,
+      "title": null,
+      "source": "fresh_graduate",
+      "gender": "male",
+      "age": 23,
+      "tenure_years": 1
+    },
+    {
       "name": "BizDev担当",
-      "area": ["bizdev", "alliance"],
+      "areas": ["bizdev"],
       "role": null,
       "title": null,
-      "source": "career_change"
+      "source": "career_change",
+      "gender": "female",
+      "age": 32,
+      "tenure_years": 4
     },
     {
-      "key": "sales_planning",
-      "name": "営業企画担当",
-      "area": ["sales_planning"],
+      "name": "事業企画室長",
+      "areas": ["business_planning", "management_planning"],
+      "role": null,
+      "title": "general_manager",
+      "source": "career_change",
+      "gender": "male",
+      "age": 46,
+      "tenure_years": 9
+    },
+    {
+      "name": "商品企画リード",
+      "areas": ["product_planning"],
       "role": null,
       "title": null,
-      "source": "career_change"
+      "source": "career_change",
+      "gender": "female",
+      "age": 29,
+      "tenure_years": 2
+    },
+    {
+      "name": "経営企画アソシエイト",
+      "areas": ["management_planning"],
+      "role": null,
+      "title": null,
+      "source": "career_change",
+      "gender": "male",
+      "age": 35,
+      "tenure_years": 6
+    },
+    {
+      "name": "アライアンス担当",
+      "areas": ["alliance"],
+      "role": null,
+      "title": null,
+      "source": "fresh_graduate",
+      "gender": "male",
+      "age": 28,
+      "tenure_years": 6
+    },
+    {
+      "name": "事業企画担当",
+      "areas": ["business_planning"],
+      "role": null,
+      "title": null,
+      "source": "career_change",
+      "gender": "female",
+      "age": 31,
+      "tenure_years": 3
+    },
+    {
+      "name": "プロダクトマネージャー",
+      "areas": ["product_planning"],
+      "role": "pm",
+      "title": null,
+      "source": "career_change",
+      "gender": "male",
+      "age": 40,
+      "tenure_years": 4
+    },
+    {
+      "name": "営業企画リード",
+      "areas": ["sales_planning"],
+      "role": null,
+      "title": null,
+      "source": "career_change",
+      "gender": "female",
+      "age": 33,
+      "tenure_years": 5
+    },
+    {
+      "name": "事業開発(BizDev)",
+      "areas": ["bizdev"],
+      "role": null,
+      "title": null,
+      "source": "career_change",
+      "gender": "male",
+      "age": 30,
+      "tenure_years": 2
     }
   ]
 }

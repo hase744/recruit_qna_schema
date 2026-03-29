@@ -1,60 +1,302 @@
-{
-  "patterns": [
-    {
-      "key": "cmo",
-      "name": "CMO",
-      "area": ["digital_marketing", "pr"],
-      "role": null,
-      "title": "cmo",
-      "source": "career_change"
-    },
-    {
-      "key": "marketing_manager",
-      "name": "マーケティングマネージャー",
-      "area": ["digital_marketing"],
-      "role": null,
-      "title": "section_manager",
-      "source": "career_change"
-    },
-    {
-      "key": "digital_marketer",
-      "name": "デジタルマーケター",
-      "area": ["digital_marketing", "seo"],
-      "role": null,
-      "title": null,
-      "source": "career_change"
-    },
-    {
-      "key": "content_marketer",
-      "name": "コンテンツマーケター",
-      "area": ["content_marketing", "seo"],
-      "role": null,
-      "title": null,
-      "source": "career_change"
-    },
-    {
-      "key": "sns_marketer",
-      "name": "SNSマーケター",
-      "area": ["sns", "content_marketing"],
-      "role": null,
-      "title": null,
-      "source": "fresh_graduate"
-    },
-    {
-      "key": "pr_lead",
-      "name": "PRリーダー",
-      "area": ["pr"],
-      "role": null,
-      "title": "leader",
-      "source": "career_change"
-    },
-    {
-      "key": "researcher",
-      "name": "マーケティングリサーチャー",
-      "area": ["research"],
-      "role": null,
-      "title": null,
-      "source": "career_change"
-    }
-  ]
-}
+[
+  {
+    "name": "CMO",
+    "areas": ["digital_marketing", "pr"],
+    "role": null,
+    "title": "cmo",
+    "source": "career_change",
+    "gender": "male",
+    "age": 45,
+    "tenure_years": 4
+  },
+  {
+    "name": "デジタルマーケター",
+    "areas": ["digital_marketing", "seo"],
+    "role": null,
+    "title": null,
+    "source": "career_change",
+    "gender": "female",
+    "age": 28,
+    "tenure_years": 3
+  },
+  {
+    "name": "コンテンツマーケター",
+    "areas": ["content_marketing"],
+    "role": null,
+    "title": null,
+    "source": "fresh_graduate",
+    "gender": "male",
+    "age": 24,
+    "tenure_years": 2
+  },
+  {
+    "name": "SNS運用担当",
+    "areas": ["sns", "content_marketing"],
+    "role": null,
+    "title": null,
+    "source": "fresh_graduate",
+    "gender": "female",
+    "age": 23,
+    "tenure_years": 1
+  },
+  {
+    "name": "PRマネージャー",
+    "areas": ["pr"],
+    "role": null,
+    "title": "department_head",
+    "source": "career_change",
+    "gender": "female",
+    "age": 39,
+    "tenure_years": 6
+  },
+  {
+    "name": "マーケティングリサーチャー",
+    "areas": ["research"],
+    "role": null,
+    "title": null,
+    "source": "career_change",
+    "gender": "male",
+    "age": 31,
+    "tenure_years": 4
+  },
+  {
+    "name": "SEOスペシャリスト",
+    "areas": ["seo", "digital_marketing"],
+    "role": null,
+    "title": null,
+    "source": "career_change",
+    "gender": "male",
+    "age": 34,
+    "tenure_years": 2
+  },
+  {
+    "name": "デジタル広告運用",
+    "areas": ["digital_marketing"],
+    "role": null,
+    "title": null,
+    "source": "fresh_graduate",
+    "gender": "female",
+    "age": 26,
+    "tenure_years": 4
+  },
+  {
+    "name": "ブランドマネージャー",
+    "areas": ["pr", "content_marketing"],
+    "role": null,
+    "title": "section_manager",
+    "source": "career_change",
+    "gender": "male",
+    "age": 42,
+    "tenure_years": 8
+  },
+  {
+    "name": "コンテンツディレクター",
+    "areas": ["content_marketing"],
+    "role": null,
+    "title": null,
+    "source": "career_change",
+    "gender": "female",
+    "age": 30,
+    "tenure_years": 3
+  },
+  {
+    "name": "SNSストラテジスト",
+    "areas": ["sns"],
+    "role": null,
+    "title": null,
+    "source": "career_change",
+    "gender": "male",
+    "age": 29,
+    "tenure_years": 2
+  },
+  {
+    "name": "広報担当",
+    "areas": ["pr"],
+    "role": null,
+    "title": null,
+    "source": "fresh_graduate",
+    "gender": "female",
+    "age": 25,
+    "tenure_years": 3
+  },
+  {
+    "name": "マーケティングアナリスト",
+    "areas": ["research", "digital_marketing"],
+    "role": null,
+    "title": "leader",
+    "source": "career_change",
+    "gender": "female",
+    "age": 33,
+    "tenure_years": 5
+  },
+  {
+    "name": "オウンドメディア編集長",
+    "areas": ["content_marketing", "seo"],
+    "role": null,
+    "title": null,
+    "source": "career_change",
+    "gender": "male",
+    "age": 36,
+    "tenure_years": 4
+  },
+  {
+    "name": "デジタルマーケティング担当",
+    "areas": ["digital_marketing"],
+    "role": null,
+    "title": null,
+    "source": "fresh_graduate",
+    "gender": "male",
+    "age": 22,
+    "tenure_years": 0
+  },
+  {
+    "name": "コミュニケーションデザイナー",
+    "areas": ["pr", "sns"],
+    "role": null,
+    "title": null,
+    "source": "career_change",
+    "gender": "female",
+    "age": 27,
+    "tenure_years": 1
+  },
+  {
+    "name": "CRM担当",
+    "areas": ["digital_marketing"],
+    "role": null,
+    "title": null,
+    "source": "career_change",
+    "gender": "male",
+    "age": 32,
+    "tenure_years": 5
+  },
+  {
+    "name": "SEOエディター",
+    "areas": ["seo"],
+    "role": null,
+    "title": null,
+    "source": "career_change",
+    "gender": "female",
+    "age": 29,
+    "tenure_years": 2
+  },
+  {
+    "name": "マーケティング・リード",
+    "areas": ["digital_marketing", "research"],
+    "role": null,
+    "title": "chief",
+    "source": "entrepreneur",
+    "gender": "male",
+    "age": 35,
+    "tenure_years": 10
+  },
+  {
+    "name": "広報・IR担当",
+    "areas": ["pr"],
+    "role": null,
+    "title": null,
+    "source": "career_change",
+    "gender": "female",
+    "age": 38,
+    "tenure_years": 4
+  },
+  {
+    "name": "成長戦略担当",
+    "areas": ["digital_marketing", "research"],
+    "role": null,
+    "title": null,
+    "source": "career_change",
+    "gender": "male",
+    "age": 30,
+    "tenure_years": 3
+  },
+  {
+    "name": "ジュニアマーケター",
+    "areas": ["sns"],
+    "role": null,
+    "title": null,
+    "source": "fresh_graduate",
+    "gender": "female",
+    "age": 24,
+    "tenure_years": 2
+  },
+  {
+    "name": "Webマーケティング担当",
+    "areas": ["digital_marketing", "seo"],
+    "role": null,
+    "title": null,
+    "source": "career_change",
+    "gender": "male",
+    "age": 33,
+    "tenure_years": 6
+  },
+  {
+    "name": "イベントプロモーター",
+    "areas": ["pr"],
+    "role": null,
+    "title": null,
+    "source": "career_change",
+    "gender": "female",
+    "age": 28,
+    "tenure_years": 2
+  },
+  {
+    "name": "データサイエンティスト（マーケ）",
+    "areas": ["research"],
+    "role": null,
+    "title": "supervisor",
+    "source": "career_change",
+    "gender": "male",
+    "age": 37,
+    "tenure_years": 3
+  },
+  {
+    "name": "SNSディレクター",
+    "areas": ["sns"],
+    "role": null,
+    "title": null,
+    "source": "career_change",
+    "gender": "female",
+    "age": 31,
+    "tenure_years": 5
+  },
+  {
+    "name": "コンテンツプランナー",
+    "areas": ["content_marketing"],
+    "role": null,
+    "title": null,
+    "source": "fresh_graduate",
+    "gender": "male",
+    "age": 27,
+    "tenure_years": 5
+  },
+  {
+    "name": "パフォーマンスマーケター",
+    "areas": ["digital_marketing"],
+    "role": null,
+    "title": null,
+    "source": "career_change",
+    "gender": "female",
+    "age": 32,
+    "tenure_years": 1
+  },
+  {
+    "name": "PRスペシャリスト",
+    "areas": ["pr"],
+    "role": null,
+    "title": null,
+    "source": "career_change",
+    "gender": "male",
+    "age": 48,
+    "tenure_years": 12
+  },
+  {
+    "name": "デジタル戦略担当",
+    "areas": ["digital_marketing"],
+    "role": null,
+    "title": null,
+    "source": "career_change",
+    "gender": "female",
+    "age": 29,
+    "tenure_years": 4
+  }
+]

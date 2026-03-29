@@ -1,52 +1,304 @@
 {
   "patterns": [
     {
-      "key": "ui_ux_designer_lead",
-      "name": "UI/UXデザイナー（リード）",
-      "area": ["ui_ux_design"],
+      "name": "UI/UXデザイナー",
+      "areas": ["ui_ux_design"],
+      "role": null,
+      "title": null,
+      "source": "career_change",
+      "gender": "female",
+      "age": 28,
+      "tenure_years": 3
+    },
+    {
+      "name": "グラフィックデザイナー（リーダー）",
+      "areas": ["graphic_design"],
       "role": null,
       "title": "leader",
-      "source": "career_change"
+      "source": "career_change",
+      "gender": "male",
+      "age": 34,
+      "tenure_years": 6
     },
     {
-      "key": "ui_ux_designer",
       "name": "UI/UXデザイナー",
-      "area": ["ui_ux_design"],
+      "areas": ["ui_ux_design", "graphic_design"],
       "role": null,
       "title": null,
-      "source": "career_change"
+      "source": "fresh_graduate",
+      "gender": "female",
+      "age": 24,
+      "tenure_years": 2
     },
     {
-      "key": "product_designer",
-      "name": "プロダクトデザイナー",
-      "area": ["ui_ux_design", "graphic_design"],
-      "role": null,
-      "title": null,
-      "source": "career_change"
-    },
-    {
-      "key": "graphic_designer",
-      "name": "グラフィックデザイナー",
-      "area": ["graphic_design"],
-      "role": null,
-      "title": null,
-      "source": "career_change"
-    },
-    {
-      "key": "video_creator",
       "name": "動画クリエイター",
-      "area": ["video_production"],
+      "areas": ["video_production"],
       "role": null,
       "title": null,
-      "source": "career_change"
+      "source": "career_change",
+      "gender": "male",
+      "age": 31,
+      "tenure_years": 4
     },
     {
-      "key": "illustrator",
       "name": "イラストレーター",
-      "area": ["illustration"],
+      "areas": ["illustration"],
       "role": null,
       "title": null,
-      "source": "career_change"
+      "source": "career_change",
+      "gender": "female",
+      "age": 27,
+      "tenure_years": 5
+    },
+    {
+      "name": "ライティング・編集",
+      "areas": ["writing_editing"],
+      "role": null,
+      "title": null,
+      "source": "fresh_graduate",
+      "gender": "female",
+      "age": 23,
+      "tenure_years": 1
+    },
+    {
+      "name": "アートディレクター（課長）",
+      "areas": ["graphic_design", "ui_ux_design"],
+      "role": null,
+      "title": "section_manager",
+      "source": "career_change",
+      "gender": "male",
+      "age": 38,
+      "tenure_years": 8
+    },
+    {
+      "name": "UI/UXデザイナー",
+      "areas": ["ui_ux_design"],
+      "role": null,
+      "title": null,
+      "source": "career_change",
+      "gender": "female",
+      "age": 29,
+      "tenure_years": 2
+    },
+    {
+      "name": "グラフィックデザイナー",
+      "areas": ["graphic_design"],
+      "role": null,
+      "title": null,
+      "source": "fresh_graduate",
+      "gender": "female",
+      "age": 25,
+      "tenure_years": 3
+    },
+    {
+      "name": "動画クリエイター",
+      "areas": ["video_production"],
+      "role": null,
+      "title": null,
+      "source": "entrepreneur",
+      "gender": "male",
+      "age": 30,
+      "tenure_years": 7
+    },
+    {
+      "name": "イラストレーター",
+      "areas": ["illustration", "graphic_design"],
+      "role": null,
+      "title": null,
+      "source": "career_change",
+      "gender": "female",
+      "age": 26,
+      "tenure_years": 4
+    },
+    {
+      "name": "UI/UXデザイナー（主任）",
+      "areas": ["ui_ux_design"],
+      "role": null,
+      "title": "supervisor",
+      "source": "career_change",
+      "gender": "female",
+      "age": 32,
+      "tenure_years": 5
+    },
+    {
+      "name": "ライティング・編集",
+      "areas": ["writing_editing"],
+      "role": null,
+      "title": null,
+      "source": "career_change",
+      "gender": "female",
+      "age": 35,
+      "tenure_years": 3
+    },
+    {
+      "name": "グラフィックデザイナー",
+      "areas": ["graphic_design"],
+      "role": null,
+      "title": null,
+      "source": "fresh_graduate",
+      "gender": "male",
+      "age": 22,
+      "tenure_years": 0
+    },
+    {
+      "name": "UI/UXデザイナー",
+      "areas": ["ui_ux_design"],
+      "role": null,
+      "title": null,
+      "source": "career_change",
+      "gender": "female",
+      "age": 27,
+      "tenure_years": 4
+    },
+    {
+      "name": "動画クリエイター",
+      "areas": ["video_production", "illustration"],
+      "role": null,
+      "title": null,
+      "source": "career_change",
+      "gender": "male",
+      "age": 29,
+      "tenure_years": 2
+    },
+    {
+      "name": "クリエイティブディレクター（部長）",
+      "areas": ["ui_ux_design", "video_production"],
+      "role": null,
+      "title": "department_head",
+      "source": "career_change",
+      "gender": "female",
+      "age": 42,
+      "tenure_years": 12
+    },
+    {
+      "name": "イラストレーター",
+      "areas": ["illustration"],
+      "role": null,
+      "title": null,
+      "source": "fresh_graduate",
+      "gender": "female",
+      "age": 24,
+      "tenure_years": 2
+    },
+    {
+      "name": "グラフィックデザイナー",
+      "areas": ["graphic_design"],
+      "role": null,
+      "title": null,
+      "source": "career_change",
+      "gender": "male",
+      "age": 33,
+      "tenure_years": 5
+    },
+    {
+      "name": "UI/UXデザイナー",
+      "areas": ["ui_ux_design"],
+      "role": null,
+      "title": null,
+      "source": "entrepreneur",
+      "gender": "female",
+      "age": 28,
+      "tenure_years": 6
+    },
+    {
+      "name": "ライティング・編集",
+      "areas": ["writing_editing"],
+      "role": null,
+      "title": null,
+      "source": "career_change",
+      "gender": "female",
+      "age": 30,
+      "tenure_years": 4
+    },
+    {
+      "name": "UI/UXデザイナー（チーフ）",
+      "areas": ["ui_ux_design"],
+      "role": null,
+      "title": "chief",
+      "source": "career_change",
+      "gender": "male",
+      "age": 36,
+      "tenure_years": 7
+    },
+    {
+      "name": "動画クリエイター",
+      "areas": ["video_production"],
+      "role": null,
+      "title": null,
+      "source": "fresh_graduate",
+      "gender": "female",
+      "age": 25,
+      "tenure_years": 3
+    },
+    {
+      "name": "グラフィックデザイナー",
+      "areas": ["graphic_design", "illustration"],
+      "role": null,
+      "title": null,
+      "source": "career_change",
+      "gender": "female",
+      "age": 29,
+      "tenure_years": 6
+    },
+    {
+      "name": "UI/UXデザイナー",
+      "areas": ["ui_ux_design"],
+      "role": null,
+      "title": null,
+      "source": "career_change",
+      "gender": "male",
+      "age": 31,
+      "tenure_years": 2
+    },
+    {
+      "name": "イラストレーター",
+      "areas": ["illustration"],
+      "role": null,
+      "title": null,
+      "source": "career_change",
+      "gender": "female",
+      "age": 26,
+      "tenure_years": 3
+    },
+    {
+      "name": "デザインリード（リーダー）",
+      "areas": ["ui_ux_design", "graphic_design"],
+      "role": null,
+      "title": "leader",
+      "source": "entrepreneur",
+      "gender": "male",
+      "age": 33,
+      "tenure_years": 9
+    },
+    {
+      "name": "動画クリエイター",
+      "areas": ["video_production"],
+      "role": null,
+      "title": null,
+      "source": "career_change",
+      "gender": "female",
+      "age": 27,
+      "tenure_years": 1
+    },
+    {
+      "name": "ライティング・編集",
+      "areas": ["writing_editing"],
+      "role": null,
+      "title": null,
+      "source": "fresh_graduate",
+      "gender": "male",
+      "age": 24,
+      "tenure_years": 2
+    },
+    {
+      "name": "グラフィックデザイナー",
+      "areas": ["graphic_design"],
+      "role": null,
+      "title": null,
+      "source": "career_change",
+      "gender": "female",
+      "age": 31,
+      "tenure_years": 5
     }
   ]
 }

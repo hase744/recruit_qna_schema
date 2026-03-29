@@ -1,50 +1,304 @@
 {
   "patterns": [
     {
-      "key": "cmo",
-      "name": "CMO",
-      "area": ["marketing"],
-      "role": null,
-      "title": "cmo",
-      "source": "career_change",
-      "questions": [
-        {
-          "id": "q_marketing_strategy",
-          "body": ["中長期的なブランド戦略と売上成長のロードマップについて教えてください。"]
-        }
-      ]
-    },
-    {
-      "key": "marketing_manager",
-      "name": "マーケティングマネージャー",
-      "area": ["marketing"],
+      "name": "SNSマーケティング戦略立案担当",
+      "areas": ["marketing", "sns"],
       "role": "pm",
       "title": "section_manager",
-      "source": "career_change"
+      "source": "career_change",
+      "gender": "male",
+      "age": 38,
+      "tenure_years": 5
     },
     {
-      "key": "sns_manager",
-      "name": "SNSマーケティング責任者",
-      "area": ["marketing", "sns"],
-      "role": "pm",
+      "name": "TikTokコンテンツクリエイター",
+      "areas": ["marketing", "sns", "video_production"],
+      "role": null,
+      "title": null,
+      "source": "fresh_graduate",
+      "gender": "female",
+      "age": 23,
+      "tenure_years": 1
+    },
+    {
+      "name": "Instagram運用リード",
+      "areas": ["marketing", "sns", "design"],
+      "role": null,
       "title": "leader",
-      "source": "career_change"
+      "source": "career_change",
+      "gender": "female",
+      "age": 29,
+      "tenure_years": 3
     },
     {
-      "key": "sns_specialist",
-      "name": "SNS運用担当（コンテンツ企画）",
-      "area": ["marketing", "sns"],
+      "name": "SNS広告運用スペシャリスト",
+      "areas": ["marketing", "digital_marketing"],
       "role": null,
       "title": null,
-      "source": "career_change"
+      "source": "career_change",
+      "gender": "male",
+      "age": 31,
+      "tenure_years": 4
     },
     {
-      "key": "social_media_junior",
-      "name": "SNS広報（新卒・未経験）",
-      "area": ["marketing", "sns"],
+      "name": "Twitter(X)公式中の人",
+      "areas": ["marketing", "sns", "pr"],
       "role": null,
       "title": null,
-      "source": "fresh_graduate"
+      "source": "fresh_graduate",
+      "gender": "female",
+      "age": 24,
+      "tenure_years": 2
+    },
+    {
+      "name": "SNSコミュニティマネージャー",
+      "areas": ["marketing", "sns", "customer_success"],
+      "role": null,
+      "title": null,
+      "source": "career_change",
+      "gender": "female",
+      "age": 27,
+      "tenure_years": 2
+    },
+    {
+      "name": "動画SNSエディター",
+      "areas": ["marketing", "video_production"],
+      "role": null,
+      "title": null,
+      "source": "fresh_graduate",
+      "gender": "male",
+      "age": 22,
+      "tenure_years": 1
+    },
+    {
+      "name": "ソーシャルリスニング分析官",
+      "areas": ["marketing", "data_analysis"],
+      "role": null,
+      "title": null,
+      "source": "career_change",
+      "gender": "female",
+      "age": 33,
+      "tenure_years": 6
+    },
+    {
+      "name": "インフルエンサーマーケティング担当",
+      "areas": ["marketing", "sns", "pr"],
+      "role": "pm",
+      "title": null,
+      "source": "career_change",
+      "gender": "female",
+      "age": 28,
+      "tenure_years": 3
+    },
+    {
+      "name": "SNSブランディング責任者",
+      "areas": ["marketing", "pr"],
+      "role": null,
+      "title": "department_head",
+      "source": "career_change",
+      "gender": "male",
+      "age": 45,
+      "tenure_years": 12
+    },
+    {
+      "name": "YouTubeチャンネル運用担当",
+      "areas": ["marketing", "sns", "video_production"],
+      "role": null,
+      "title": null,
+      "source": "fresh_graduate",
+      "gender": "male",
+      "age": 25,
+      "tenure_years": 3
+    },
+    {
+      "name": "SNSクリエイティブディレクター",
+      "areas": ["marketing", "design"],
+      "role": null,
+      "title": "chief",
+      "source": "career_change",
+      "gender": "female",
+      "age": 35,
+      "tenure_years": 7
+    },
+    {
+      "name": "SNSライター",
+      "areas": ["marketing", "writing_editing"],
+      "role": null,
+      "title": null,
+      "source": "fresh_graduate",
+      "gender": "female",
+      "age": 23,
+      "tenure_years": 1
+    },
+    {
+      "name": "SNS広報アシスタント",
+      "areas": ["marketing", "pr"],
+      "role": null,
+      "title": null,
+      "source": "fresh_graduate",
+      "gender": "female",
+      "age": 22,
+      "tenure_years": 1
+    },
+    {
+      "name": "カスタマーサポート(SNS窓口)",
+      "areas": ["customer_support", "sns"],
+      "role": null,
+      "title": null,
+      "source": "career_change",
+      "gender": "female",
+      "age": 26,
+      "tenure_years": 2
+    },
+    {
+      "name": "SNSキャンペーン企画担当",
+      "areas": ["marketing", "sns"],
+      "role": "pm",
+      "title": null,
+      "source": "career_change",
+      "gender": "male",
+      "age": 30,
+      "tenure_years": 4
+    },
+    {
+      "name": "ショート動画プランナー",
+      "areas": ["marketing", "sns", "video_production"],
+      "role": null,
+      "title": null,
+      "source": "fresh_graduate",
+      "gender": "female",
+      "age": 24,
+      "tenure_years": 2
+    },
+    {
+      "name": "SNSデータサイエンティスト",
+      "areas": ["data_analysis", "marketing"],
+      "role": null,
+      "title": null,
+      "source": "career_change",
+      "gender": "male",
+      "age": 29,
+      "tenure_years": 3
+    },
+    {
+      "name": "グローバルSNS運用担当",
+      "areas": ["marketing", "sns"],
+      "role": null,
+      "title": null,
+      "source": "career_change",
+      "gender": "female",
+      "age": 27,
+      "tenure_years": 2
+    },
+    {
+      "name": "SNSデザイン制作担当",
+      "areas": ["design", "sns"],
+      "role": null,
+      "title": null,
+      "source": "fresh_graduate",
+      "gender": "female",
+      "age": 25,
+      "tenure_years": 3
+    },
+    {
+      "name": "SNSリスクマネジメント担当",
+      "areas": ["corporate", "pr"],
+      "role": null,
+      "title": "leader",
+      "source": "career_change",
+      "gender": "male",
+      "age": 42,
+      "tenure_years": 8
+    },
+    {
+      "name": "SNSグロースハッカー",
+      "areas": ["marketing", "data_analysis"],
+      "role": null,
+      "title": null,
+      "source": "career_change",
+      "gender": "male",
+      "age": 28,
+      "tenure_years": 3
+    },
+    {
+      "name": "オウンドメディア・SNS連携担当",
+      "areas": ["marketing", "content_marketing"],
+      "role": null,
+      "title": null,
+      "source": "fresh_graduate",
+      "gender": "female",
+      "age": 24,
+      "tenure_years": 2
+    },
+    {
+      "name": "SNS専属カメラマン",
+      "areas": ["design", "sns"],
+      "role": null,
+      "title": null,
+      "source": "career_change",
+      "gender": "male",
+      "age": 32,
+      "tenure_years": 5
+    },
+    {
+      "name": "SNSトレンドリサーチャー",
+      "areas": ["marketing", "research"],
+      "role": null,
+      "title": null,
+      "source": "fresh_graduate",
+      "gender": "female",
+      "age": 23,
+      "tenure_years": 1
+    },
+    {
+      "name": "SNS広告クリエイティブ制作",
+      "areas": ["marketing", "design"],
+      "role": null,
+      "title": null,
+      "source": "fresh_graduate",
+      "gender": "female",
+      "age": 25,
+      "tenure_years": 3
+    },
+    {
+      "name": "SNSインサイドセールス",
+      "areas": ["sales", "sns"],
+      "role": null,
+      "title": null,
+      "source": "career_change",
+      "gender": "male",
+      "age": 26,
+      "tenure_years": 1
+    },
+    {
+      "name": "SNSアライアンス担当",
+      "areas": ["planning", "alliance"],
+      "role": null,
+      "title": null,
+      "source": "career_change",
+      "gender": "male",
+      "age": 34,
+      "tenure_years": 4
+    },
+    {
+      "name": "SNS・PR戦略室長",
+      "areas": ["marketing", "pr"],
+      "role": "pm",
+      "title": "department_head",
+      "source": "entrepreneur",
+      "gender": "female",
+      "age": 49,
+      "tenure_years": 15
+    },
+    {
+      "name": "SNSコンテンツディレクター",
+      "areas": ["marketing", "content_marketing"],
+      "role": null,
+      "title": null,
+      "source": "career_change",
+      "gender": "female",
+      "age": 30,
+      "tenure_years": 4
     }
   ]
 }

@@ -1,60 +1,304 @@
 {
   "patterns": [
     {
-      "key": "store_operation_manager",
-      "name": "店舗運営マネージャー",
-      "area": ["store_operation"],
+      "name": "店舗スタッフ",
+      "areas": ["store_operation"],
       "role": null,
-      "title": "section_manager",
-      "source": "career_change"
+      "title": null,
+      "source": "fresh_graduate",
+      "gender": "female",
+      "age": 23,
+      "tenure_years": 1
     },
     {
-      "key": "store_operation_lead",
-      "name": "店舗運営リーダー",
-      "area": ["store_operation"],
+      "name": "店舗運営マネージャー",
+      "areas": ["store_operation"],
+      "role": null,
+      "title": "section_manager",
+      "source": "career_change",
+      "gender": "female",
+      "age": 38,
+      "tenure_years": 8
+    },
+    {
+      "name": "店舗スタッフ",
+      "areas": ["store_operation"],
+      "role": null,
+      "title": null,
+      "source": "career_change",
+      "gender": "female",
+      "age": 29,
+      "tenure_years": 3
+    },
+    {
+      "name": "店舗スタッフ",
+      "areas": ["store_operation"],
+      "role": null,
+      "title": null,
+      "source": "fresh_graduate",
+      "gender": "male",
+      "age": 22,
+      "tenure_years": 0
+    },
+    {
+      "name": "店舗スタッフ",
+      "areas": ["store_operation"],
+      "role": null,
+      "title": null,
+      "source": "career_change",
+      "gender": "female",
+      "age": 31,
+      "tenure_years": 4
+    },
+    {
+      "name": "店舗リーダー",
+      "areas": ["store_operation"],
       "role": null,
       "title": "leader",
-      "source": "career_change"
+      "source": "career_change",
+      "gender": "female",
+      "age": 34,
+      "tenure_years": 6
     },
     {
-      "key": "store_operation_staff",
       "name": "店舗スタッフ",
-      "area": ["store_operation"],
+      "areas": ["store_operation"],
       "role": null,
       "title": null,
-      "source": "fresh_graduate"
+      "source": "fresh_graduate",
+      "gender": "female",
+      "age": 25,
+      "tenure_years": 3
     },
     {
-      "key": "factory_manager",
+      "name": "店舗スタッフ",
+      "areas": ["store_operation"],
+      "role": null,
+      "title": null,
+      "source": "career_change",
+      "gender": "male",
+      "age": 27,
+      "tenure_years": 2
+    },
+    {
+      "name": "店舗スタッフ",
+      "areas": ["store_operation"],
+      "role": null,
+      "title": null,
+      "source": "career_change",
+      "gender": "female",
+      "age": 42,
+      "tenure_years": 10
+    },
+    {
+      "name": "店舗スタッフ",
+      "areas": ["store_operation"],
+      "role": null,
+      "title": null,
+      "source": "fresh_graduate",
+      "gender": "female",
+      "age": 24,
+      "tenure_years": 2
+    },
+    {
+      "name": "店舗スタッフ",
+      "areas": ["store_operation"],
+      "role": null,
+      "title": null,
+      "source": "career_change",
+      "gender": "male",
+      "age": 33,
+      "tenure_years": 5
+    },
+    {
+      "name": "工場スタッフ",
+      "areas": ["factory"],
+      "role": null,
+      "title": null,
+      "source": "fresh_graduate",
+      "gender": "male",
+      "age": 24,
+      "tenure_years": 2
+    },
+    {
       "name": "工場長",
-      "area": ["factory"],
+      "areas": ["factory"],
       "role": null,
       "title": "department_head",
-      "source": "career_change"
+      "source": "career_change",
+      "gender": "male",
+      "age": 48,
+      "tenure_years": 15
     },
     {
-      "key": "factory_staff",
       "name": "工場スタッフ",
-      "area": ["factory"],
+      "areas": ["factory"],
       "role": null,
       "title": null,
-      "source": "fresh_graduate"
+      "source": "career_change",
+      "gender": "male",
+      "age": 30,
+      "tenure_years": 4
     },
     {
-      "key": "logistics_manager",
+      "name": "工場スタッフ",
+      "areas": ["factory"],
+      "role": null,
+      "title": null,
+      "source": "career_change",
+      "gender": "female",
+      "age": 26,
+      "tenure_years": 3
+    },
+    {
+      "name": "工場班長",
+      "areas": ["factory"],
+      "role": null,
+      "title": "supervisor",
+      "source": "career_change",
+      "gender": "male",
+      "age": 35,
+      "tenure_years": 7
+    },
+    {
+      "name": "工場スタッフ",
+      "areas": ["factory"],
+      "role": null,
+      "title": null,
+      "source": "fresh_graduate",
+      "gender": "male",
+      "age": 28,
+      "tenure_years": 6
+    },
+    {
+      "name": "工場スタッフ",
+      "areas": ["factory"],
+      "role": null,
+      "title": null,
+      "source": "career_change",
+      "gender": "male",
+      "age": 32,
+      "tenure_years": 2
+    },
+    {
+      "name": "工場スタッフ",
+      "areas": ["factory"],
+      "role": null,
+      "title": null,
+      "source": "career_change",
+      "gender": "female",
+      "age": 29,
+      "tenure_years": 5
+    },
+    {
+      "name": "工場スタッフ",
+      "areas": ["factory"],
+      "role": null,
+      "title": null,
+      "source": "entrepreneur",
+      "gender": "male",
+      "age": 45,
+      "tenure_years": 20
+    },
+    {
+      "name": "物流スタッフ",
+      "areas": ["logistics"],
+      "role": null,
+      "title": null,
+      "source": "fresh_graduate",
+      "gender": "male",
+      "age": 23,
+      "tenure_years": 1
+    },
+    {
       "name": "物流マネージャー",
-      "area": ["logistics"],
+      "areas": ["logistics"],
       "role": null,
       "title": "section_manager",
-      "source": "career_change"
+      "source": "career_change",
+      "gender": "male",
+      "age": 41,
+      "tenure_years": 9
     },
     {
-      "key": "logistics_staff",
       "name": "物流スタッフ",
-      "area": ["logistics"],
+      "areas": ["logistics"],
       "role": null,
       "title": null,
-      "source": "career_change"
+      "source": "career_change",
+      "gender": "male",
+      "age": 36,
+      "tenure_years": 6
+    },
+    {
+      "name": "物流リーダー",
+      "areas": ["logistics"],
+      "role": null,
+      "title": "leader",
+      "source": "career_change",
+      "gender": "female",
+      "age": 30,
+      "tenure_years": 4
+    },
+    {
+      "name": "物流スタッフ",
+      "areas": ["logistics"],
+      "role": null,
+      "title": null,
+      "source": "fresh_graduate",
+      "gender": "male",
+      "age": 26,
+      "tenure_years": 4
+    },
+    {
+      "name": "物流スタッフ",
+      "areas": ["logistics"],
+      "role": null,
+      "title": null,
+      "source": "career_change",
+      "gender": "male",
+      "age": 28,
+      "tenure_years": 2
+    },
+    {
+      "name": "物流スタッフ",
+      "areas": ["logistics"],
+      "role": null,
+      "title": null,
+      "source": "career_change",
+      "gender": "male",
+      "age": 33,
+      "tenure_years": 5
+    },
+    {
+      "name": "物流スタッフ",
+      "areas": ["logistics"],
+      "role": null,
+      "title": null,
+      "source": "fresh_graduate",
+      "gender": "female",
+      "age": 22,
+      "tenure_years": 0
+    },
+    {
+      "name": "物流スタッフ",
+      "areas": ["logistics"],
+      "role": null,
+      "title": null,
+      "source": "career_change",
+      "gender": "male",
+      "age": 31,
+      "tenure_years": 3
+    },
+    {
+      "name": "店舗スタッフ",
+      "areas": ["store_operation"],
+      "role": null,
+      "title": null,
+      "source": "career_change",
+      "gender": "female",
+      "age": 27,
+      "tenure_years": 1
     }
   ]
 }

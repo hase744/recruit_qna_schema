@@ -9,7 +9,7 @@
     },
     "seed_strategy": {
       "type": "by_company",
-      "path": "seeds/answers/by_company"
+      "path": "seeds/organizations"
     }
   },
   {
@@ -22,7 +22,7 @@
     },
     "seed_strategy": {
       "type": "by_company",
-      "path": "seeds/answers/by_company"
+      "path": "seeds/organizations"
     }
   },
   {
@@ -76,7 +76,7 @@
     },
     "seed_strategy": {
       "type": "by_company",
-      "path": "seeds/answers/by_company"
+      "path": "seeds/organizations"
     }
   },
   {
@@ -161,7 +161,7 @@
     },
     "seed_strategy": {
       "type": "by_company",
-      "path": "seeds/answers/by_company"
+      "path": "seeds/organizations"
     }
   },
   {
