@@ -110,7 +110,7 @@
     },
     {
       "key": "management",
-      "name": "経営",
+      "name": "マネジメント",
       "is_active": true,
       "children": [
         { "key": "executive", "name": "役員", "is_active": true },
