@@ -15,6 +15,7 @@
   },
   {
     "id": "theme_leadership",
+    "label": "経営陣の想い",
     "title": "経営陣の想いを届ける",
     "description": "創業ストーリーやビジョンで企業の本気度を伝えたい企業向け",
     "type": "appeal",
@@ -29,6 +30,7 @@
   },
   {
     "id": "theme_workstyle",
+    "label": "働き方",
     "title": "働き方をアピール",
     "description": "リモートワークや柔軟な働き方を強みにしたい企業向け",
     "type": "appeal",
@@ -44,6 +46,7 @@
   },
   {
     "id": "theme_culture",
+    "label": "カルチャー",
     "title": "カルチャーをアピール",
     "description": "社風や人間関係の良さを伝えたい企業向け",
     "type": "appeal",
@@ -59,6 +62,7 @@
   },
   {
     "id": "theme_career",
+    "label": "成長環境",
     "title": "成長環境をアピール",
     "description": "キャリアパスや教育制度を強みにしたい企業向け",
     "type": "appeal",
@@ -74,6 +78,7 @@
   },
   {
     "id": "theme_real_voice",
+    "label": "リアルな声",
     "title": "リアルな声を届ける",
     "description": "入社前後のギャップや失敗談など、等身大の社員の声を届けたい企業向け",
     "type": "appeal",
@@ -88,6 +93,7 @@
   },
   {
     "id": "theme_benefits",
+    "label": "待遇・制度",
     "title": "待遇・制度をアピール",
     "description": "福利厚生や評価制度の充実を伝えたい企業向け",
     "type": "appeal",
@@ -114,6 +120,7 @@
   },
   {
     "id": "theme_new_grad",
+    "label": "新卒者へ",
     "title": "新卒採用向け",
     "description": "新卒採用に注力している企業向け",
     "type": "appeal",
