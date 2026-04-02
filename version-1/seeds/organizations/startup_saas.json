@@ -3,7 +3,7 @@
   "label": "SaaSスタートアップ",
   "companies": [
     {
-      "key": "tonari_hr",
+      "key": "tonari-hr",
       "name": "株式会社となり",
       "industry": "HR Tech",
       "size": "30",
@@ -415,7 +415,7 @@
       }
     },
     {
-      "key": "kanari_fintech",
+      "key": "kanari-fintech",
       "name": "株式会社Kanari",
       "industry": "FinTech",
       "size": "50",
@@ -935,7 +935,7 @@
       }
     },
     {
-      "key": "bright_edu",
+      "key": "bright-edu",
       "name": "株式会社Bright Path",
       "industry": "EdTech",
       "size": "25",
@@ -1336,7 +1336,7 @@
       }
     },
     {
-      "key": "vital_care",
+      "key": "vital-care",
       "name": "株式会社VitalCare",
       "industry": "HealthTech",
       "size": "40",
@@ -1821,8 +1821,8 @@
       }
     },
     {
-      "key": "nest_tech",
-      "name": "株式会社Nest Tech",
+      "key": "nest-tech",
+      "name": "株式会社NestTech",
       "industry": "PropTech",
       "size": "35",
       "company_profile": {

@@ -3,8 +3,8 @@
   "label": "受託開発・DXコンサル（拡張版）",
   "companies": [
     {
-      "key": "nexus_digital",
-      "name": "株式会社Nexus Digital",
+      "key": "nexus-digital",
+      "name": "株式会社NexusDigital",
       "industry": "DXコンサル・ハイエンド受託",
       "size": "60",
       "company_profile": {
@@ -555,8 +555,8 @@
       }
     },
     {
-      "key": "velocity_studio",
-      "name": "株式会社Velocity Studio",
+      "key": "velocity-studio",
+      "name": "株式会社VelocityStudio",
       "industry": "アジャイル受託・スタートアップ支援",
       "size": "25",
       "company_profile": {
@@ -902,7 +902,7 @@
     },
     {
       "key": "artisan_creative",
-      "name": "株式会社Artisan Creative",
+      "name": "株式会社ArtisanCreative",
       "industry": "デザイン・フロントエンド特化受託",
       "size": "30",
       "company_profile": {
@@ -1293,8 +1293,8 @@
       }
     },
     {
-      "key": "core_systems_tech",
-      "name": "株式会社Core Systems Tech",
+      "key": "core-systems-tech",
+      "name": "株式会社CoreSystemsTech",
       "industry": "エンタープライズ・モダンSler",
       "size": "70",
       "company_profile": {
@@ -1870,8 +1870,8 @@
       }
     },
     {
-      "key": "global_frontier_lab",
-      "name": "株式会社Global Frontier Lab",
+      "key": "global-frontier-lab",
+      "name": "株式会社GlobalFrontierLab",
       "industry": "先端技術R&D・ラボ開発",
       "size": "45",
       "company_profile": {

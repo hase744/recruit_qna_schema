@@ -3,7 +3,7 @@
   "label": "メディア系スタートアップ",
   "companies": [
     {
-      "key": "tech_wave_inc",
+      "key": "tech-wave-inc",
       "name": "株式会社TechWave",
       "industry": "テクノロジー・ビジネスメディア",
       "size": "45",
@@ -482,7 +482,7 @@
       }
     },
     {
-      "key": "z_vibe_media",
+      "key": "z-vibe-media",
       "name": "株式会社Z-Vibe",
       "industry": "Z世代向けショート動画メディア",
       "size": "30",
@@ -886,7 +886,7 @@
       }
     },
     {
-      "key": "eco_lifestyle_inc",
+      "key": "eco-lifestyle-inc",
       "name": "LifeCanvas株式会社",
       "industry": "ライフスタイル・趣味メディア",
       "size": "50",
@@ -1405,7 +1405,7 @@
       }
     },
     {
-      "key": "financial_insight_inc",
+      "key": "financial-insight-inc",
       "name": "フィナンシャルインサイト株式会社",
       "industry": "金融・経済・投資教育メディア",
       "size": "40",
@@ -1888,7 +1888,7 @@
       }
     },
     {
-      "key": "sonic_wave_network",
+      "key": "sonic-wave-network",
       "name": "AudioSpark株式会社",
       "industry": "音声・ポッドキャストメディア",
       "size": "35",
