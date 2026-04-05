@@ -1,10 +1,10 @@
 {
   "taxonomy": [
-    { "id": "student", "label": "学生" },
-    { "id": "employee", "label": "会社員" },
-    { "id": "self_employed", "label": "自営業" },
-    { "id": "freelance", "label": "フリーランス" },
-    { "id": "job_seeking", "label": "求職中" },
-    { "id": "other", "label": "その他" }
+    { "key": "student", "label": "学生" },
+    { "key": "employee", "label": "会社員" },
+    { "key": "self_employed", "label": "自営業" },
+    { "key": "freelance", "label": "フリーランス" },
+    { "key": "job_seeking", "label": "求職中" },
+    { "key": "other", "label": "その他" }
   ]
 }

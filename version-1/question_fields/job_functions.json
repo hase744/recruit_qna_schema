@@ -1,18 +1,18 @@
 {
   "taxonomy": [
-    { "id": "development", "label": "開発" },
-    { "id": "design", "label": "デザイン" },
-    { "id": "marketing", "label": "マーケティング" },
-    { "id": "sales", "label": "営業" },
-    { "id": "data", "label": "データ・アナリスト" },
-    { "id": "planning", "label": "企画・PM" },
-    { "id": "customer", "label": "カスタマーサクセス" },
-    { "id": "corporate", "label": "コーポレート（人事・経理・法務等）" },
-    { "id": "operations", "label": "オペレーション" },
-    { "id": "management", "label": "マネジメント" },
-    { "id": "sns", "label": "SNS・クリエイター" },
-    { "id": "video_production", "label": "動画制作" },
-    { "id": "writing_editing", "label": "ライティング・編集" },
-    { "id": "other", "label": "その他" }
+    { "key": "development", "label": "開発" },
+    { "key": "design", "label": "デザイン" },
+    { "key": "marketing", "label": "マーケティング" },
+    { "key": "sales", "label": "営業" },
+    { "key": "data", "label": "データ・アナリスト" },
+    { "key": "planning", "label": "企画・PM" },
+    { "key": "customer", "label": "カスタマーサクセス" },
+    { "key": "corporate", "label": "コーポレート（人事・経理・法務等）" },
+    { "key": "operations", "label": "オペレーション" },
+    { "key": "management", "label": "マネジメント" },
+    { "key": "sns", "label": "SNS・クリエイター" },
+    { "key": "video_production", "label": "動画制作" },
+    { "key": "writing_editing", "label": "ライティング・編集" },
+    { "key": "other", "label": "その他" }
   ]
 }

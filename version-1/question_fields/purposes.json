@@ -1,13 +1,13 @@
 {
   "taxonomy": [
-    { "id": "work_content", "label": "仕事内容を知りたい" },
-    { "id": "work_style", "label": "働き方を知りたい" },
-    { "id": "culture", "label": "カルチャーを知りたい" },
-    { "id": "career", "label": "キャリアパスを知りたい" },
-    { "id": "benefits", "label": "待遇・福利厚生を知りたい" },
-    { "id": "selection_process", "label": "選考について知りたい" },
-    { "id": "vision", "label": "会社のビジョンを知りたい" },
-    { "id": "joining_reason", "label": "入社理由を知りたい" },
-    { "id": "other", "label": "その他" }
+    { "key": "work_content", "label": "仕事内容を知りたい" },
+    { "key": "work_style", "label": "働き方を知りたい" },
+    { "key": "culture", "label": "カルチャーを知りたい" },
+    { "key": "career", "label": "キャリアパスを知りたい" },
+    { "key": "benefits", "label": "待遇・福利厚生を知りたい" },
+    { "key": "selection_process", "label": "選考について知りたい" },
+    { "key": "vision", "label": "会社のビジョンを知りたい" },
+    { "key": "joining_reason", "label": "入社理由を知りたい" },
+    { "key": "other", "label": "その他" }
   ]
 }

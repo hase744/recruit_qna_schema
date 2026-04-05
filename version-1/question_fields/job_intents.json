@@ -1,8 +1,8 @@
 {
   "taxonomy": [
-    { "id": "considering", "label": "就職・転職の活動の開始自体を検討している" },
-    { "id": "researching", "label": "就活・転職の意思はあるが、志望業界や職種は定まっていない" },
-    { "id": "searching", "label": "志望業界や職種は決めて求人を探しているが、まだ応募はしていない" },
-    { "id": "applying", "label": "既に応募している" }
+    { "key": "considering", "label": "就職・転職の活動の開始自体を検討している" },
+    { "key": "researching", "label": "就活・転職の意思はあるが、志望業界や職種は定まっていない" },
+    { "key": "searching", "label": "志望業界や職種は決めて求人を探しているが、まだ応募はしていない" },
+    { "key": "applying", "label": "既に応募している" }
   ]
 }
