@@ -22,7 +22,6 @@
     "sort_order": 7,
     "question_ids": [
       "q_founding_reason",
-      "q_founding_story",
       "q_company_vision",
       "q_what_kind_of_people",
       "q_company_challenge"

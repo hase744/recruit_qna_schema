@@ -34,5 +34,21 @@
   {
     "id": "message",
     "label": "メッセージ"
+  },
+  {
+    "id": "vision",
+    "label": "ビジョン"
+  },
+  {
+    "id": "fit",
+    "label": "人物像"
+  },
+  { 
+    "id": "onboarding", 
+    "label": "オンボーディング" 
+  },
+  { 
+    "id": "business_overview", 
+    "label": "事業" 
   }
 ]

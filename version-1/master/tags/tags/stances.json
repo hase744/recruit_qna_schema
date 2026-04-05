@@ -1,0 +1,10 @@
+[
+  {
+    "id": "official",
+    "label": "公式"
+  },
+  {
+    "id": "personal",
+    "label": "個人"
+  }
+]

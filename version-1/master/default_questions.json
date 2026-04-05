@@ -496,5 +496,81 @@
       "target_role": ["common"],
       "stage": ["pre_application"]
     }
+  },
+  {
+    "id": "q_cross_team_work",
+    "text": "他部署との関わりはどのくらいありますか？",
+    "tags": {
+      "topic": ["work_content"],
+      "target_role": ["common"],
+      "stage": ["pre_apply"]
+    },
+    "answer_type": "personal"
+  },
+  {
+    "id": "q_decision_making",
+    "text": "仕事の進め方や意思決定にどのくらい裁量がありますか？",
+    "tags": {
+      "topic": ["work_content"],
+      "target_role": ["common"],
+      "stage": ["pre_apply"]
+    },
+    "answer_type": "personal"
+  },
+  {
+    "id": "q_customer_contact",
+    "text": "ユーザーや顧客と直接関わる機会はありますか？",
+    "tags": {
+      "topic": ["work_content"],
+      "target_role": ["common"],
+      "stage": ["pre_apply"]
+    },
+    "answer_type": "personal"
+  },
+  {
+    "id": "q_passion_for_product",
+    "text": "今の事業やプロダクトにどんな想いで向き合っていますか？",
+    "tags": {
+      "topic": ["business_overview"],
+      "target_role": ["common"],
+      "stage": ["pre_apply"]
+    },
+    "answer_type": "personal"
+  },
+  {
+    "id": "q_sales_rewarding",
+    "text": "営業として一番うれしかった瞬間は？",
+    "tags": {
+      "topic": ["rewarding"],
+      "target_role": ["sales"],
+      "stage": ["pre_apply"]
+    }
+  },
+  {
+    "id": "q_design_process",
+    "text": "デザインの意思決定にどのくらい関われますか？",
+    "tags": {
+      "topic": ["work_content"],
+      "target_role": ["designer"],
+      "stage": ["pre_apply"]
+    }
+  },
+  {
+    "id": "q_cs_growth",
+    "text": "カスタマーサクセスとしてのキャリアはどう描けますか？",
+    "tags": {
+      "topic": ["career"],
+      "target_role": ["cs"],
+      "stage": ["pre_apply"]
+    }
+  },
+  {
+    "id": "q_selection_flow_experience",
+    "text": "選考はどんな雰囲気でしたか？実際に受けてみた感想を教えてください",
+    "tags": {
+      "topic": ["selection_process"],
+      "target_role": ["common"],
+      "stage": ["during_selection"]
+    }
   }
 ]
